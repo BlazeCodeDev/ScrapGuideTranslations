@@ -1,7 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     // MAIN
     <string name="EMAIL_TITLE">Bug Report</string>
-    <string name="SEND_EMAIL">Send E-Mail using &#8230;</string>
+    <string name="SEND_EMAIL">Send E-Mail using …</string>
     <string name="NO_EMAIL_CLIENT">No E-Mail Client found</string>
     <string name="title_home">Home</string>
     <string name="title_settings">Settings</string>
@@ -45,7 +46,7 @@
     <string name="later">Later</string>
     <string name="app_version">App Version</string>
     <string name="data_for_sm_version">Data for ScrapMechanic Version</string>
-    <string name="changing_lang">Changing Language &#8230;</string>
+    <string name="changing_lang">Changing Language …</string>
     <string name="rearrange">Rearrange</string>
     <string name="restore_default">Are you sure that you want to restore the default order?</string>
     <string name="no_internet_connection">No Internet Connection</string>
@@ -81,7 +82,6 @@
     <string name="settings_data_loading_wifi">Only WiFi</string>
     <string name="settings_data_loading_always">Always</string>
     <string name="settings_vibration_feedback">Vibration Feedback</string>
-
     <string name="settings_category_more">More</string>
     <string name="settings_usage_data">Send Crash, Usage Data</string>
     <string name="settings_usage_data_summary">Send anonymous data about occurring crashes and usage to improve the app.</string>
@@ -105,14 +105,12 @@
     <string name="creatures_farmbot">Farmbot</string>
     <string name="creature_woc">Woc</string>
     <string name="creature_glowb">Glowb</string>
-
     <string name="creatures_totebot_description">The Totebot takes 3 hits with the sledgehammer to destroy. They will always spawn during raids.</string>
     <string name="creatures_haybot_description">Haybots are most commonly found inside of ruins. They take 5 hits with the sledgehammer or 4 hits with the spudgun to destroy.</string>
     <string name="creatures_tapebot_description">The blue Tapebot deals 55 damage and the red Tapebot, which can be found in the top floor of the warehouse and will shoot explosives dealing 62 damage.</string>
     <string name="creatures_farmbot_description">The Farmbot can be found in the autumn forest, burned forest, forest and ruin city. Farmbots are immune to the Sledgehammer and take 58 hits with the Spudgun or 25 with the Spud Shotgun.</string>
     <string name="creatures_woc_description">Wocs can be used to produce Woc milk. If you place 3 corn next to a Woc, milk will appear. You can do this as much as you want. They must be fed at least once per 30 days or they will despawn.</string>
     <string name="creatures_glowb_description">The Glowb is a small animal which spawns underwater at night. You can take them out of the water and feed them 15 Cardboard Blocks and they will drop 1 Glow. </string>
-
     <string name="creatures_health">Health</string>
     <string name="creatures_damage">Damage</string>
     <string name="creatures_drops">Drops</string>
@@ -161,7 +159,6 @@
     <string name="property_friction">Friction</string>;
     <string name="property_buoyancy">Buoyancy</string>
     <string name="property_flammable">Flammable</string>
-
     <string name="filter_category">Category</string>
     <string name="none">None</string>
     <string name="tool">Tool</string>
@@ -181,7 +178,6 @@
     <string name="feed_to_wocs">Feed it to Wocs to obtain milk.</string>
     <string name="get_at_packing_station">Get this at the Packing Station.</string>
     <string name="is_near_structures_that_need_power">Can always be found in the vicinity of the structures that need power.</string>
-
     <string name="scrap_metal_origin">Receive it by refining farmbot parts.</string>
     <string name="scrap_stone_origin">Receive it by drilling stones. They are mostly found in the forest.</string>
     <string name="scrap_wood_origin">Receive it by cutting small trees or destroying farmer shacks.</string>
@@ -195,7 +191,6 @@
     <string name="crude_oil_origin">Receive it by collecting the oil bubbles underwater.</string>
     <string name="beeswax_origin">Receive it by collecting bee hives, which are most commonly of the side of a rock. You can destroy it with a hammer, the bees won\'t hurt you.</string>
     <string name="component_kit_origin">Component Kits are dropped by Damaged Crates, Haybots, Tapebots, and Farmbots. They can also be found in Ruin Chests.</string>
-
     <string name="damage_sledgehammer">Damage: 5</string>
     <string name="damage_spudgun">Damage: 7</string>
     <string name="damage_spud_shotgun">Damage: 16</string>
@@ -208,7 +203,9 @@
     <string name="haymaze">Haymaze</string>
     <string name="haymaze_description">A maze made out of hay bales. There is nothing special in there.</string>
     <string name="packing_station">Packing Station</string>
-    <string name="packing_station_description">The billboard shows you how to use it. You will need a vacuum pump attached to a large chest on your vehicle. Connect a button to the vacuum pump and fill the chest with the item you want to give to the packing station. A bar at the station will tell you how much to put in the plant to receive one crate of the item.\n\nThere are two types of packing stations. One takes vegetables and one fruit.\nTake the crates to a hideout.</string>
+    <string name="packing_station_description">The billboard shows you how to use it. You will need a vacuum pump attached to a large chest on your vehicle. Connect a button to the vacuum pump and fill the chest with the item you want to give to the packing station. A bar at the station will tell you how much to put in the plant to receive one crate of the item.
+\nThere are two types of packing stations. One takes vegetables and one fruit.
+\nTake the crates to a hideout.</string>
     <string name="ruin">Ruin</string>
     <string name="ruin_description">There are multiple variations of ruins. They usually contain damaged crates and ruin chests. Haybots spawn inside or near ruins as well as piles of hay. Hit them with the sledgehammer or shoot them with the spudgun to reveal a damaged crate. Not every pile of hay has one underneath it.</string>
     <string name="farmer_shack">Farmer Shack</string>
@@ -250,16 +247,20 @@
     <string name="item_drivers_saddle_upgrades">Lvl 1: Connections 6\nLvl 2: Connections 8\nLvl 3: Connections 12\nLvl 4: Connections 16\nLvl 5: Connections 20 / Settings unlocked</string>
     <string name="item_saddle_upgrades">Lvl 1: Connections 2\nLvl 2: Connections 4\nLvl 3: Connections 6\nLvl 4: Connections 8\nLvl 5: Connections 10</string>
     <string name="item_thruster_upgrades">Lvl 1: Thrust 2, Efficiency 1\nLvl 2: Thrust 3, Efficiency 2\nLvl 3: Thrust 4, Efficiency 3\nLvl 4: Thrust 5, Efficiency 4\nLvl 5: Thrust 6, Efficiency 5</string>
-
     <string name="item_banana_status_info">Growth Time Unfertilized: 21h\nGrowth Time Fertilized: 10h\nHunger: +40\nThirst: +15</string>
-    <string name="item_blueberry_status_info">Growth Time Unfertilized: 21h Growth Time Fertilized: 10h Hunger: +30 Thirst: +30</string>
+    <string name="item_blueberry_status_info">Growth Time Unfertilized: 21h
+\nGrowth Time Fertilized: 10h
+\nHunger: +30
+\nThirst: +30</string>
     <string name="item_pineapple_status_info">Growth Time Unfertilized: 42h\nGrowth Time Fertilized: 20h\nHunger: +20\nThirst: +50</string>
-    <string name="item_carrot_status_info">Growth Time Unfertilized: 21h Growth Time Fertilized: 10h Hunger: +30 Thirst: +10</string>
+    <string name="item_carrot_status_info">Growth Time Unfertilized: 21h
+\nGrowth Time Fertilized: 10h
+\nHunger: +30
+\nThirst: +10</string>
     <string name="item_redbeet_status_info">Growth Time Unfertilized: 21h\nGrowth Time Fertilized: 10h\nHunger: +20\nThirst: +20</string>
     <string name="item_tomato_status_info">Growth Time Unfertilized: 21h\nGrowth Time Fertilized: 10h\nHunger: +10\nThirst: +30</string>
     <string name="item_broccoli_status_info">Growth Time Unfertilized: 42h\nGrowth Time Fertilized: 20h\nHunger: +50\nThirst: +20</string>
     <string name="item_potato_status_info">Growth Time Unfertilized: 21h\nGrowth Time Fertilized: 10h</string>
-
     <string name="item_woc_milk_status_info">Hunger: +10\nThirst: +40</string>
     <string name="item_sunshake_status_info">Health: +10\nHunger: +25\nThirst: +35</string>
     <string name="item_pizza_burger_info">Health: +100\nHunger: +100\nThirst: +100</string>
@@ -268,95 +269,81 @@
     //CLOTHING
     <string name="clothing_owned">Owned</string>
     <string name="clothing_not_owned">Not Owned</string>
-
     <string name="clothing_automotive_backpack">Automotive Backpack</string>
     <string name="clothing_automotive_gloves">Automotive Gloves</string>
     <string name="clothing_automotive_hat">Automotive Hat</string>
     <string name="clothing_automotive_jacket">Automotive Jacket</string>
     <string name="clothing_automotive_pants">Automotive Pants</string>
     <string name="clothing_automotive_shoes">Automotive Shoes</string>
-
     <string name="clothing_delivery_backpack">Delivery Backpack</string>
     <string name="clothing_delivery_gloves">Delivery Gloves</string>
     <string name="clothing_delivery_hat">Delivery Hat</string>
     <string name="clothing_delivery_jacket">Delivery Jacket</string>
     <string name="clothing_delivery_pants">Delivery Pants</string>
     <string name="clothing_delivery_shoes">Delivery Shoes</string>
-
     <string name="clothing_demolition_backpack">Demolition Backpack</string>
     <string name="clothing_demolition_gloves">Demolition Gloves</string>
     <string name="clothing_demolition_hat">Demolition Hat</string>
     <string name="clothing_demolition_jacket">Demolition Jacket</string>
     <string name="clothing_demolition_pants">Demolition Pants</string>
     <string name="clothing_demolition_shoes">Demolition Shoes</string>
-
     <string name="clothing_lumberjack_backpack">Lumberjack Backpack</string>
     <string name="clothing_lumberjack_gloves">Lumberjack Gloves</string>
     <string name="clothing_lumberjack_hat">Lumberjack Hat</string>
     <string name="clothing_lumberjack_jacket">Lumberjack Jacket</string>
     <string name="clothing_lumberjack_pants">Lumberjack Pants</string>
     <string name="clothing_lumberjack_shoes">Lumberjack Shoes</string>
-
     <string name="clothing_engineer_backpack">Engineer Backpack</string>
     <string name="clothing_engineer_gloves">Engineer Gloves</string>
     <string name="clothing_engineer_hat">Engineer Hat</string>
     <string name="clothing_engineer_jacket">Engineer Jacket</string>
     <string name="clothing_engineer_pants">Engineer Pants</string>
     <string name="clothing_engineer_shoes">Engineer Shoes</string>
-
     <string name="clothing_painter_backpack">Painter Backpack</string>
     <string name="clothing_painter_shoes">Painter Shoes</string>
     <string name="clothing_painter_gloves">Painter Gloves</string>
     <string name="clothing_painter_hat">Painter Hat</string>
     <string name="clothing_painter_jacket">Painter Jacket</string>
     <string name="clothing_painter_pants">Painter Pants</string>
-
     <string name="clothing_golf_backpack">Golf Backpack</string>
     <string name="clothing_golf_shoes">Golf Shoes</string>
     <string name="clothing_golf_gloves">Golf Gloves</string>
     <string name="clothing_golf_hat">Golf Hat</string>
     <string name="clothing_golf_jacket">Golf Jacket</string>
     <string name="clothing_golf_pants">Golf Pants</string>
-
     <string name="clothing_farmhand_shoes">Farmhand Shoes</string>
     <string name="clothing_farmhand_gloves">Farmhand Gloves</string>
     <string name="clothing_farmhand_hat">Farmhand Hat</string>
     <string name="clothing_farmhand_jacket">Farmhand Jacket</string>
     <string name="clothing_farmhand_pants">Farmhand Pants</string>
-
     <string name="clothing_technician_backpack">Technician Backpack</string>
     <string name="clothing_technician_gloves">Technician Gloves</string>
     <string name="clothing_technician_hat">Technician Hat</string>
     <string name="clothing_technician_jacket">Technician Jacket</string>
     <string name="clothing_technician_pants">Technician Pants</string>
     <string name="clothing_technician_shoes">Technician Shoes</string>
-
     <string name="clothing_applicator_backpack">Applicator Backpack</string>
     <string name="clothing_applicator_gloves">Applicator Gloves</string>
     <string name="clothing_applicator_hat">Applicator Hat</string>
     <string name="clothing_applicator_jacket">Applicator Jacket</string>
     <string name="clothing_applicator_pants">Applicator Pants</string>
     <string name="clothing_applicator_shoes">Applicator Shoes</string>
-
     <string name="clothing_farmer_gloves">Farmer Gloves</string>
     <string name="clothing_farmer_hat">Farmer Hat</string>
     <string name="clothing_farmer_jacket">Farmer Jacket</string>
     <string name="clothing_farmer_pants">Farmer Pants</string>
     <string name="clothing_farmer_shoes">Farmer Shoes</string>
-
     <string name="clothing_crash_mechanic_gloves">Crash Mechanic Gloves</string>
     <string name="clothing_crash_mechanic_backpack">Crash Mechanic Backpack</string>
     <string name="clothing_crash_mechanic_jacket">Crash Mechanic Jacket</string>
     <string name="clothing_crash_mechanic_pants">Crash Mechanic Pants</string>
     <string name="clothing_crash_mechanic_shoes">Crash Mechanic Shoes</string>
-
     <string name="clothing_stuntman_gloves">Stuntman Gloves</string>
     <string name="clothing_stuntman_hat">Stuntman Helmet</string>
     <string name="clothing_stuntman_backpack">Stuntman Backpack</string>
     <string name="clothing_stuntman_jacket">Stuntman Jacket</string>
     <string name="clothing_stuntman_pants">Stuntman Pants</string>
     <string name="clothing_stuntman_shoes">Stuntman Shoes</string>
-
     <string name="clothing_connection_tshirt">Connection T-Shirt</string>
     <string name="clothing_bearing_tshirt">Bearing T-Shirt</string>
     <string name="clothing_tomato_tshirt">Tomato T-Shirt</string>
@@ -388,7 +375,6 @@
     <string name="item_scrap_stone">Scrap Stone</string>
     <string name="item_scrap_metal">Scrap Metal</string>
     <string name="item_scrap_wood">Scrap Wood</string>
-
     <string name="item_air_conditioner">Air Conditioner</string>
     <string name="item_antenna">Antenna</string>
     <string name="item_armored_glass_block">Armored Glass Block</string>
@@ -747,7 +733,8 @@
     <string name="item_headlight_description">Let there be visibility! Connect to a trigger to turn on and off. Adjustable beam range.</string>
     <string name="item_horn_description">Add it to your vehicle or use it as a door bell. Honk at your friends to avoid accidents. Set the pitch and connect it to a trigger to activate it.</string>
     <string name="item_large_chest_description">Great for storing a lot of items. Can also be used with a Vacuum Pump</string>
-    <string name="item_large_explosive_canister_description">Highly explosive canister that can detonate by strong collisions or by Spud Guns. This canister has a large explosion radius.</string>
+    <string name="item_large_explosive_canister_description">Highly explosive canister that can detonate by strong collisions or by Spud Guns.
+\nThis canister has a large explosion radius.</string>
     <string name="item_lift_description">Build on the lift to create freely movable constructions that won\'t be fixed to the ground. Can be elevated and lowered as well as lift creations that have flipped over.</string>
     <string name="item_logic_gate_description">The Logic Gate is a powerful block that allows you to build basic logical functions. By pressing E on the block, the mechanic can choose between different logic gate types. The logic gate can be connected to other logic gates, triggers, timers and more. Great for making advanced creations.</string>
     <string name="item_master_battery_description">Used to power on large spaceships or stations</string>
