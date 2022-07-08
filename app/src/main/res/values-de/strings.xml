@@ -19,23 +19,23 @@
     <string name="yes">Ja</string>
     <string name="no">Nein</string>
     <string name="please_try_again">Bitte erneut versuchen</string>
-    <string name="images_diabled_ram">Bilder wegen zu wenig Arbeitsspeicher ausgeblendet</string>
-    <string name="no_item_found">Kein Gegenstand gefunden</string>
+    <string name="images_diabled_ram">Bilder wegen zu wenig Arbeitsspeicher ausgeblendet.</string>
+    <string name="no_item_found">Kein Gegenstand gefunden!</string>
     <string name="report_missing_item">Fehlenden Gegenstand melden</string>
     <string name="missing_item">Fehlender Gegenstand</string>
     <string name="about">Über diese App</string>
     <string name="disclaimer">Haftungsausschluss</string>
-    <string name="disclaimer_text">Diese App ist nicht mit Axolot Games verbunden oder wird von Axolot Games unterstützt. Die Namen Scrap Mechanic und Axolot Games sowie die zugehörigen Namen, Marken, Symbole und Bilder sind eingetragene Marken ihrer jeweiligen Eigentümer. Diese App wird von Fans für Fans gemacht.</string>
+    <string name="disclaimer_text">Diese App ist nicht mit Axolot Games verbunden oder wird von Axolot Games unterstützt. Die Namen Scrap Mechanic und Axolot Games sowie die zugehörigen Namen, Marken, Symbole und Bilder sind eingetragene Marken ihrer jeweiligen Eigentümer. Diese App wird von Fans für Fans gemacht. Vielen Dank an das ScrapMechanic Wiki!</string>
     <string name="website_axolot_title">Axolots Website besuchen</string>
     <string name="sm_steam_title">ScrapMechanic auf Steam kaufen</string>
     <string name="visit_sm_wiki">ScrapMechanic Wiki besuchen</string>
     <string name="visit_my_website">Meine Website besuchen</string>
     <string name="please_rate">Magst du die App?</string>
-    <string name="leave_feedback">Wenn dir die App gefällt würde ich mich sehr über eine Bewertung freuen. Es dauert nicht länger als eine Minute. Danke für die Unterstützung.</string>
+    <string name="leave_feedback">Wenn dir die App gefällt würde ich mich sehr über eine Bewertung freuen. Es dauert nicht länger als eine Minute. Danke für die Unterstützung!</string>
     <string name="rate_now">Jetzt bewerten</string>
     <string name="no_thanks">Nein, Danke</string>
     <string name="later">Später</string>
-    <string name="app_version">App Version</string>
+    <string name="app_version"></string>
     <string name="data_for_sm_version">ScrapMechanic Version</string>
 
     //PREFERENCES
@@ -72,11 +72,11 @@
     <string name="property_flammable">Brennbar</string>
     <string name="dropped_by_damaged_crates">Wird von Kisten fallen gelassen.</string>
     <string name="can_be_traded_at_the_hideout">Kann beim Handel mit dem Bauernversteck erhalten werden.</string>
-    <string name="obtained_in_warehouse">Kann im Lagerhaus gefunden werden</string>
-    <string name="crafted_in_cookbot">Wird im Kochbot hergestellt</string>
-    <string name="crafted_in_mechanic_station">Wird in der Mechanikerstation hergestellt</string>
+    <string name="obtained_in_warehouse">Kann im Lagerhaus gefunden werden.</string>
+    <string name="crafted_in_cookbot">Wird im Kochbot hergestellt.</string>
+    <string name="crafted_in_mechanic_station">Wird in der Mechanikerstation hergestellt.</string>
     <string name="can_be_found_at_crashsites">Kann an Absturzorten gefunden werden.</string>
-    <string name="feed_to_wocs">Füttere Wocs um Milch zu bekommen</string>
+    <string name="feed_to_wocs">Füttere Wocs um Milch zu bekommen.</string>
     <string name="get_at_packing_station">Kann an der Packstation erhalten werden.</string>
     <string name="scrap_metal_origin">Kann beim verfeinern von Farmbotteilen erhalten werden.</string>
     <string name="scrap_stone_origin">Kann beim Bohren von Steinen erhalten werden. Sie sind größtenteils im Wald zu finden.</string>
@@ -96,7 +96,8 @@
     <string name="haymaze">Heulabyrinth</string>
     <string name="haymaze_description">Ein Labyrinth aus Heuballen. Hier gibt es nichts besonderes.</string>
     <string name="packing_station">Packstation</string>
-    <string name="packing_station_description">Das Plakat zeigt an wie die Packstation zu benutzen ist. Es wird eine Vakuumpumpe an eine großen Truhe auf einem Fahrzeg benötigt. Verbinde einen Knopf mit der Vakuumpumpe und fülle die Kiste mit den Gegenständen, die der Packstation übergeben werden sollen. Eine Leiste an der Station zeigt den Füllstand an.  Es gibt zwei Arten von Packstationen, eine für Obst und eine für Gemüse.</string>
+    <string name="packing_station_description">Das Plakat zeigt an wie die Packstation zu benutzen ist. Es wird eine Vakuumpumpe an eine großen Truhe auf einem Fahrzeg benötigt. Verbinde einen Knopf mit der Vakuumpumpe und fülle die Kiste mit den Gegenständen, die der Packstation übergeben werden sollen. Eine Leiste an der Station zeigt den Füllstand an.
+\nEs gibt zwei Arten von Packstationen, eine für Obst und eine für Gemüse.</string>
     <string name="ruin">Ruine</string>
     <string name="ruin_description">Es gibt mehrere Arten von Ruinen. Sie enthalten für gewöhnlich kaputte Kisten und Ruinenkisten. Heubots spawnen im inneren und in der Nähe. Sie können mit dem Hammer geschlagen, oder mit der Knollenkanone abgeschossen werden.  Einige Heuhaufen haben kaputte Kisten darunter.</string>
     <string name="farmer_shack">Bauernschuppen</string>
@@ -106,7 +107,9 @@
     <string name="mechanic_station">Mechanikerstation</string>
     <string name="mechanic_station_description">Die Mechanikerstation hat einen großen, beleuchteten Maulschlüssel auf dem Dach. Die Master-Batterie befindet sich in den Schlafkabinen daneben. Nachdem die Station aktiviert wurde kann der Handwerkerbot, Kochbot, Kleiderbot, Veredlungsbot und der Ressourcensammler gebaut werden.</string>
     <string name="farmers_hideout">Bauernversteck</string>
-    <string name="farmers_hideout_description">Bringe deine Frucht / Gemüsekisten zum Bauernversteck. Die Gegenstände können auf die Plattform entladen werden und der Knopf daneben kann gedrückt werden. Die Ressourcen werden dann eingesaugt und können dann im Versteck ausgegeben werden. Es können Dinge wie die Knollenkanone gekauft werden.</string>
+    <string name="farmers_hideout_description">Bringe deine Frucht / Gemüsekisten zum Bauernversteck. Die Gegenstände können auf die Plattform entladen werden und der Knopf daneben kann gedrückt werden. Die Ressourcen werden dann eingesaugt und können dann im Versteck ausgegeben werden.
+\n
+\nEs können Dinge wie die Knollenkanone gekauft werden.</string>
     <string name="autumn_forest">Herbstwald</string>
     <string name="autumn_forest_description">Das ist ein guter Ort um Baumwolle oder sogar gefangene Bauern zu finden.</string>
     <string name="burned_forest">Verbrannter Wald</string>
@@ -151,12 +154,12 @@
     <string name="changing_lang">Wechsle Sprache …</string>
     <string name="ember_origin">Kann beim Schlagen von Bäumen im verbrannten Wald gefunden werden.</string>
     <string name="title_more">Mehr</string>
-    <string name="creatures_totebot">Totebot</string>
-    <string name="creatures_haybot">Haybot</string>
-    <string name="creatures_tapebot">Tapebot</string>
-    <string name="creatures_farmbot">Farmbot</string>
-    <string name="creature_woc">Woc</string>
-    <string name="creature_glowb">Glowb</string>
+    <string name="creatures_totebot"></string>
+    <string name="creatures_haybot"></string>
+    <string name="creatures_tapebot"></string>
+    <string name="creatures_farmbot"></string>
+    <string name="creature_woc"></string>
+    <string name="creature_glowb"></string>
     <string name="creatures_totebot_description">Der Totebot hält 3 Schläge mit dem Hammer aus und erscheint immer während der Raids.</string>
     <string name="creatures_haybot_description">Haybots sind meist in Ruinen zu finden. Sie halten 5 Schläge mit dem Hammer oder 4 Treffer mit der Knollenkanone aus.</string>
     <string name="creatures_tapebot_description">Der blaue Tapebot macht 55 Schaden und der rote Tapebot, welcher auf der obersten Etage der Lagerhäuser zu finden ist schießt explosive Fässer, welche 62 Schaden machen.</string>
@@ -169,7 +172,7 @@
     <string name="item_scrap_stone">Schrottstein</string>
     <string name="creatures_health">Gesundheit</string>
     <string name="creatures_damage">Schaden</string>
-    <string name="title_steam_updates">Steam Updates</string>
+    <string name="title_steam_updates"></string>
     <string name="title_creatures">Kreaturen</string>
     <string name="title_clothing">Kleidung</string>
     <string name="clothing_owned">In Besitz</string>
@@ -191,7 +194,7 @@
     <string name="tutorial_memory">Speicher</string>
     <string name="tutorial_memory_description">Speicher in ScrapMechanic besteht aus 3 Logikgattern. Damit kann ein Bit gespeichert werden. Zum Beispiel kann damit ein Knopf zum Schalter umfunktioniert werden. Jede größere Kreation welche auf Logikgattern basiert wird Speicher benötigen.</string>
     <string name="tutorial_memory_setup1">Plaziere 3 Logikgatter. Setze das erste auf NOR, das zweite auf OR und das dritte auf NOR.</string>
-    <string name="tutorial_memory_setup2">Verbinde das erste mit dem zweiten Gatter und das zweite mit dem dritten.  Danach muss nur noch das dritte mit dem ersten Gatter verbunden werden. Die Reihenfolge ist wichtig!</string>
+    <string name="tutorial_memory_setup2">Verbinde das erste mit dem zweiten Gatter und das zweite mit dem dritten. Danach muss nur noch das dritte mit dem ersten Gatter verbunden werden. Die Reihenfolge ist wichtig.</string>
     <string name="tutorial_memory_setup3">Die äußeren Logikgatter werden zum Setzen des Speicherbits benutzt. Das mittlere Gatter kann als Ausgang verwendet werden.</string>
     <string name="tutorial_timer_description">Der Timer ist ein Bauteil welches verwendet kann um ein Signal zu verzögern. Außerdem können damit Clocks gebaut werden welche in regelmäßigen Abständen Impulse ausgeben.</string>
     <string name="tutorial_timer_setup1">Plaziere einen Timer, zwei Logikgatter und einen Schalter.</string>
@@ -559,10 +562,10 @@
     //ITEM DESCRIPTIONS
     <string name="item_banana_description">Eine frische Banane.</string>
     <string name="item_bathtub_description">Für ultimative Entspannung. Setz dich rein und entspann dich. Oder bau sie in dein Fahrzeug ein, damit du unterwegs hübsch sauber bleibst. Kann mit Auslösern verbunden werden, die andere interaktive Bauteile von der Badewanne aus aktivieren können.</string>
-    <string name="item_battery_description">Treibt elektrische Teile an.</string>
-    <string name="item_battery_container_description">Zur Aufbewahrung von Batterien. Gibt Batterien an Elektromotoren und andere interaktive Teile ab, die Batterien benötigen.</string>
+    <string name="item_battery_description">Treibt elektrische Teile an</string>
+    <string name="item_battery_container_description">Zur Aufbewahrung von Batterien. Gibt Batterien an Elektromotoren und andere interaktive Teile ab, die Batterien benötigen</string>
     <string name="item_bearing_description">Alles, was du auf dem Lager platzierst, wird sich drehen. Lager können auch mit einem Motor oder dem Fahrersitz verbunden werden. So können sie auf verschiedene Weisen kontrolliert werden.</string>
-    <string name="item_bed_description">Ein Nickerchen in diesem gemütlichen Bett lässt dich respawnen, wenn dein Mechaniker k.o. geschlagen wurde.</string>
+    <string name="item_bed_description">Ein Nickerchen in diesem gemütlichen Bett lässt dich respawnen, wenn dein Mechaniker k.o. geschlagen wurde</string>
     <string name="item_blueberry_description">Eine süße Blaubeere.</string>
     <string name="item_broccoli_description">Ein vitaminreicher Brokkoli.</string>
     <string name="item_bucket_description">Füll ihn mit Wasser und gieß deine Pflanzen.</string>
@@ -580,27 +583,27 @@
     <string name="item_driver_saddle_description">Sorgt dafür, dass sich Lager nach links und rechts drehen. Kann mit einem Motor verbunden werden, damit du die Fahrtrichtung kontrollieren kannst. Kann an Auslöser angeschlossen werden, die auch vom Sattel aus aktiviert werden können. Auf Stufe 5 werden Einstellungen für die Steuerung freigeschaltet. Drücke dazu mit dem Verbindungswerkzeug (E) auf einem verbundenen Lager.</string>
     <string name="item_drivers_seat_description">Sorgt dafür, dass sich Lager nach links und rechts drehen. Kann mit einem Motor verbunden werden, damit du die Fahrtrichtung kontrollieren kannst. Kann an Auslöser angeschlossen werden, die auch vom Sitz aus aktiviert werden können. Auf Stufe 5 werden Einstellungen für die Steuerung freigeschaltet. Drücke dazu mit dem Verbindungswerkzeug (E) auf einem verbundenen Lager.</string>
     <string name="item_electric_engine_description">Treibt Lager an. Ein Motor mit konstanter Leistung und einstellbarer Drehzahl. Ein schwacher Motor mit einstellbarer Drehzahl. Kann mit einem Fahrersitz oder Auslösern verbunden werden. Rüste ihn hoch für mehr Verbindungspunkte und weniger Batteriebedarf.</string>
-    <string name="item_fertilizer_description">Lässt Pflanzen schneller wachsen.</string>
-    <string name="item_fertilizer_container_description">Platziere das Düngemittel und verbinde es mit einer Vakuumpumpe samt Auslöser. So schießt du Düngemittel auf deine Pflanzen.</string>
-    <string name="item_fridge_description">Hält dein Essen frisch.</string>
-    <string name="item_garment_box_common_description">Verwende den Kleiderbot, um neue Kleider für deinen Mechaniker herzustellen.</string>
-    <string name="item_garment_box_rare_description">Verwende den Kleiderbot, um neue Kleider für deinen Mechaniker herzustellen.</string>
-    <string name="item_garment_box_epic_description">Verwende den Kleiderbot, um neue Kleider für deinen Mechaniker herzustellen.</string>
-    <string name="item_gas_container_description">Zur Aufbewahrung von Benzin. Gibt Benzin an Benzinmotoren und andere interaktive Teile ab, die Benzin benötigen.</string>
+    <string name="item_fertilizer_description">Lässt Pflanzen schneller wachsen</string>
+    <string name="item_fertilizer_container_description">Platziere das Düngemittel und verbinde es mit einer Vakuumpumpe samt Auslöser. So schießt du Düngemittel auf deine Pflanzen</string>
+    <string name="item_fridge_description">Hält dein Essen frisch</string>
+    <string name="item_garment_box_common_description">Verwende den Kleiderbot, um neue Kleider für deinen Mechaniker herzustellen</string>
+    <string name="item_garment_box_rare_description">Verwende den Kleiderbot, um neue Kleider für deinen Mechaniker herzustellen</string>
+    <string name="item_garment_box_epic_description">Verwende den Kleiderbot, um neue Kleider für deinen Mechaniker herzustellen</string>
+    <string name="item_gas_container_description">Zur Aufbewahrung von Benzin. Gibt Benzin an Benzinmotoren und andere interaktive Teile ab, die Benzin benötigen</string>
     <string name="item_gas_engine_description">Ein Motor mit konstanter Drehzahl und einstellbarer Leistung, ideal für das Antreiben von Fahrzeugen geeignet. Kann mit einem Fahrersitz oder Auslöser verbunden werden. Rüste ihn hoch für mehr Verbindungspunkte und weniger Benzinverbrauch.</string>
-    <string name="item_gasoline_description">Treibt Benzinmotoren und Schubdüsen an.</string>
-    <string name="item_glowstick_description">Wirf es in der Nacht oder an dunklen Orten, damit du besser sehen kannst.</string>
+    <string name="item_gasoline_description">Treibt Benzinmotoren und Schubdüsen an</string>
+    <string name="item_glowstick_description">Wirf es in der Nacht oder an dunklen Orten, damit du besser sehen kannst</string>
     <string name="item_headlight_description">Sorgt für bessere Sicht! Verbinde ihn mit einem Auslöser, um ihn ein- und auszuschalten. Einstellbare Reichweite.</string>
     <string name="item_horn_description">Kommt an deinem Fahrzeug oder als Türklingel zum Einsatz. Hupe deine Freunde an, um Unfälle zu vermeiden. Stell die Tonhöhe ein und verbinde sie mit einem Auslöser, um sie zu aktivieren.</string>
-    <string name="item_large_chest_description">Großartig zum Aufbewahren vieler Gegenstände. Kann zusammen mit einer Vakuumpumpe verwendet werden.</string>
+    <string name="item_large_chest_description">Großartig zum Aufbewahren vieler Gegenstände. Kann zusammen mit einer Vakuumpumpe verwendet werden</string>
     <string name="item_large_explosive_canister_description">Ein hochexplosiver Kanister, der durch starke Zusammenstöße oder die Knollenkanone zur Explosion gebracht werden kann.\nMit kleinem Explosionsradius.</string>
     <string name="item_lift_description">Baue auf der Hebevorrichtung frei bewegliche Konstruktionen, die nicht am Boden verankert sind. Kann nach oben und unten bewegt werden und kopfstehende Konstruktionen wieder aufrichten.</string>
     <string name="item_logic_gate_description">Das Logikgatter ist ein leistungsstarker Block, mit dem du physische Formen programmieren kannst. Drücke E auf dem Block, damit der Mechaniker aus verschiedenen Logikgattertypen auswählen kann. Das Logikgatter kann mit andern Logikgattern, Auslösern, Timern und mehr verbunden werden. Eignet sich super, um Profi-Konstruktionen zu bauen.</string>
-    <string name="item_master_battery_description">Versorgt große Raumschiffe oder Stationen mit Energie.</string>
-    <string name="item_mountable_spud_gun_description">Verbinde sie mit einem Munitionsbehälter mit Auslöser, um zu schießen.</string>
+    <string name="item_master_battery_description">Versorgt große Raumschiffe oder Stationen mit Energie</string>
+    <string name="item_mountable_spud_gun_description">Verbinde sie mit einem Munitionsbehälter mit Auslöser, um zu schießen</string>
     <string name="item_off_road_suspension_description">Für Stoßdämpfung und bessere Stabilität. Eignet sich hervorragend für Fahrzeuge, die sich leicht überschlagen. Dieses Fahrwerk hat eine gute Federung, wodurch es sich ideal für Geländefahrzeuge eignet.</string>
     <string name="item_orange_description">Eine saftige Orange.</string>
-    <string name="item_paint_ammo_desciption">Lade dein Zeichenwerkzeug und gib deinen Konstruktionen etwas Farbe.</string>
+    <string name="item_paint_ammo_desciption">Lade dein Zeichenwerkzeug und gib deinen Konstruktionen etwas Farbe</string>
     <string name="item_paint_tool_description">Verschönere deine Konstruktionen mit Farbe, um sie individuell zu gestalten oder erschaffe einfach Kunst! Mit der linken Maustaste kannst du Farbe auftragen und mit der rechten wieder entfernen. Drücke „Q“, um die Farbauswahl zu öffnen. Halte einfach die linke Maustaste gedrückt und ziehe sie, um größere Flächen auszufüllen.</string>
     <string name="item_pineapple_description">Eine saftige Ananas.</string>
     <string name="item_piston_description">Fährt ein und aus! Verbinde ihn mit einem Auslöser, um ihn zu aktivieren. Du kannst den Kolben auch mit einer Steuereinheit verbinden, damit er sich in einer Sequenz ein- und ausfährt. Damit kannst du eindrucksvolle Konstruktionen bauen.</string>
@@ -612,7 +615,7 @@
     <string name="item_redbeet_description">Eine vitaminreiche Rote Beete.</string>
     <string name="item_refinebot_description">Der Veredelungsbot hilft dir und veredelt alle deine gesammelten Klötze. Du kannst sie per Hand zugeben oder einen Ressourcensammler mit Klötzen daneben platzieren.</string>
     <string name="item_resource_collector_description">Perfekt zum Sammeln und Stapeln von Klötzen. Er ist voll? Stell ihn neben den Veredelungsbot, der aus den Klötzen Blocks macht.</string>
-    <string name="item_revival_baguette_description">Füttere gefallene Freunde und hole sie zurück ins Geschehen!</string>
+    <string name="item_revival_baguette_description">Füttere gefallene Freunde und hole sie zurück ins Geschehen</string>
     <string name="item_saddle_description">So musst man nicht stehen. Nimm Platz und entspanne dich. Ode füge ihn zu deinem Fahrzeug hinzu, um Freunde mitzunehmen. Kann mit Auslösern verbunden werden, die andere interaktive Teile vom Sattel aus aktivieren können.</string>
     <string name="item_saw_blade_description">Fälle Bäume schneller mit dem Sägeblatt. Platziere es auf einem Lager, das mit einem Motor verbunden ist, und treibe es in einen Baumstamm.</string>
     <string name="item_scrap_driver_seat_description">Damit du nicht stehen musst. Setz dich und entspann dich. Oder bau ihn in dein Fahrzeug ein, damit deine Freunde mitkommen können. Dieser Sitz kann nicht hochgerüstet werden.</string>
@@ -620,16 +623,16 @@
     <string name="item_scrap_seat_description">Damit du nicht stehen musst. Setz dich und entspann dich. Oder bau ihn in dein Fahrzeug ein, damit deine Freunde mitkommen können. Dieser Sitz kann nicht hochgerüstet werden.</string>
     <string name="item_scrap_wheel_description">Nicht ganz rund.</string>
     <string name="item_seat_description">Damit du nicht stehen musst. Setz dich und entspann dich. Oder bau ihn in dein Fahrzeug ein, damit deine Freunde mitkommen können. Kann mit Auslösern verbunden werden, die andere interaktive Bauteile vom Sitz aus aktivieren können.</string>
-    <string name="item_seed_container_description">Platziere die Samen und verbinde sie mit einer Vakuumpumpe samt Auslöser. So schießt du Samen auf den Boden.</string>
+    <string name="item_seed_container_description">Platziere die Samen und verbinde sie mit einer Vakuumpumpe samt Auslöser. So schießt du Samen auf den Boden</string>
     <string name="item_sensor_description">Wenn er etwas erkennt, aktiviert er etwas! Der Sensor wird aktiviert, wenn er eine beliebige Oberfläche im Sichtbereich erkennt. Er hat eine Reichweite von zehn Blöcken. Er kann einen Motor, eine Schubdüse, die Steuereinheit und noch viel mehr aktivieren.</string>
     <string name="item_sledgehammer_description">Dieser mächtige Vorschlaghammer kann lose Gegenstände verschieben, wenn sie geschlagen werden.</string>
     <string name="item_small_explosive_canister_description">Ein hochexplosiver Kanister, der durch starke Zusammenstöße oder die Knollenkanone zur Explosion gebracht werden kann. Mit großem Explosionsradius.</string>
-    <string name="item_soil_bag_description">Platziere die Erde auf dem Boden, damit du Samen anpflanzen kannst.</string>
+    <string name="item_soil_bag_description">Platziere die Erde auf dem Boden, damit du Samen anpflanzen kannst</string>
     <string name="item_sport_suspension_description">Für Stoßdämpfung und bessere Stabilität. Eignet sich hervorragend für Fahrzeuge, die sich leicht überschlagen. Dieses Fahrwerk ist klein, hat aber eine härtere Federung.</string>
-    <string name="item_spud_gattler_description">Schießt Kartoffeln im Schnellfeuer. Braucht viel Kartoffelmunition.</string>
+    <string name="item_spud_gattler_description">Schießt Kartoffeln im Schnellfeuer. Braucht viel Kartoffelmunition</string>
     <string name="item_spud_gun_description">Die Knollenkanone schießt eine einzige Kartoffel.</string>
     <string name="item_spud_shotgun_description">Schießt gestreut zischend heiße Pommes.</string>
-    <string name="item_sunshake_description">Mechaniker trinken gerne einen kalten Sonnenshake, wenn sie durstig sind.</string>
+    <string name="item_sunshake_description">Mechaniker trinken gerne einen kalten Sonnenshake, wenn sie durstig sind</string>
     <string name="item_switch_description">Unbegrenztes Schalten nach Bedarf. Der Schalter aktiviert alles, womit er verbunden ist. So kannst du Sachen mit Leichtigkeit auf einmal an- und abschalten. Er kann einen Motor, eine Schubdüse, die Steuereinheit und noch viel mehr aktivieren.</string>
     <string name="item_thruster_description">Bau genug davon zusammen und bring damit Sachen zum Fliegen. Muss mit einem Auslöser oder dem Fahrersitz verbunden werden, damit sie aktiviert wird. Rüste sie hoch für weniger Benzinverbrauch.</string>
     <string name="item_timer_description">Mit dem Timer kannst du das Zusammenspiel zweier interaktiver Teile verzögern. Zum Beispiel zwischen einem Schalter und einer Steuereinheit. Passt gut zu Logikgattern.</string>
@@ -640,13 +643,13 @@
     <string name="item_totebot_head_percussion_description">Der Kopf dieses Roboters ist kaputt. Doch der Tonerzeuger im Kopf scheint noch in Ordnung zu sein. Ein kreativer Mechaniker findet bestimmt einen Weg, um damit Musik zu machen.</string>
     <string name="item_totebot_head_synth_voice_description">Der Kopf dieses Roboters ist kaputt. Doch der Tonerzeuger im Kopf scheint noch in Ordnung zu sein. Ein kreativer Mechaniker findet bestimmt einen Weg, um damit Musik zu machen.</string>
     <string name="item_vacuum_pump_description">Die Vakuumpumpe kann auf viele Arten verwendet werden, wenn sie mit einem Auslöser verbunden ist. Sauge Wasser in einen Wasserbehälter. Hebe Pflanzen in eine Truhe. Es kann sogar Gegenstände aus einer Truhe schießen und platzieren.</string>
-    <string name="item_vacuum_pipe_description">Zusammen mit der Vakuumpumpe verwenden, um Gegenstände durch Rohre zu transportieren.</string>
-    <string name="item_vacuum_pipe_corner_description">Zusammen mit der Vakuumpumpe verwenden, um Gegenstände durch Rohre zu transportieren.</string>
+    <string name="item_vacuum_pipe_description">Zusammen mit der Vakuumpumpe verwenden, um Gegenstände durch Rohre zu transportieren</string>
+    <string name="item_vacuum_pipe_corner_description">Zusammen mit der Vakuumpumpe verwenden, um Gegenstände durch Rohre zu transportieren</string>
     <string name="item_veggie_burger_description">Eine vegetarische Alternative. Füllt alle deine Anzeigen bis zum Maximum auf.</string>
     <string name="item_water_description">Großartig zum Gießen, leider ungeeignet zum Trinken.</string>
     <string name="item_water_bucket_description">Eimer mit Wasser.</string>
-    <string name="item_water_cannon_description">Verbinde sie mit einem Wasserbehälter mit Auslöser, um deine Pflanzen effektiver zu gießen.</string>
-    <string name="item_water_container_description">Schließ den Wasserbehälter an eine Vakuumpumpe unter Wasser an, um ihn mit Wasser zu füllen.</string>
+    <string name="item_water_cannon_description">Verbinde sie mit einem Wasserbehälter mit Auslöser, um deine Pflanzen effektiver zu gießen</string>
+    <string name="item_water_container_description">Schließ den Wasserbehälter an eine Vakuumpumpe unter Wasser an, um ihn mit Wasser zu füllen</string>
     <string name="item_weld_tool_description">Schweiße deine Konstruktionen zusammen! Wähle das Schweißgerät aus, klicke mit der linken Maustaste auf das lose Teil und anschließend auf ein anderes Teil, um beide zusammenzuschweißen. Außerdem kannst du damit Kontaktstücke auf der Hebevorrichtung verbinden. Zeige auf das erste Teil, halte die linke Maustaste gedrückt und ziehe es auf das zweite Teil, um beide zusammenzuschweißen.</string>
     <string name="item_warehouse_key_description">Kann erhalten werden, indem der große, rote Farmbot getötet wird. Es wird verwendet um ein Lagerhaus zu öffnen. Kann nur einmal verwendet werden.</string>
     <string name="always">Immer</string>
@@ -659,4 +662,6 @@
 
 
     // PREFERENCES
-    </resources>
+    <string name="item_radio_beacon_description">Sendet ein Signal, welches im Logbuch aktiviert und deaktiviert werden kann.</string>
+    <string name="item_radio_beacon">Leuchtfeuer</string>
+</resources>
