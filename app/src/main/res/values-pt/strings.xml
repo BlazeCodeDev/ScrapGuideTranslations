@@ -7,10 +7,10 @@
     <string name="haymaze">Labirinto de feno</string>
     <string name="properties">Propriedades</string>
     <string name="description">Descrição</string>
-    <string name="disclaimer_text">Este guia/assistente não é associado ou autorizado pela Axolot Games. Os nomes Scrap Mechanic e Axolot Games, bem como nomes, mascas, emblemas e imagens relacionadas são marca registrada de seus respectivos donos. Este app é feito por fãs, para fãs.</string>
+    <string name="disclaimer_text">Este guia/assistente não é associado ou autorizado pela Axolot Games. Os nomes Scrap Mechanic e Axolot Games, bem como nomes, mascas, emblemas e imagens relacionadas são marca registrada de seus respectivos donos. Este app é feito por fãs, para fãs!</string>
     <string name="disclaimer">Informações legais</string>
     <string name="title_settings">Opções</string>
-    <string name="SEND_EMAIL">Envie um e-mail usando...</string>
+    <string name="SEND_EMAIL">Envie um e-mail usando …</string>
     <string name="EMAIL_TITLE">Relatório de erro</string>
     <string name="underwater">Debaixo d\'água</string>
     <string name="water_plant">Fábrica de água</string>
@@ -23,8 +23,8 @@
     <string name="mechanic_station">Oficina mecânica</string>
     <string name="warehouse">Armazém</string>
     <string name="report_missing_item">Relate itens não encontrados</string>
-    <string name="no_item_found">Item não encontrado</string>
-    <string name="images_diabled_ram">Imagens desabilitadas por falta de RAM</string>
+    <string name="no_item_found">Item não encontrado!</string>
+    <string name="images_diabled_ram">Imagens desabilitadas por falta de RAM.</string>
     <string name="please_try_again">Por favor, tente novamente</string>
     <string name="no">Não</string>
     <string name="yes">Sim</string>
@@ -46,7 +46,7 @@
     <string name="settings_theme">Tema</string>
     <string name="settings_language">Idioma</string>
     <string name="settings_category_general">Geral</string>
-    <string name="changing_lang">Mudando o idioma...</string>
+    <string name="changing_lang">Mudando o idioma …</string>
     <string name="data_for_sm_version">Dados da versão do ScrapMechanic</string>
     <string name="app_version">Versão do aplicativo</string>
     <string name="later">Depois</string>
@@ -68,10 +68,10 @@
     <string name="settings_report_bug_summary">Envie informações sobre problemas no app ou apenas sugestões em como melhorar ainda mais.</string>
     <string name="settings_report_bug">Relatório de erro</string>
     <string name="settings_category_more">Mais</string>
-    <string name="crafted_in_cookbot">Precisa ser construído no Cookbot</string>
-    <string name="obtained_in_warehouse">Pode ser encontrado no armazém</string>
-    <string name="can_be_traded_at_the_hideout">Pode ser obtido em toca no esconderijo</string>
-    <string name="dropped_by_damaged_crates">Cai de caixas danificadas</string>
+    <string name="crafted_in_cookbot">Precisa ser construído no Cookbot.</string>
+    <string name="obtained_in_warehouse">Pode ser encontrado no armazém.</string>
+    <string name="can_be_traded_at_the_hideout">Pode ser obtido em toca no esconderijo.</string>
+    <string name="dropped_by_damaged_crates">Cai de caixas danificadas.</string>
     <string name="ruin_description">Existem múltiplas variantes de ruínas. Elas normalmente contém caixas danificadas e baús de ruínas. Haybots aparecem dentro ou próximo das ruínas, assim como pilhas de feno. Bata neles com a marreta ou atire neles com a arma de batatas para revelar caixas danificadas. Nem todas as pilhas de feno têm caixas embaixo.</string>
     <string name="haymaze_description">Um labirinto feito de fardos de feno. Não há nada de especial lá dentro.</string>
     <string name="crashed_maintenance_ship_description">Uma bateria mestre é necessária para ativar o craftbot básico do lado de dentro. Você pode encontra-la saqueando equipamentos na área ao redor. A caixa amarela no cockpit contém um diário de bordo.</string>
@@ -91,7 +91,7 @@
     <string name="chemical_origin">Recebido ao saquear caixas danificadas ou bombeando de lagos na fábrica de químicos. Um balde também vai funcionar.</string>
     <string name="pigment_flower_origin">Recebido ao coletar flores. Elas são encontradas principalmente em florestas.</string>
     <string name="circuit_board_origin">Recebido ao saquear caixas danificadas ou matando farmbots.</string>
-    <string name="crafted_in_mechanic_station">Precisa ser construído em uma oficina mecânica</string>
+    <string name="crafted_in_mechanic_station">Precisa ser construído em uma oficina mecânica.</string>
     <string name="item_orange_status_info">Tempo de crescimento sem fertilizante: 21h\nTempo de crescimento fertilizado: 10h\nFome: +40\nSede: +15</string>
     <string name="item_controller_upgrades">Nível 1: Conexões 1, Velocidade 2\nNível 2: Conexões 2, Velocidade 3\nNível 3: Conexões 4, Velocidade 5\nNível 4: Conexões 8, Velocidade 7\nNível 5: Conexões 10, Velocidade 9</string>
     <string name="item_thruster_upgrades">Nível 1: Empuxo 2, Eficiência 1\nNível 2: Empuxo 3, Eficiência 2\nNível 3: Empuxo 4, Eficiência 3\nNível 4: Empuxo 5, Eficiência 4\nNível 5: Empuxo 6, Eficiência 5</string>
@@ -115,7 +115,9 @@
     <string name="farmers_hideout_description">Leve suas caixas de frutas/verduras e o sujeito enjaulado para o ponto de entrega do esconderijo. Você pode colocar estas coisas na plataforma demarcada e pressionar o botão próximo. Os recursos serão aspirados, e você vai poder gasta-los em suas compras. \n\n Você pode comprar itens como a arma de batatas ou sementes raras no esconderijo.</string>
     <string name="mechanic_station_description">A oficina mecânica tem uma chave grande e iluminada no topo do seu telhado. Você precisa conseguir uma bateria mestre dos quartos de alojamento ao lado da oficina. Depois que você colocá-la no local designado, você ativa o console de construção. Ele é usado para fazer o Crafting Bot, o Dressbot, o Cookbot, Refine bot e o coletor de recursos.</string>
     <string name="warehouse_description">Esta é a área mais perigosa do modo de sobrevivência. Você precisa de uma chave de armazém para entrar. Você pode conseguir a chave matando o farmbot, o grande chefe vermelho. \n\nHá dois tipos de armazéns, dois e quatro andares. Os dois tipos têm uma sala de saque no topo com 5 caixas danificadas épicas e um baú com itens. Portanto é recomendado ir ao armazém de dois andares. \n\nTapebots estão dentro e próximo do armazém, e vão atirar em você. É recomendado ter uma arma de batatas antes de entrar lá. O tapebot vermelho no último andar atira explosivos.</string>
-    <string name="packing_station_description">O letreiro mostra como usar. Primeiro você precisa de uma bomba a vácuo conectada a um baú grande no seu veículo. Conecte um botão à bomba de vácuo e encha o baú com o item que você quer enviar à estação de empacotamento. Uma barra na estação vai lhe dizer quanto mais colocar na fábrica para receber uma caixa do item. \n\nHá dois tipos de estação de empacotamento. Uma para verduras e uma para frutas. \n Leve as caixas a um esconderijo.</string>
+    <string name="packing_station_description">O letreiro mostra como usar. Primeiro você precisa de uma bomba a vácuo conectada a um baú grande no seu veículo. Conecte um botão à bomba de vácuo e encha o baú com o item que você quer enviar à estação de empacotamento. Uma barra na estação vai lhe dizer quanto mais colocar na fábrica para receber uma caixa do item.
+\nHá dois tipos de estação de empacotamento. Uma para verduras e uma para frutas.
+\nLeve as caixas a um esconderijo.</string>
     <string name="item_blueberry_status_info">Tempo de crescimento sem fertilizante: 21h\nTempo de crescimento fertilizado: 10h\nFome: +30\n Sede: +30</string>
     <string name="item_banana_status_info">Tempo de crescimento sem fertilizante: 21h\nTempo de crescimento fertilizado: 10h\nFome: +40\n Sede: +15</string>
     <string name="item_pineapple_status_info">Tempo de crescimento sem fertilizante: 42h\nTempo de crescimento fertilizado: 20h\nFome: +20\n Sede: +50</string>
@@ -139,14 +141,14 @@
     <string name="item_sledgehammer">Marreta</string>
     <string name="item_warehouse_key_description">Consiga matando os Farbots, é usada para destrancar os elevadores dos armazéns. Apenas um uso.</string>
     <string name="title_creatures">Criaturas</string>
-    <string name="creatures_totebot">Totebot</string>
-    <string name="creatures_haybot">Haybot</string>
-    <string name="creatures_tapebot">Tapebot</string>
-    <string name="creatures_farmbot">Farmbot</string>
+    <string name="creatures_totebot"></string>
+    <string name="creatures_haybot"></string>
+    <string name="creatures_tapebot"></string>
+    <string name="creatures_farmbot"></string>
     <string name="creatures_health">Saúde</string>
     <string name="creatures_damage">Dano</string>
-    <string name="creature_woc">Woc</string>
-    <string name="creature_glowb">Glowb</string>
+    <string name="creature_woc"></string>
+    <string name="creature_glowb"></string>
     <string name="creatures_totebot_description">O Totebot é destruído com 3 ataques de marreta. Eles vão aparecer durante raids.</string>
     <string name="creatures_haybot_description">Os Haybots são encontrados principalmente dentro de ruínas. É necessário 5 ataques de marreta ou 4 tiros com a arma de batata para destrui-lo.</string>
     <string name="creatures_tapebot_description">O Tapebot azul causa 55 de dano, e o Tapebot vermelho, que pode ser encontrado no último andar do armazém e atira explosivos, causa 62 de dano.</string>
@@ -228,6 +230,6 @@
     <string name="interactive">Interativo</string>
     <string name="consumable">Consumíveis</string>
     <string name="trader">Comerciante</string>
-    <string name="image_not_found">Imagem não encondrada</string>
-    <string name="is_near_structures_that_need_power">Sempre pode ser encontrado perto de estruturas que precisam de energia</string>
+    <string name="image_not_found">Imagem não encondrada!</string>
+    <string name="is_near_structures_that_need_power">Sempre pode ser encontrado perto de estruturas que precisam de energia.</string>
 </resources>
