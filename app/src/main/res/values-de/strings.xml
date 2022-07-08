@@ -1,6 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="SEND_EMAIL">E-Mail versenden mit &#8230;</string>
+    <string name="SEND_EMAIL">E-Mail versenden mit …</string>
     <string name="NO_EMAIL_CLIENT">Keine E-Mail App gefunden</string>
     <string name="EMAIL_TITLE">Fehler Melden</string>
     <string name="title_home">Start</string>
@@ -148,9 +148,7 @@
     <string name="item_sunshake_status_info">Gesundheit: +10\nHunger: +25\nDurst: +35</string>
     <string name="item_pizza_burger_info">Gesundheit: +100\nHunger: +100\nDurst: +100</string>
     <string name="item_veggie_burger_info">Gesundheit: +100\nHunger: +100\nDurst: +100</string>
-
-
-    <string name="changing_lang">Wechsle Sprache &#8230;</string>
+    <string name="changing_lang">Wechsle Sprache …</string>
     <string name="ember_origin">Kann beim Schlagen von Bäumen im verbrannten Wald gefunden werden.</string>
     <string name="title_more">Mehr</string>
     <string name="creatures_totebot">Totebot</string>
@@ -651,4 +649,14 @@
     <string name="item_water_container_description">Schließ den Wasserbehälter an eine Vakuumpumpe unter Wasser an, um ihn mit Wasser zu füllen.</string>
     <string name="item_weld_tool_description">Schweiße deine Konstruktionen zusammen! Wähle das Schweißgerät aus, klicke mit der linken Maustaste auf das lose Teil und anschließend auf ein anderes Teil, um beide zusammenzuschweißen. Außerdem kannst du damit Kontaktstücke auf der Hebevorrichtung verbinden. Zeige auf das erste Teil, halte die linke Maustaste gedrückt und ziehe es auf das zweite Teil, um beide zusammenzuschweißen.</string>
     <string name="item_warehouse_key_description">Kann erhalten werden, indem der große, rote Farmbot getötet wird. Es wird verwendet um ein Lagerhaus zu öffnen. Kann nur einmal verwendet werden.</string>
-</resources>
+    <string name="always">Immer</string>
+    <string name="uncommon">Ungewöhnlich</string>
+    <string name="damaged_crate">Beschädigte Kiste</string>
+    <string name="tutorial_commands_copied">Kopiert</string>
+    <string name="title_reddit">Reddit</string>
+    <string name="common">Gewöhnlich</string>
+    <string name="rare">Selten</string>
+
+
+    // PREFERENCES
+    </resources>
