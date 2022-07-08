@@ -1,6 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="SEND_EMAIL">Отправить мне письмо с...</string>
+    <string name="SEND_EMAIL">Отправить мне письмо с …</string>
     <string name="NO_EMAIL_CLIENT">Почтовый адрес не найден</string>
     <string name="title_home">Домой</string>
     <string name="title_settings">Настройки</string>
@@ -24,7 +24,7 @@
     <string name="missing_item">Отсутствующий предмет</string>
     <string name="about">О приложении</string>
     <string name="disclaimer">Предупреждение</string>
-    <string name="disclaimer_text">Это руководство/помощник не связан и не одобрен Axolot Games. Названия Scrap Mechanic и Axolot Games, а также связанные имена, знаки, символы и изображения - зарегистрированные торговые марки их соответствующих владельцев. Это приложение сделано фанатами для фанатов.</string>
+    <string name="disclaimer_text">Это руководство/помощник не связан и не одобрен Axolot Games. Названия Scrap Mechanic и Axolot Games, а также связанные имена, знаки, символы и изображения - зарегистрированные торговые марки их соответствующих владельцев. Это приложение сделано фанатами для фанатов!</string>
     <string name="website_axolot_title">Посетить сайт Axolot</string>
     <string name="sm_steam_title">Купить Scrap Mechanic в Steam</string>
     <string name="visit_sm_wiki">Посетить вики по Scrap Mechanic</string>
@@ -36,7 +36,7 @@
     <string name="later">Потом</string>
     <string name="app_version">Версия приложения</string>
     <string name="data_for_sm_version">Данные о версии Scrap Mechanic</string>
-    <string name="changing_lang">Смена языка...</string>
+    <string name="changing_lang">Смена языка …</string>
     <string name="settings_category_general">Основное</string>
     <string name="settings_language">Язык</string>
     <string name="settings_theme">Тема</string>
@@ -70,7 +70,7 @@
     <string name="can_be_traded_at_the_hideout">Может быть выторгован в укрытии.</string>
     <string name="obtained_in_warehouse">Может быть найден в складе.</string>
     <string name="crafted_in_cookbot">Создаётся на роботе-поваре.</string>
-    <string name="crafted_in_mechanic_station">"Создаётся на станции Механиков. "</string>
+    <string name="crafted_in_mechanic_station">Создаётся на станции Механиков.</string>
     <string name="can_be_found_at_crashsites">Может быть найден на месте крушения.</string>
     <string name="feed_to_wocs">Скормите это Вокам чтобы получить молоко.</string>
     <string name="get_at_packing_station">Можно получить на упаковочной станции.</string>
@@ -91,7 +91,9 @@
     <string name="haymaze">Лабиринт из сена</string>
     <string name="haymaze_description">Лабиринт из стогов сена. Ничего интересного.</string>
     <string name="packing_station">Станция упаковки</string>
-    <string name="packing_station_description">Билборд показывает вам, как им пользоваться.  Вам понадобится вакуумный насос, прикрепленный к болшому сундуку на вашем автомобиле.  Подключите кнопку к вакуумному насосу и заполните сундук предметом, который хотите передать на упаковочную станцию.  Полоска на станции подскажет, сколько нужно положить растений, чтобы получить один ящик с предметом.Существуют два типа упаковочных станций.  Один берет овощи и один фрукты. Ящики с фермерами надо нести в убежище фермеров.</string>
+    <string name="packing_station_description">Билборд показывает вам, как им пользоваться. Вам понадобится вакуумный насос, прикрепленный к болшому сундуку на вашем автомобиле. Подключите кнопку к вакуумному насосу и заполните сундук предметом, который хотите передать на упаковочную станцию.
+\nПолоска на станции подскажет, сколько нужно положить растений, чтобы получить один ящик с предметом.
+\nСуществуют два типа упаковочных станций. Один берет овощи и один фрукты. Ящики с фермерами надо нести в убежище фермеров.</string>
     <string name="ruin">Руины</string>
     <string name="ruin_description">Есть несколько видов руин. В них обычно есть поломанные ящики и сундуки руин. В руинах или рядом с ними появляются сеноботы и кучи сена. Сено можно сломать ударом кувалдой или выстрелом из картофельной пушки. Под некоторыми кучами могут быть поломанные ящики.</string>
     <string name="farmer_shack">Хижина фермеров</string>
@@ -115,7 +117,10 @@
     <string name="underwater">под водой</string>
     <string name="underwater_description">Здесь можно найти клейких моллюсков, нефть и Гловбов. Гловбы - маленькие жёлто-зелёные светящиеся существа. Они производят Флюослизь при поедании 15 блоков картона.</string>
     <string name="item_banana_status_info">Время роста без удобрения: 21ч\nВремя роста с удобрением: 10ч\nГолод: +40\nЖажда: +15</string>
-    <string name="item_blueberry_status_info">Время роста без удобрения: 21ч\\nВремя роста с удобрением: 10ч\\nГолод: +30\\nЖажда: +30</string>
+    <string name="item_blueberry_status_info">Время роста без удобрения: 21ч
+\nВремя роста с удобрением: 10ч
+\nГолод: +30
+\nЖажда: +30</string>
     <string name="item_orange_status_info">Время роста без удобрения: 21ч\nВремя роста с удобрением: 10ч\nГолод: +15\nЖажда: +40</string>
     <string name="item_pineapple_status_info">Время роста без удобрения: 42ч\nВремя роста с удобрением: 20ч\nГолод: +20\nЖажда: +50</string>
     <string name="item_carrot_status_info">Время роста без удобрения: 21ч\nВремя роста с удобрением: 10ч\nГолод: +30\nЖажда: +10</string>
@@ -331,7 +336,7 @@
     <string name="item_scrap_seat">Сиденье (мусор)</string>
     <string name="item_scrap_stone_block">Каменный блок (мусор)</string>
     <string name="item_scrap_wheel">Колесо (мусор)</string>
-    <string name="item_scrap_wood_block">"Деревянный блок (мусор) "</string>
+    <string name="item_scrap_wood_block">Деревянный блок (мусор)</string>
     <string name="item_screw">Винт</string>
     <string name="item_seat">Сиденье</string>
     <string name="item_seed_container">Контейнер для семян</string>
@@ -412,7 +417,7 @@
     <string name="item_vegetable_box">Ящик для овощей</string>
     <string name="item_veggie_burger">Веганский бургер</string>
     <string name="item_ventilation_grid">Вентиляционная решетка</string>
-    <string name="item_warehouse_key">Существует три типа складов: с двумя, тремя и четырьмя этажами. У всех типов есть комната добычи наверху с 5 эпическими поврежденными ящиками и сундук с предметами. Поэтому рекомендуется идти к складам с двумя этажах. Лентоботы находятся внутри и рядом со складами и будут стрелять в вас.</string>
+    <string name="item_warehouse_key"></string>
     <string name="item_water">Вода</string>
     <string name="item_water_bucket">Ведро для воды</string>
     <string name="item_water_cannon">Водяная пушка</string>
@@ -428,15 +433,15 @@
     <string name="item_wooden_crate">Деревянный ящик</string>
     <string name="item_banana_description">Свежий банан.</string>
     <string name="item_bathtub_description">Для максимального расслабления. Сядьте в нее и отдохните – или подключите к транспорту, чтобы плескаться в дороге. Можно подключить к триггерам и активировать механизмы не вставая.</string>
-    <string name="item_battery_description">Питание для электроприборов.</string>
-    <string name="item_battery_container_description">Можно хранить больше батарей. Подсоединяйте к двигателям и другим интерактивным элементам.</string>
-    <string name="item_bed_description">Здесь можно отдохнуть и восстановиться после нокаута.</string>
-    <string name="item_blueberry_description">Сладкая черника</string>
+    <string name="item_battery_description">Питание для электроприборов</string>
+    <string name="item_battery_container_description">Можно хранить больше батарей. Подсоединяйте к двигателям и другим интерактивным элементам</string>
+    <string name="item_bed_description">Здесь можно отдохнуть и восстановиться после нокаута</string>
+    <string name="item_blueberry_description">Сладкая черника.</string>
     <string name="item_broccoli_description">Питательная брокколи.</string>
-    <string name="item_bucket_description">Наполните его водой и полейте растения</string>
+    <string name="item_bucket_description">Наполните его водой и полейте растения.</string>
     <string name="item_button_description">Включает механизмы. Активация работает, пока кнопка нажата.</string>
     <string name="item_carrot_description">Питательная морковка.</string>
-    <string name="item_chemical_bucket_description">Ведро с химическими отходами</string>
+    <string name="item_chemical_bucket_description">Ведро с химическими отходами.</string>
     <string name="item_chest_description">Обычный сундук для хранения.</string>
     <string name="item_controller_description">Управляет порядком вращения подшипников. Позволяет создавать конструкции-трансформеры. Нужно подключать к подшипникам. Чтобы активировать, нужно подключить к триггеру или сиденью водителя.</string>
     <string name="item_cookbot_description">Готовит вкусную еду, которая помогает восстановить силы или оживить павших товарищей.</string>
@@ -447,27 +452,27 @@
     <string name="item_driver_saddle_description">Управляет вращением подшипников. Присоедините к двигателю, чтобы управлять направлением движения. Можно подключить к триггерам и активировать механизмы не вставая. Седло 5 уровня открывает настройки руля (клавиша E) для присоединенных подшипников.</string>
     <string name="item_drivers_seat_description">Управляет вращением подшипников. Присоедините к двигателю, чтобы управлять направлением движения. Также позволяет активировать подсоединенные триггеры. Сиденье 5 уровня открывает настройки руля (клавиша E) для присоединенных подшипников.</string>
     <string name="item_electric_engine_description">Приводит в движение подшипники. Мотор с фиксированной мощностью и настраиваемой скоростью. Слабый двигатель с настраиваемой скоростью. Можно подсоединить к сиденью водителя или триггерам. Улучшение позволяет добавить подключения и снизить расход батареи.</string>
-    <string name="item_fertilizer_description">Заставляет растения расти быстрее.</string>
-    <string name="item_fertilizer_container_description">Наполните удобрением и присоедините вакуумный насос. Удобрение будет разбрызгиваться на растения.</string>
-    <string name="item_fridge_description">Сохраняет еду свежей.</string>
-    <string name="item_garment_box_common_description">Позволяет боту-закройщику делать одежду.</string>
-    <string name="item_garment_box_rare_description">Позволяет боту-закройщику делать одежду.</string>
-    <string name="item_garment_box_epic_description">Позволяет боту-закройщику делать одежду.</string>
-    <string name="item_gas_container_description">Подсоединяйте канистры к двигателям и другим интерактивным элементам.</string>
+    <string name="item_fertilizer_description">Заставляет растения расти быстрее</string>
+    <string name="item_fertilizer_container_description">Наполните удобрением и присоедините вакуумный насос. Удобрение будет разбрызгиваться на растения</string>
+    <string name="item_fridge_description">Сохраняет еду свежей</string>
+    <string name="item_garment_box_common_description">Позволяет боту-закройщику делать одежду</string>
+    <string name="item_garment_box_rare_description">Позволяет боту-закройщику делать одежду</string>
+    <string name="item_garment_box_epic_description">Позволяет боту-закройщику делать одежду</string>
+    <string name="item_gas_container_description">Подсоединяйте канистры к двигателям и другим интерактивным элементам</string>
     <string name="item_gas_engine_description">Мотор с фиксированной скоростью и настраиваемой мощностью. Хорошо подходит для транспорта. Можно подсоединить к сиденью водителя или триггеру. Улучшение позволяет добавить подключения и снизить расход топлива.</string>
-    <string name="item_gasoline_description">Топливо для бензиновых и реактивных двигателей.</string>
-    <string name="item_glowstick_description">Кидайте их в темные места или используйте ночью, чтобы больше увидеть.</string>
+    <string name="item_gasoline_description">Топливо для бензиновых и реактивных двигателей</string>
+    <string name="item_glowstick_description">Кидайте их в темные места или используйте ночью, чтобы больше увидеть</string>
     <string name="item_headlight_description">Да будет видимость! Активируется триггером. Настраиваемый радиус освещения.</string>
     <string name="item_horn_description">Можно присоединить к транспорту или использовать как дверной звонок. Подавайте сигналы друзьям, чтобы избежать аварий. Выберите частоту и присоедините триггер.</string>
-    <string name="item_large_chest_description">Здесь помещается множество вещей. Можно подсоединить вакуумный насос.</string>
+    <string name="item_large_chest_description">Здесь помещается множество вещей. Можно подсоединить вакуумный насос</string>
     <string name="item_large_explosive_canister_description">Крайне взрывоопасная канистра. Детонирует при ударе и картофельном обстреле.\nМалый радиус взрыва.</string>
     <string name="item_lift_description">На подъемнике можно строить конструкции, которые не нужно закреплять на земле. Можно поднимать и опускать – и поднимать опрокинувшиеся конструкции.</string>
     <string name="item_logic_gate_description">Логический затвор – мощный блок, позволяющий строить простейшие логические схемы. Клавиша E позволяет выбрать тип логического затвора. Можно подключать к другим затворам, триггерам, таймерам и прочим элементам. Позволяет создавать продвинутые конструкции.</string>
     <string name="item_master_battery_description">Питает большие космические корабли или станции</string>
-    <string name="item_mountable_spud_gun_description">Присоедините к контейнеру с картошкой триггером и открывайте огонь.</string>
+    <string name="item_mountable_spud_gun_description">Присоедините к контейнеру с картошкой триггером и открывайте огонь</string>
     <string name="item_off_road_suspension_description">Стабилизирует механизм и сглаживает удары. Не дает транспорту перевернуться. Отличная амортизация. Годится для внедорожников.</string>
-    <string name="item_orange_description">Сочный апельсин</string>
-    <string name="item_paint_ammo_desciption">Зарядите краскопульт и добавьте своим творениям цвета.</string>
+    <string name="item_orange_description">Сочный апельсин.</string>
+    <string name="item_paint_ammo_desciption">Зарядите краскопульт и добавьте своим творениям цвета</string>
     <string name="item_pineapple_description">Сочный ананас.</string>
     <string name="item_piston_description">Раздвигается и сдвигается! Активируется триггером. Можно подключить к контроллеру, чтобы движения выполнялись в нужном порядке. Позволяет создать очень впечатляющие конструкции.</string>
     <string name="item_pizza_burger_description">Любимая еда механиков. Поднимает все показатели до максимума.</string>
@@ -478,7 +483,7 @@
     <string name="item_redbeet_description">Питательная свекла.</string>
     <string name="item_refinebot_description">Помогает очищать и перерабатывать собранный мусор. Поставьте рядом с ним сборщик ресурсов.</string>
     <string name="item_resource_collector_description">Собирает и складывает ресурсы. Когда он наполнится, переместите его к очистителю, и ресурсы начнут превращаться в блоки.</string>
-    <string name="item_revival_baguette_description">Накормите павших товарищей, и они вернутся в строй.</string>
+    <string name="item_revival_baguette_description">Накормите павших товарищей, и они вернутся в строй</string>
     <string name="item_saddle_description">Нужно, чтобы не стоять. Сядьте сами или установите в машину, чтобы там мог сесть Ваш друг. Можно подсоединять к триггерам и управлять с сиденья разными интерактивными элементами.</string>
     <string name="item_saw_blade_description">Позволяет быстрее валить деревья. Поставьте на подшипник, присоединенный к двигателю, и подвезите к дереву.</string>
     <string name="item_scrap_driver_seat_description">Присядьте, пусть ноги отдохнут. Отдохните сами или присоедините к транспорту, чтобы взять пассажира. Нельзя улучшить.</string>
@@ -486,32 +491,32 @@
     <string name="item_scrap_seat_description">Присядьте, пусть ноги отдохнут. Отдохните сами или присоедините к транспорту, чтобы взять пассажира. Нельзя улучшить.</string>
     <string name="item_scrap_wheel_description">Не совсем круглое.</string>
     <string name="item_seat_description">Присядьте, пусть ноги отдохнут. Отдохните сами или присоедините к транспорту, чтобы взять пассажира. Можно подключить к триггерам и активировать механизмы не вставая.</string>
-    <string name="item_seed_container_description">Наполните семенами и присоедините вакуумный насос. Семена будут высеиваться в почву.</string>
+    <string name="item_seed_container_description">Наполните семенами и присоедините вакуумный насос. Семена будут высеиваться в почву</string>
     <string name="item_sensor_description">Распознает и активирует! Включается при распознавании поверхности любого типа и может активировать до 10 блоков. Может включить двигатель, реактивный двигатель, контроллер... что угодно.</string>
     <string name="item_small_explosive_canister_description">Крайне взрывоопасная канистра. Детонирует при ударе и картофельном обстреле. Большой радиус взрыва.</string>
-    <string name="item_soil_bag_description">Почва для семян. Используйте на полу.</string>
+    <string name="item_soil_bag_description">Почва для семян. Используйте на полу</string>
     <string name="item_sport_suspension_description">Стабилизирует механизм и сглаживает удары. Не дает транспорту перевернуться. Небольшое, но упругое устройство.</string>
-    <string name="item_spud_gattler_description">Стреляет очередями картофелин Требует большого картошкозапаса.</string>
+    <string name="item_spud_gattler_description">Стреляет очередями картофелин Требует большого картошкозапаса</string>
     <string name="item_spud_gun_description">Стреляет картошкой – одиночными выстрелами.</string>
-    <string name="item_spud_shotgun_description">Стреляет очередями горячей картошки-фри</string>
-    <string name="item_sunshake_description">Механики любят утолять жажду баночкой саншейка.</string>
+    <string name="item_spud_shotgun_description">Стреляет очередями горячей картошки-фри.</string>
+    <string name="item_sunshake_description">Механики любят утолять жажду баночкой саншейка</string>
     <string name="item_switch_description">Неограниченное количество переключений по команде. Активирует любой подключенный механизм. Незаменим, если что-то нужно включить одним движением. Может включить двигатель, реактивный двигатель, контроллер... что угодно.</string>
     <string name="item_thruster_description">С такими двигателями можно летать. Чтобы активировать, нужно подключить к триггеру или сиденью водителя. Улучшение позволяет снизить расход топлива.</string>
     <string name="item_timer_description">Позволяет отсрочить взаимодействие между интерактивными элементами. Например, между тумблером и контроллером. Хорошо сочетается с логическим затвором.</string>
     <string name="item_toilet_description">Присядьте, пусть ноги отдохнут. Отдохните сами или присоедините к транспорту, чтобы взять пассажира. Можно подключить к триггерам и активировать механизмы не вставая. Не забудьте смыть воду!</string>
-    <string name="item_tomato_description">Сочный помидор</string>
+    <string name="item_tomato_description">Сочный помидор.</string>
     <string name="item_totebot_head_bass_description">Эта голова сломана. Но звукогенератор, похоже, еще работает. Талантливый механик сможет на таком музыку сыграть.</string>
     <string name="item_totebot_head_blip_description">Эта голова сломана. Но звукогенератор, похоже, еще работает. Талантливый механик сможет на таком музыку сыграть.</string>
     <string name="item_totebot_head_percussion_description">Эта голова сломана. Но звукогенератор, похоже, еще работает. Талантливый механик сможет на таком музыку сыграть.</string>
     <string name="item_totebot_head_synth_voice_description">Эта голова сломана. Но звукогенератор, похоже, еще работает. Талантливый механик сможет на таком музыку сыграть.</string>
     <string name="item_vacuum_pump_description">Если присоединить к триггеру, можно найти массу применений. Закачать воду в контейнер. Собрать растения в сундук. Насос может даже стрелять и разбрасывать предметы из сундука.</string>
-    <string name="item_vacuum_pipe_description">Присоедините к вакуумному насосу, и используйте для передачи жидкостей и предметов.</string>
-    <string name="item_vacuum_pipe_corner_description">Присоедините к вакуумному насосу, и используйте для передачи жидкостей и предметов.</string>
+    <string name="item_vacuum_pipe_description">Присоедините к вакуумному насосу, и используйте для передачи жидкостей и предметов</string>
+    <string name="item_vacuum_pipe_corner_description">Присоедините к вакуумному насосу, и используйте для передачи жидкостей и предметов</string>
     <string name="item_veggie_burger_description">Вегетарианская версия. Поднимает все показатели до максимума.</string>
     <string name="item_water_description">Годится для полива, но, увы, пить ее нельзя.</string>
     <string name="item_water_bucket_description">Ведро с водой.</string>
-    <string name="item_water_cannon_description">Присоедините к водяному баку триггером и поливайте растения еще эффективнее.</string>
-    <string name="item_water_container_description">Чтобы наполнить, подсоедините к подводному вакуумному насосу.</string>
+    <string name="item_water_cannon_description">Присоедините к водяному баку триггером и поливайте растения еще эффективнее</string>
+    <string name="item_water_container_description">Чтобы наполнить, подсоедините к подводному вакуумному насосу</string>
     <string name="item_weld_tool_description">Соединяйте свои творения друг с другом! Выберите сварочный аппарат, щелкните левой кнопкой мыши на незакрепленном механизме, затем щелкните на поверхности или другом механизме, чтобы соединить их. Можно также соединять соприкасающиеся части подъемника. Нажмите и удерживайте левую кнопку мыши на первой части, затем перетащите курсор с зажатой кнопкой к части, с которой хотите соединить первую.</string>
     <string name="EMAIL_TITLE">Сообщить об ошибке</string>
     <string name="item_bearing_description">Все, что вы ставите на подшипник, будет вращаться. К подшипнику можно присоединить двигатель или сиденье водителя, чтобы управлять вращением.</string>
@@ -533,7 +538,7 @@
     <string name="title_chestloot">Предметы из сундуков</string>
     <string name="tutorial_output">Выход</string>
     <string name="tutorial_demonstration">Демонстрация</string>
-    <string name="item_scrap_metal">"Металлический блок "</string>
+    <string name="item_scrap_metal">Металлический блок</string>
     <string name="title_steam_updates">Обновления в Steam</string>
     <string name="creatures_glowb_description">Гловб это маленькое животное, появляющееся под водой ночью. Можно перевезти его на сушу и дать ему 15 блоков картона, за что вы получите 1 флюослизь.</string>
     <string name="creature_glowb">Гловб</string>
@@ -552,17 +557,22 @@
     <string name="tutorial_memory_setup3">Внешние логические элементы используются для установки активности памяти.  Средний логический блок - это выход, с помощью которого вы можете получить состояние активности.</string>
     <string name="title_creatures">Существа</string>
     <string name="creatures_farmbot_description">Фармбота можно найти в осеннем лесу, сожженном лесу, лесу и в разрушеном городе. Фармботы невосприимчивы к кувалде и нужно 58 попаданий с картофелемета или 25 с помощью фривольвера.</string>
-    <string name="item_hideout_dropoff">В убежище можно покупать такие предметы, как бульбострел или редкие семена.</string>
+    <string name="item_hideout_dropoff"></string>
     <string name="item_hideout_dropoff_description">Отведите этого парня к торговцу в укрытие.</string>
     <string name="settings_data_loading_always">Постоянно</string>
     <string name="creatures_drops">Выброшенные предметы</string>
     <string name="creatures_tapebot">Лентобот</string>
     <string name="creatures_haybot">Сенобот</string>
     <string name="creatures_totebot">Грузобот</string>
-    <string name="creatures_tapebot_description">"Синий лентобот наносит 55 урона, а красный лентобот, которого можно найти на последних этажах склада стреляет взрывчаткой которая наносит 62 урона. "</string>
+    <string name="creatures_tapebot_description">Синий лентобот наносит 55 урона, а красный лентобот, которого можно найти на последних этажах склада стреляет взрывчаткой которая наносит 62 урона.</string>
     <string name="creatures_farmbot">Фармбот</string>
-    <string name="farmers_hideout_description">Принесите в убежище свои ящики с фруктами / овощами или фермера в клетке. Вы можете положить вещи на платформу и нажать кнопку рядом с ней. Это втянет ресурсы, и вы сможете потратить их на покупку.</string>
-    <string name="warehouse_description">Это самая опасная зона в режиме выживания. Чтобы попасть внутрь, вам понадобится ключ от склада. Вы можете получить ключ, убив большого красного босса, \"фармбота\".</string>
+    <string name="farmers_hideout_description">Принесите в убежище свои ящики с фруктами / овощами или фермера в клетке. Вы можете положить вещи на платформу и нажать кнопку рядом с ней.
+\nЭто втянет ресурсы, и вы сможете потратить их на покупку.</string>
+    <string name="warehouse_description">Это самая опасная зона в режиме выживания.
+\n
+\nЧтобы попасть внутрь, вам понадобится ключ от склада.
+\n
+\nВы можете получить ключ, убив большого красного босса, \"фармбота\".</string>
     <string name="item_sledgehammer_description">Эта мощная кувалда позволит вам толкать незакрепленные предметы, ударяя по ним.</string>
     <string name="item_sport_suspension_upgrades">Lvl 1: Жёсткость 4\nLvl 2: Жёсткость 6\nLvl 3: Жёсткость 9\nLvl 4: Жёсткость 13\nLvl 5: Жёсткость 20</string>
     <string name="item_offroad_suspension_upgrades">Lvl 1: Жёсткость 4\nLvl 2: Жёсткость 6\nLvl 3: Жёсткость 9\nLvl 4: Жёсткость 13\nLvl 5: Жёсткость 20</string>
@@ -571,8 +581,16 @@
     <string name="item_piston_upgrades">Уровень 1: Диапазон 7, Скорость 2, Сила 1\nУовень 2: Диапазон 9, Скорость 4, Сила 2\nУровень 3: Диапазон 11, Скорость 6, Сила 3\nУровень 4: Диапазон 13, Скорость 8, Сила 4\nУровень 5: Диапазон 15, Скорость 10, Сила 5</string>
     <string name="item_gas_engine_upgrades">Уровень 1: Кол-во подшипников 2, Эффективность 1, Кол-во шестерней 5\nУровень 2: Кол-во подшипников 4, Эффективность 2, Кол-во шестерней 7\nУровень 3: Кол-во подшипников 6, Эффективность 3, Кол-во шестерней 9\nУровень 4: Кол-во подшипников 8, Эффективность 4, Кол-во шестерней 11\nУровень 5: Кол-во подшипников 10, Эффективность 5, Кол-во шестерней 13</string>
     <string name="item_electric_engine_upgrades">Уровень 1: Кол-во подшипников 2, Эффективность 1, Кол-во шестерней 5\nУровень 2: Кол-во подшипников 4, Эффективность 2, Кол-во шестерней 7\nУровень 3: Кол-во подшипников 6, Эффективность 3, Кол-во шестерней 9\nУровень 4: Кол-во подшипников 8, Эффективность 4, Кол-во шестерней 11\nУровень 5: Кол-во подшипников 10, Эффективность 5, Кол-во шестерней 13</string>
-    <string name="item_seat_upgrades">Уровень 1: Кол-во соединений 2\nУровень 2: Кол-во соединений 6\nУовень 4: Кол-во соединений 8\nУровень 5: Кол-во соединений 10</string>
-    <string name="item_saddle_upgrades">Уровень 1: Кол-во соединений 2\nУровень 2: Кол-во соединений 6\nУовень 4: Кол-во соединений 8\nУровень 5: Кол-во соединений 10</string>
+    <string name="item_seat_upgrades">Уровень 1: Кол-во соединений 2
+\nУровень 2: Кол-во соединений 4
+\nУровень 3: Кол-во соединений 6
+\nУовень 4: Кол-во соединений 8
+\nУровень 5: Кол-во соединений 10</string>
+    <string name="item_saddle_upgrades">Уровень 1: Кол-во соединений 2
+\nУровень 2: Кол-во соединений 4
+\nУровень 3: Кол-во соединений 6
+\nУовень 4: Кол-во соединений 8
+\nУровень 5: Кол-во соединений 10</string>
     <string name="item_drivers_saddle_upgrades">Уровень 1: Кол-во соединений 6\nУровень 2: Кол-во соединений 8\nУровень 3: Кол-во соединений 12\nУровень 4: Кол-во соединений 16\nУровень 5: Кол-во соединений 20 / Настройки разблокированы</string>
     <string name="item_thruster_upgrades">Уровень 1: Тяга 2, Эффективность 1\nУровень 2: Тяга 3, Эффективность 2\nУровень 3: Тяга 4, Эффективность 3\nУровень 4: Тяга 5, Эффективность 4\nУровень 5: Тяга 6, Эффективность 5</string>
     <string name="item_sensor_upgrades">Уровень 1: Диапазон 4\nУровень 2: Диапазон 8\nУровень 3: Диапазон 12\nУровень 4: Диапазон 16\nУровень 5: Диапазон 20 /Разблокирован цветной режим</string>
