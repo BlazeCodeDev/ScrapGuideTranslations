@@ -417,7 +417,6 @@
     <string name="item_vegetable_box">Ящик для овощей</string>
     <string name="item_veggie_burger">Веганский бургер</string>
     <string name="item_ventilation_grid">Вентиляционная решетка</string>
-    <string name="item_warehouse_key"></string>
     <string name="item_water">Вода</string>
     <string name="item_water_bucket">Ведро для воды</string>
     <string name="item_water_cannon">Водяная пушка</string>
@@ -557,7 +556,6 @@
     <string name="tutorial_memory_setup3">Внешние логические элементы используются для установки активности памяти.  Средний логический блок - это выход, с помощью которого вы можете получить состояние активности.</string>
     <string name="title_creatures">Существа</string>
     <string name="creatures_farmbot_description">Фармбота можно найти в осеннем лесу, сожженном лесу, лесу и в разрушеном городе. Фармботы невосприимчивы к кувалде и нужно 58 попаданий с картофелемета или 25 с помощью фривольвера.</string>
-    <string name="item_hideout_dropoff"></string>
     <string name="item_hideout_dropoff_description">Отведите этого парня к торговцу в укрытие.</string>
     <string name="settings_data_loading_always">Постоянно</string>
     <string name="creatures_drops">Выброшенные предметы</string>
