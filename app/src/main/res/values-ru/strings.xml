@@ -417,6 +417,7 @@
     <string name="item_vegetable_box">Ящик для овощей</string>
     <string name="item_veggie_burger">Веганский бургер</string>
     <string name="item_ventilation_grid">Вентиляционная решетка</string>
+    <string name="item_warehouse_key"></string>
     <string name="item_water">Вода</string>
     <string name="item_water_bucket">Ведро для воды</string>
     <string name="item_water_cannon">Водяная пушка</string>
@@ -556,6 +557,7 @@
     <string name="tutorial_memory_setup3">Внешние логические элементы используются для установки активности памяти.  Средний логический блок - это выход, с помощью которого вы можете получить состояние активности.</string>
     <string name="title_creatures">Существа</string>
     <string name="creatures_farmbot_description">Фармбота можно найти в осеннем лесу, сожженном лесу, лесу и в разрушеном городе. Фармботы невосприимчивы к кувалде и нужно 58 попаданий с картофелемета или 25 с помощью фривольвера.</string>
+    <string name="item_hideout_dropoff"></string>
     <string name="item_hideout_dropoff_description">Отведите этого парня к торговцу в укрытие.</string>
     <string name="settings_data_loading_always">Постоянно</string>
     <string name="creatures_drops">Выброшенные предметы</string>
@@ -636,4 +638,44 @@
     <string name="clear_filters">Очистить фильтры</string>
     <string name="image_not_found">Изображение не найдено!</string>
     <string name="is_near_structures_that_need_power">Всегда может быть найдена в окрестностях структур, требующих энергию.</string>
+    <string name="ruin_chest_crash_site">Сундук Руин - Повреждённый Корабль Обслуживания</string>
+    <string name="damaged_crate">Повреждённый ящик</string>
+    <string name="interactive">Интерактивные</string>
+    <string name="title_reddit">Reddit</string>
+    <string name="always">Всегда</string>
+    <string name="common">Обычный</string>
+    <string name="uncommon">Необычный</string>
+    <string name="rare">Редкий</string>
+
+
+    // PREFERENCES
+    <string name="settings_privacy_policy_title">Политика Конфиденциальности</string>
+    <string name="damaged_crate_warehouse">Повреждённый Ящик - Склад</string>
+    <string name="golden_damaged_crate">Золотой Повреждённый Ящик</string>
+    <string name="golden_damaged_crate_warehouse">Золотой Повреждённый ящик - Склад</string>
+    <string name="ruin_chest">Сундук Руин</string>
+    <string name="ruin_chest_warehouse">Сундук Руин - Склад</string>
+
+
+    // TUTORIALS
+    <string name="tutorial_input">Ввод</string>
+    <string name="tutorial_commands_copied">Скопировано</string>
+    <string name="tutorial_commands_to_clipboard">в буфер обмена</string>
+    <string name="filter_category">Категория</string>
+    <string name="none">Нет</string>
+    <string name="tool">Инструмент</string>
+    <string name="block">Блок</string>
+    <string name="part">Деталь</string>
+    <string name="consumable">Употребляемые</string>
+    <string name="trader">Торговец</string>
+
+    // DESCRIPTIONS
+    <string name="damage_sledgehammer">Урон: 5</string>
+    <string name="damage_spudgun">Урон: 7</string>
+    <string name="damage_spud_shotgun">Урон: 16</string>
+    <string name="damage_spudling_gun">Урон: 4</string>
+
+
+    // LOCATIONS
+    <string name="damaged_crate_crash_site">Повреждённый Ящик - Разбившийся Корабль Обслуживания</string>
 </resources>
