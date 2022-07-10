@@ -141,7 +141,6 @@
     <string name="item_sledgehammer">Marreta</string>
     <string name="item_warehouse_key_description">Consiga matando os Farbots, é usada para destrancar os elevadores dos armazéns. Apenas um uso.</string>
     <string name="title_creatures">Criaturas</string>
-    <string name="creatures_farmbot"/>
     <string name="creatures_health">Saúde</string>
     <string name="creatures_damage">Dano</string>
     <string name="creatures_totebot_description">O Totebot é destruído com 3 ataques de marreta. Eles vão aparecer durante raids.</string>

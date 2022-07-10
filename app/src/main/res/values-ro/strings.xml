@@ -146,7 +146,6 @@
     <string name="item_sledgehammer_description">Acest ciocan măreţ te lasă să împingi obiecte desprinse prin lovirea lor.</string>
     <string name="item_warehouse_key_description">Primeşte-o prin uciderea Farmbotului,este folosită să deblocheze liftul Depozitului.Aceasta este folosită doar o dată.</string>
     <string name="title_creatures">Creaturi</string>
-    <string name="creatures_farmbot"/>
     <string name="creatures_health">Viaţă</string>
     <string name="creatures_damage">Deteriorare</string>
     <string name="item_scrap_stone">Scrap Wood</string>
