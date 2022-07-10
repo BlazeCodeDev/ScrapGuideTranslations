@@ -129,7 +129,6 @@
     <string name="item_logic_gate">Bramka logiczna</string>
     <string name="item_long_i_beam">Długi dwuteownik</string>
     <string name="item_mannequin_boot">But manekina</string>
-    <string name="item_mannequin_hand"></string>
     <string name="item_master_battery">Główny akumulator</string>
     <string name="item_matress">Materac</string>
     <string name="item_medium_tank">Średni zbiornik</string>
@@ -384,7 +383,6 @@
     <string name="item_vacuum_pump_description">Pompa próżniowa ma wiele zastosowań, gdy połączy się ją z włącznikiem. Odessij wodę i przelej ją do zbiornika. Podnieś rośliny i umieść je w skrzyni. Możesz nawet strzelać i umieszczać przedmioty ze skrzyni.</string>
     <string name="item_vacuum_pipe_description">Wykorzystaj w połączeniu z pompą próżniową, aby przenosić przedmioty przez rurę</string>
     <string name="item_vacuum_pipe_corner_description">Wykorzystaj w połączeniu z pompą próżniową, aby przenosić przedmioty przez rurę</string>
-    <string name="item_veggie_burger_description"></string>
     <string name="item_water_description">Świetna do podlewania roślin, niestety nie nadaje się do picia.</string>
     <string name="item_water_bucket_description">Wiadro wypełnione wodą.</string>
     <string name="item_water_cannon_description">Połącz je ze zbiornikiem na wodę z włącznikiem, aby bardziej efektywnie podlewać rośliny</string>

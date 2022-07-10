@@ -164,7 +164,6 @@
     <string name="item_pipe_join">Raccord de tuyau</string>
     <string name="item_pipe_long">Tuyau long</string>
     <string name="item_pipe_short">Tuyau court</string>
-    <string name="item_piston"></string>
     <string name="item_pizza_burger">Burger pizza</string>
     <string name="item_plant_container">Conteneur à plante</string>
     <string name="item_plastic_block">Bloc de plastique</string>
@@ -280,7 +279,6 @@
     <string name="item_vacuum_pipe_corner">Coin de tuyau d\'aspiration</string>
     <string name="item_vacuum_pipe">Tuyau d\'aspiration</string>
     <string name="item_vacuum_pump">Pompe aspirante</string>
-    <string name="item_valve"></string>
     <string name="item_vegetable_box">Carton de légumes</string>
     <string name="item_veggie_burger">Burger végé</string>
     <string name="item_ventilation_grid">Grille de ventilation</string>
@@ -472,7 +470,6 @@
     <string name="title_clothing">Vêtements</string>
     <string name="property_flammable">Inflammable</string>
     <string name="property_buoyancy">Flottabilité</string>
-    <string name="property_friction"></string>
     <string name="property_durability">Durabilité</string>
     <string name="property_weight">Poid</string>
     <string name="creatures_health">Santé</string>
