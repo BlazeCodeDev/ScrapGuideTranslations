@@ -146,12 +146,10 @@
     <string name="item_sledgehammer_description">Acest ciocan măreţ te lasă să împingi obiecte desprinse prin lovirea lor.</string>
     <string name="item_warehouse_key_description">Primeşte-o prin uciderea Farmbotului,este folosită să deblocheze liftul Depozitului.Aceasta este folosită doar o dată.</string>
     <string name="title_creatures">Creaturi</string>
-    <string name="creatures_haybot"/>
     <string name="creatures_farmbot"/>
     <string name="creatures_health">Viaţă</string>
     <string name="creatures_damage">Deteriorare</string>
     <string name="item_scrap_stone">Scrap Wood</string>
-    <string name="item_scrap_wood"/>
     <string name="property_buoyancy">Plutire</string>
     <string name="property_flammable">Flamabilitate</string>
     <string name="property_friction">Fricţie</string>
@@ -164,7 +162,6 @@
     <string name="creatures_tapebot_description">Albastrul Tapebot dă 55 din viaţă iar Tapebotul roşu,care poate fi găsit la ultimul etaj al depozitului aruncă cu explozivil,dând 62 din viaţă.</string>
     <string name="creatures_totebot_description">Totebotul ia 3 lovituri de ciocan pentru a fi distrus.Vor apărea întotdeauna la invazii.</string>
     <string name="creatures_haybot_description">Haybotul este cel mai comun găsit în ruine.Ei iau 5 lovituri de ciocan sau 4 de tunul de cartofi pentru a fi distrus.</string>
-    <string name="creature_glowb"/>
     <string name="title_steam_updates">Actualizări Steam</string>
     <string name="title_clothing">Haine</string>
     <string name="clothing_owned">Obţinut</string>

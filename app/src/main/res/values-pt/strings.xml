@@ -141,11 +141,9 @@
     <string name="item_sledgehammer">Marreta</string>
     <string name="item_warehouse_key_description">Consiga matando os Farbots, é usada para destrancar os elevadores dos armazéns. Apenas um uso.</string>
     <string name="title_creatures">Criaturas</string>
-    <string name="creatures_haybot"/>
     <string name="creatures_farmbot"/>
     <string name="creatures_health">Saúde</string>
     <string name="creatures_damage">Dano</string>
-    <string name="creature_glowb"/>
     <string name="creatures_totebot_description">O Totebot é destruído com 3 ataques de marreta. Eles vão aparecer durante raids.</string>
     <string name="creatures_haybot_description">Os Haybots são encontrados principalmente dentro de ruínas. É necessário 5 ataques de marreta ou 4 tiros com a arma de batata para destrui-lo.</string>
     <string name="creatures_tapebot_description">O Tapebot azul causa 55 de dano, e o Tapebot vermelho, que pode ser encontrado no último andar do armazém e atira explosivos, causa 62 de dano.</string>
