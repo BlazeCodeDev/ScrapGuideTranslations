@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="property_weight">waga</string>
-    <string name="property_durability">trwałość</string>
-    <string name="property_friction">tarcie</string>;
-    <string name="property_buoyancy">pławność</string>
-    <string name="property_flammable">łatwopalność</string>
+    <string name="property_weight">Ciężar</string>
+    <string name="property_durability">Wytrzymałość</string>
+    <string name="property_friction">Tarcie</string>;
+    <string name="property_buoyancy">Wyporność</string>
+    <string name="property_flammable">Łatwopalność</string>
     <string name="item_air_conditioner">Klimatyzator</string>
     <string name="item_antenna">Antena</string>
     <string name="item_armored_glass_block">Blok ze szkła pancernego</string>
@@ -406,4 +406,162 @@
     <string name="item_capsule_glowbug_description">Uderz kapsułę lub strzel do niej, by wypuścić przyjaznego świetlika.</string>
     <string name="item_capsule_farmbot">Kapsuła Farmbota</string>
     <string name="item_capsule_haybot">Kapsuła Haybota</string>
+    <string name="title_more">Więcej</string>
+    <string name="title_locations">Lokalizacje</string>
+    <string name="title_creatures">Stworzenia</string>
+    <string name="title_clothing">Ubrania</string>
+    <string name="title_tutorials">Poradniki</string>
+    <string name="title_tutorial">Poradnik</string>
+    <string name="title_raid_calculator">Kalkulator najazdów</string>
+    <string name="title_raid_calculator_condensed">Kalkulator najazdów</string>
+    <string name="title_steam_updates">Aktualizacje Steam</string>
+    <string name="title_reddit">Reddit</string>
+    <string name="farming_safe">Uprawa jest bezpieczna</string>
+    <string name="farming_not_safe">Uprawa jest zagrożona</string>
+    <string name="farming_1st_night">Pierwsza noc</string>
+    <string name="search">Szukaj</string>
+    <string name="close">Zamknij</string>
+    <string name="farming_3rd_night">Trzecia noc</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    <string name="please_try_again">Proszę spróbuj ponownie</string>
+    <string name="no_item_found">Nie znaleziono przedmiotu!</string>
+    <string name="report_missing_item">Zgłoś brakujący przedmiot</string>
+    <string name="missing_item">Brakujący przedmiot</string>
+    <string name="about">O aplikacji</string>
+    <string name="disclaimer">Zastrzeżenie</string>
+    <string name="title_items">Przedmioty</string>
+    <string name="title_chestloot">Zdobycz ze skrzyni</string>
+    <string name="farming_2nd_night">Druga noc</string>
+    <string name="images_diabled_ram">Obrazy wyłączone przez brak pamięci RAM.</string>
+    <string name="disclaimer_text">Ta aplikacja jest niezwiązana ani nie autoryzowana przez Axolot Games. Nazwy Scrap Mechanic i Axolot Games tak jak powiązane nazwy, znaki, ikony, i obrazy są zarejestrowanymi znakami towarowymi ich właścicieli. Ta aplikacja jest stworzona przez fana dla fanów. Wielkie podziękowania dla ScrapMechanic Wiki!</string>
+    <string name="leave_feedback">Jeśli lubisz korzystać z tej aplikacji możesz poświęcić chwilę na ocenienie jej\? Nie zajmie to dłużej niż minutę. Dzięki za wsparcie!</string>
+    <string name="tap_plus_to_add_note">Naciśnij ikonę plusa aby dodać nową notatkę</string>
+    <string name="settings_theme_light">Jasny</string>
+    <string name="settings_usage_data_summary">Wyślij anonimowy raport o występujących Crashach i użytkowaniu by ulepszyć aplikacje.</string>
+    <string name="settings_translations_not_final">Tłumaczenie nie jest skończone, jestem bardzo wdzięczny za jakąkolwiek pomoc. To otworzy przeglądarkę.</string>
+    <string name="settings_what_report">Co chcesz zgłosić\?</string>
+    <string name="settings_privacy_policy_title">Polityka prywatności</string>
+    <string name="creatures_totebot_description">Totebot przyjmuje trzy uderzenia młota. Zawsze pojawia się na najazdach.</string>
+    <string name="creatures_tapebot_description">Niebieski Tapebot zadaje 55 obrażeń a czerwony, który znajduje się tylko na ostatnim piętrze magazynu strzela wybuchowymi taśmami i zadaje 62 obrażenia.</string>
+    <string name="creatures_woc_description">Aworki mogą być używane do produkcji mleka. Jeśli położysz 3 kukurydzy obok Aworka, pojawi się mleko. Muszą być karmione przynajmniej co 30 dni inaczej znikną.</string>
+    <string name="tutorial_logic_gate_description">Bramka logiczna to cześć używana do porównania dwóch lub więcej wejść. Pozwala na budowanie skomplikowanych i automatycznych układów. Istnieje sześć typów bramek. Możesz wybrać je niżej by zasymulować ich działanie.</string>
+    <string name="tutorial_commands">Komendy</string>
+    <string name="dropped_by_damaged_crates">Zdobycz z uszkodzonych skrzyń.</string>
+    <string name="SEND_EMAIL">Wyślij E-mail używając…</string>
+    <string name="NO_EMAIL_CLIENT">Nie znaleziono klienta E-mail</string>
+    <string name="title_home">Strona główna</string>
+    <string name="title_settings">Ustawienia</string>
+    <string name="EMAIL_TITLE">Zgłoś błąd</string>
+    <string name="website_axolot_title">Odwiedź stronę internetową Axolot Games</string>
+    <string name="sm_steam_title">Kup Scrap Mechanic na Steam</string>
+    <string name="visit_sm_wiki">Odwiedź Scrap Mechanic Wiki</string>
+    <string name="visit_my_website">Odwiedź moją stronę internetową</string>
+    <string name="please_rate">Lubisz tą aplikację\?</string>
+    <string name="rate_now">Oceń teraz</string>
+    <string name="no_thanks">Nie dzięki</string>
+    <string name="later">Później</string>
+    <string name="app_version">Wersja aplikacji</string>
+    <string name="data_for_sm_version">Dane wersji Scrap Mechanic</string>
+    <string name="changing_lang">Zmienianie języka…</string>
+    <string name="rearrange">Przemienianie</string>
+    <string name="restore_default">Czy jesteś pewien że chcesz przywrócić domyślną konfiguracje\?</string>
+    <string name="no_internet_connection">Brak połączenia z internetem</string>
+    <string name="copied_id">Skopiowano ID do schowka</string>
+    <string name="notepad">Notatnik</string>
+    <string name="notepad_title">Tytuł</string>
+    <string name="notepad_text">Tekst</string>
+    <string name="save">Zapisz</string>
+    <string name="field_cannot_be_empty">To pole nie może być puste</string>
+    <string name="delete">Usuń</string>
+    <string name="update_downloaded">Aktualizacja została pobrana</string>
+    <string name="update_install">Instaluj</string>
+    <string name="gamemode_creative">Tryb kreatywny</string>
+    <string name="gamemode_survival">Tryb Przetrwania</string>
+    <string name="gamemode_challenge">Tryb Wyzwań</string>
+    <string name="clear_filters">Wyczyść filtry</string>
+    <string name="image_not_found">Nie znaleziono obrazu!</string>
+    <string name="always">Zawsze</string>
+    <string name="common">Zwykły</string>
+    <string name="uncommon">Niezwykły</string>
+    <string name="rare">Rzadki</string>
+
+
+    // PREFERENCES
+    <string name="settings_category_general">Główny</string>
+    <string name="settings_language">Język</string>
+    <string name="settings_theme">Motyw</string>
+    <string name="settings_theme_dark">Ciemny</string>
+    <string name="settings_theme_system_default">Użyj Motywu Urządzenia</string>
+    <string name="settings_data_loading">Wczytaj Obrazy</string>
+    <string name="settings_data_loading_always">Zawsze</string>
+    <string name="settings_data_loading_wifi">Tylko przez WiFi</string>
+    <string name="settings_vibration_feedback">Wibracje</string>
+    <string name="settings_category_more">Więcej</string>
+    <string name="settings_contribute_translation">Przyczyń się do tłumaczenia</string>
+    <string name="settings_report_bug">Zgłoś błąd</string>
+    <string name="settings_report_bug_summary">Wyślij informację o błędach lub sugestie na temat ulepszenia aplikacji.</string>
+    <string name="settings_usage_data">Wyślij informacje o błędach lub użytkowaniu</string>
+    <string name="settings_bug">Błąd</string>
+    <string name="settings_Translation">Tłumaczenie</string>
+    <string name="settings_Typo">Błąd interpunkcyjny</string>
+    <string name="settings_Other">Inne</string>
+    <string name="settings_suggestion">Sugestia</string>
+
+
+    // CREATURES
+    <string name="creatures_totebot">Totebot</string>
+    <string name="creatures_haybot">Haybot</string>
+    <string name="creatures_tapebot">Tapebot</string>
+    <string name="creatures_farmbot">Farmbot</string>
+    <string name="creature_woc">Awork</string>
+    <string name="creature_glowb">Świetlik</string>
+    <string name="creatures_haybot_description">Hayboty najczęściej znajdowane są w ruinach. Przyjmują 5 uderzeń młota lub 4 strzały z działka na ziemniaki.</string>
+    <string name="creatures_farmbot_description">Farmbot może być znaleziony w jesiennym lesie, spalonym lesie, zwykłym lesie i w mieście ruin. Farmboty są odporne na młot i wytrzymują 58 strzałów w działka na ziemniaki albo 25 strzałów ze strzelby na frytki.</string>
+    <string name="creatures_glowb_description">Świetlik to małe zwierzątko które pojawia się pod wodą w nocy. Możesz wyjąć je z wody i nakarmić je 15 blokami kartonu aby otrzymać 1 sztukę Błyszczaku.</string>
+    <string name="creatures_health">Zdrowie</string>
+    <string name="creatures_damage">Obrażenia</string>
+    <string name="creatures_drops">Łupy</string>
+
+
+    // CHEST LOOT
+    <string name="damaged_crate">Uszkodzona skrzynia</string>
+    <string name="damaged_crate_crash_site">Uszkodzona skrzynia - z wraku statku</string>
+    <string name="damaged_crate_warehouse">Uszkodzona skrzynia - z magazynu</string>
+    <string name="golden_damaged_crate">Uszkodzona złota skrzynia</string>
+    <string name="golden_damaged_crate_warehouse">Uszkodzona złota skrzynia - z magazynu</string>
+    <string name="ruin_chest">Skrzynia z ruin</string>
+    <string name="ruin_chest_crash_site">Skrzynia z ruin - z rozbitego statku</string>
+    <string name="ruin_chest_warehouse">Skrzynia z ruin - z magazynu</string>
+
+
+    // TUTORIALS
+    <string name="tutorial_memory">Pamięć</string>
+    <string name="tutorial_demonstration">Demonstracja</string>
+    <string name="tutorial_input">Wejście</string>
+    <string name="tutorial_output">Wyjście</string>
+    <string name="tutorial_how_to_setup">Jak ustawić</string>
+    <string name="tutorial_commands_copied">Skopiowano</string>
+    <string name="tutorial_commands_to_clipboard">Do schowka</string>
+    <string name="tutorial_commands_only">Tylko</string>
+
+    // ITEMS
+    <string name="description">Opis</string>
+    <string name="crafting">Tworzenie</string>
+    <string name="trading">Handel</string>
+    <string name="properties">Właściwości</string>
+    <string name="extra_info">Dodatkowe informacje</string>
+    <string name="filter_category">Kategoria</string>
+    <string name="none">Żadne</string>
+    <string name="tool">Narzędzie</string>
+    <string name="block">Klocek</string>
+    <string name="part">Część</string>
+    <string name="interactive">Interaktywne</string>
+    <string name="consumable">Użytkowe</string>
+    <string name="trader">Handlarz</string>
+
+    // DESCRIPTIONS
+    <string name="can_be_traded_at_the_hideout">Zdobywane przez handel u handlarza.</string>
+    <string name="obtained_in_warehouse">Mogą być znalezione w Magazynie.</string>
+    <string name="crafted_in_cookbot">Musi być wyprodukowane w Cookbocie.</string>
 </resources>
