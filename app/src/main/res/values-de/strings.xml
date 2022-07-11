@@ -656,4 +656,12 @@
     // PREFERENCES
     <string name="item_radio_beacon_description">Sendet ein Signal, welches im Logbuch aktiviert und deaktiviert werden kann.</string>
     <string name="item_radio_beacon">Leuchtfeuer</string>
+    <string name="creatures_haybot">Haybot</string>
+    <string name="creatures_tapebot">Tapebot</string>
+    <string name="creatures_farmbot">Farmbot</string>
+    <string name="creature_woc">Woc</string>
+    <string name="creature_glowb">Glowb</string>
+    <string name="title_steam_updates">Steam Updates</string>
+    <string name="app_version">App Version</string>
+    <string name="creatures_totebot">Totebot</string>
 </resources>
