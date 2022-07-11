@@ -226,4 +226,5 @@
     <string name="trader">Comerciante</string>
     <string name="image_not_found">Imagem não encondrada!</string>
     <string name="is_near_structures_that_need_power">Sempre pode ser encontrado perto de estruturas que precisam de energia.</string>
+    <string name="always">Sempre</string>
 </resources>
