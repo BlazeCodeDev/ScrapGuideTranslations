@@ -217,4 +217,5 @@
     <string name="clear_filters">Curăță filtre</string>
     <string name="image_not_found">Imagine negasita!</string>
     <string name="is_near_structures_that_need_power">Poate fi găsit mereu in vecinătatea structurilor care necesita electricitate.</string>
+    <string name="always">Mereu</string>
 </resources>
