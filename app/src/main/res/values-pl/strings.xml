@@ -413,9 +413,9 @@
     <string name="title_clothing">Ubrania</string>
     <string name="title_tutorials">Poradniki</string>
     <string name="title_tutorial">Poradnik</string>
-    <string name="title_raid_calculator">Kalkulator najazdów</string>
-    <string name="title_raid_calculator_condensed">Kalkulator najazdów</string>
-    <string name="title_steam_updates">Aktualizacje Steam</string>
+    <string name="title_raid_calculator">Kalkulator raidów</string>
+    <string name="title_raid_calculator_condensed">Kalkulator raidów</string>
+    <string name="title_steam_updates">Aktualizacje na Steam</string>
     <string name="title_reddit">Reddit</string>
     <string name="farming_safe">Uprawa jest bezpieczna</string>
     <string name="farming_not_safe">Uprawa jest zagrożona</string>
@@ -449,7 +449,7 @@
     <string name="tutorial_logic_gate_description">Bramka logiczna to cześć używana do porównania dwóch lub więcej wejść. Pozwala na budowanie skomplikowanych i automatycznych układów. Istnieje sześć typów bramek. Możesz wybrać je niżej by zasymulować ich działanie.</string>
     <string name="tutorial_commands">Komendy</string>
     <string name="dropped_by_damaged_crates">Zdobycz z uszkodzonych skrzyń.</string>
-    <string name="SEND_EMAIL">Wyślij E-mail używając…</string>
+    <string name="SEND_EMAIL">Wyślij E-Maila używając…</string>
     <string name="NO_EMAIL_CLIENT">Nie znaleziono klienta E-mail</string>
     <string name="title_home">Strona główna</string>
     <string name="title_settings">Ustawienia</string>
