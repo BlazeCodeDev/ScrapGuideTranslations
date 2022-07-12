@@ -336,7 +336,8 @@
     <string name="item_headlight_description">I stała się jasność! Połącz z włącznikiem, aby móc włączać i wyłączać. Możliwość dostosowania zasięgu.</string>
     <string name="item_horn_description">Dodaj ją do pojazdu lub używaj jako dzwonka do drzwi. Zatrąb na przyjaciół, by uniknąć wypadku. Ustaw skalę dźwięku i uruchom trąbkę, łącząc ją z włącznikiem.</string>
     <string name="item_large_chest_description">Świetna do przechowywania wielu przedmiotów. Może być także używana z pompą próżniową</string>
-    <string name="item_large_explosive_canister_description">Niezwykle wybuchowy kanister, który można zdetonować poprzez silne zderzenie lub za pomocą działka na kartofle\nTen kanister ma niewielkie pole rażenia.</string>
+    <string name="item_large_explosive_canister_description">Niezwykle wybuchowy kanister, który można zdetonować poprzez silne zderzenie lub za pomocą działka na kartofle
+\nTen kanister ma duże pole rażenia.</string>
     <string name="item_lift_description">Budując na podnośniku, stworzysz konstrukcję, która nie będzie przytwierdzona do podłoża. Możesz go podnieść lub opuścić. Służy również do podnoszenia konstrukcji, które się przewróciły.</string>
     <string name="item_logic_gate_description">Bramka logiczna to potężny blok, który pozwala tworzyć podstawowe funkcje logiczne. Wciskając „E” na bloku, można wybrać spośród kilku rodzajów bramek logicznych. Bramki logiczne można łączyć między sobą oraz z włącznikami, timerami i innymi elementami. Idealne do tworzenia skomplikowanych konstrukcji.</string>
     <string name="item_master_battery_description">Dostarcza energię dużym statkom kosmicznym i stacjom</string>
@@ -564,4 +565,306 @@
     <string name="can_be_traded_at_the_hideout">Zdobywane przez handel u handlarza.</string>
     <string name="obtained_in_warehouse">Mogą być znalezione w Magazynie.</string>
     <string name="crafted_in_cookbot">Musi być wyprodukowane w Cookbocie.</string>
+    <string name="stone_woc">Kamienna aworka</string>
+    <string name="oil_lake">Jezioro ropy</string>
+    <string name="oil_lake_description">Jezioro ropy może być znalezione na pustyni, użyj pompy by wypompować ropę.</string>
+
+    //INTERACTIVE ITEMS
+    <string name="item_sensor_upgrades">Poz. 1: zasięg 4
+\nPoz. 2: zasięg 8
+\nPoz. 3: zasięg 12
+\nPoz. 4: zasięg 16
+\nPoz. 5: zasięg 20 / możliwy odczyt kolorów</string>
+    <string name="item_offroad_suspension_upgrades">Poz. 1: sztywność 4
+\nPoz. 2: sztywność 6
+\nPoz. 3: sztywność 9
+\nPoz. 4: sztywność 13
+\nPoz. 5: sztywność 20</string>
+    <string name="item_gas_engine_upgrades">Poz. 1: łożyska 2, efektywność 1, biegi 5
+\nPoz. 2: łożyska 4, efektywność 2, biegi 7
+\nPoz. 3: łożyska 6, efektywność 3, biegi 9
+\nPoz. 4: łożyska 8, efektywność 4, biegi 11
+\nPoz. 5: łożyska 10, efektywność 5, biegi 13</string>
+    <string name="item_drivers_seat_upgrades">Poz. 1: połączenia 6
+\nPoz. 2: połączenia 8
+\nPoz. 3: połączenia 12
+\nPoz. 4: połączenia 16
+\nPoz. 5: połączenia 20 / ustawienia łożysk odblokowane</string>
+    <string name="item_seat_upgrades">Poz. 1: połączenia 2
+\nPoz. 2: połączenia 4
+\nPoz. 3: połączenia 6
+\nPoz. 4: połączenia 8
+\nPoz. 5: połączenia 10</string>
+    <string name="item_drivers_saddle_upgrades">Poz. 1: połączenia 6
+\nPoz. 2: połączenia 8
+\nPoz. 3: połączenia 12
+\nPoz. 4: połączenia 16
+\nPoz. 5: połączenia 20 / ustawienia łożysk odblokowane</string>
+    <string name="item_saddle_upgrades">Poz. 1: połączenia 2
+\nPoz. 2: połączenia 4
+\nPoz. 3: połączenia 6
+\nPoz. 4: połączenia 8
+\nPoz. 5: połączenia 10</string>
+    <string name="item_banana_status_info">Czas wzrostu: 21h
+\nCzas wzrostu po na wiezieniu: 10h
+\nNasycenie: +40
+\nNawodnienie: +15</string>
+    <string name="crashed_maintenance_ship_description">Główna bateria jest wymagana do aktywowania podstawowego Craftbota w środku. Niedaleko znajdziesz podstawowy sprzęt rolniczy. Żółte pudełko w kokpicie zawiera dziennik.</string>
+    <string name="item_veggie_burger_description">Wegańska alternatywa. Zapełnia wszystkie paski.</string>
+    <string name="ruin_description">Mamy kilka rodzajów ruin. Zazwyczaj zawierają uszkodzone skrzynie i skrzynie z ruin. Hayboty i stogi siana pojawiają się w w środku i dookoła ruin. Uderz młotem lub strzel w stogi siana bo odkryć uszkodzoną skrzynie. Nie każdy stóg ją zawiera.</string>
+    <string name="ruin_city_description">Idealne miejsce do znajdowania uszkodzonych skrzyń i zestawów komponentów. Bądź ostrożny jest ty dużo Haybotów, a nawet Farmbotów.</string>
+    <string name="stone_woc_description">Padok z aworkiem z kamienia który jest otoczony prawdziwymi aworkami. Znajdziesz to w środku lasu.</string>
+    <string name="item_sport_suspension_upgrades">Poz. 1: sztywność 4
+\nPoz. 2: sztywność 6
+\nPoz. 3: sztywność 9
+\nPoz. 4: sztywność 13
+\nPoz. 5: sztywność 20</string>
+    <string name="item_piston_upgrades">Poz. 1: zasięg 7, prędkość 2, siła 1
+\nPoz. 2: zasięg 9, prędkość 4, siła 2
+\nPoz. 3: zasięg 11, prędkość 6, siła 3
+\nPoz. 4: zasięg 13, prędkość 8, siła 4
+\nPoz. 5: zasięg 15, prędkość 10, siła 5</string>
+    <string name="item_electric_engine_upgrades">Poz. 1: łożyska 2, efektywność 1, biegi 5
+\nPoz. 2: łożyska 4, efektywność 2, biegi 7
+\nPoz. 3: łożyska 6, efektywność 3, biegi 9
+\nPoz. 4: łożyska 8, efektywność 4, biegi 11
+\nPoz. 5: łożyska 10, efektywność 5, biegi 13</string>
+    <string name="tutorial_memory_setup3">Zewnętrzne bramki logiczne są używane do ustawienia pamięci. Środkowa bramka jest wyjściem z którego dostajemy stan pamięci.</string>
+    <string name="tutorial_timer_description">Regulator czasowy to część która jest używana do opóźnienia sygnału w układzie. Można z nich też zbudować prosty zegar. Zobacz jak poniżej.</string>
+    <string name="tutorial_timer_setup1">Umieść regulator czasowy, dwie bramki logiczne i przełącznik.</string>
+    <string name="tutorial_memory_description">Pamięć to kombinacja 3 bramek logicznych które są używane do przechowywania wartości binarnych. Możesz użyć ich do przerobienia guzika na przełącznik lub zapisania pozycji np. dźwigu. Potrzebujesz pamięci do każdego bardziej zaawansowanego układu.</string>
+    <string name="tutorial_memory_setup1">Postaw 3 bramki. Ustaw pierwszą na NOR, drugą na OR a trzecią na NOR.</string>
+    <string name="tutorial_memory_setup2">Połącz pierwszą do drugiej, drugą do trzeciej a trzecią do pierwszej. Kolejność jest ważna.</string>
+    <string name="clothing_golf_shoes">Buty golfisty</string>
+    <string name="tutorial_timer_setup2">Ustaw jedną bramkę na AND, a drugą na NOR i ustaw regulator czasowy na interwał który potrzebujesz do swojego układu. Ja użyłem 500ms.</string>
+    <string name="tutorial_timer_setup3">Połącz przełącznik do bramki AND, bramkę AND do timera, timer do bramki NOR i bramkę NOR do bramki AND. Teraz przełącz przełącznik.</string>
+    <string name="tutorial_commands_description">Możesz użyć tych komend by zmienić sposób gry. Możesz włączyć ukryte przedmioty lub tworzyć rzeczy, tylko bądź ostrożny. Wprowadź je na czacie w grze by aktywować.</string>
+    <string name="crafted_in_mechanic_station">Musi być wytworzone w Warsztacie.</string>
+    <string name="can_be_found_at_crashsites">Może być znalezione w miejscu wypadku.</string>
+    <string name="feed_to_wocs">Nakarm tym Aworki by otrzymać mleko.</string>
+    <string name="get_at_packing_station">Zdobądź to w stacji pakowania.</string>
+    <string name="is_near_structures_that_need_power">Może być znalezione w sąsiedztwie struktur potrzebujących energii.</string>
+    <string name="scrap_stone_origin">Otrzymywane poprzez wiercenie w skałach. Najczęściej można je znaleźć w lesie.</string>
+    <string name="scrap_wood_origin">Otrzymywane poprzez ścinanie małych drzew lub rozbieranie straganów.</string>
+    <string name="glue_clam_origin">Zdobywane z dużych małż które znajdują się pod wodą.</string>
+    <string name="chemical_origin">Zdobywane poprzez grabież uszkodzonych skrzyń lub pompowanie ich z zakładów chemicznych. Wiaderko też da radę.</string>
+    <string name="pigment_flower_origin">otrzymywane z kwiatów. Najczęściej występują w lesie.</string>
+    <string name="circuit_board_origin">Zdobywane z grabieży uszkodzonych skrzyń lub niszczenia farmbotów.</string>
+    <string name="cotton_origin">Otrzymywane przez zbieranie w jesiennym lesie.</string>
+    <string name="glow_origin">Otrzymane przez karmienie świetlika 15 blokami kartonu. Świetlik występuje pod wodą w nocy. To świecący zielono żółty stworek. Możesz go podnieść i wyjąć z wody. Nie skrzywdzi cię.</string>
+    <string name="ember_origin">Zdobywane przez ścinanie spalonych drzew młotkiem.</string>
+    <string name="crude_oil_origin">Zdobywane przez zbieranie baniek oleju bod wodą.</string>
+    <string name="scrap_metal_origin">Otrzymywane z przetworzenia części farmbotów.</string>
+    <string name="beeswax_origin">Zdobywane przez niszczenie uli pszczół, które najczęściej występują na ścianach skał. Możesz zniszczyć je młotkiem, pszczoły cię nie skrzywdzą.</string>
+    <string name="component_kit_origin">Zestawy komponenty są upuszczane przez uszkodzone skrzynki, Hayboty, Tapeboty i Farmboty. Mogą być także w skrzyniach z ruin.</string>
+    <string name="damage_sledgehammer">Obrażenia: 5</string>
+    <string name="damage_spudgun">Obrażenia: 7</string>
+    <string name="damage_spud_shotgun">Obrażenia: 16</string>
+    <string name="damage_spudling_gun">Obrażenia: 4</string>
+
+
+    // LOCATIONS
+    <string name="crashed_maintenance_ship">Uszkodzony statek konserwacyjny</string>
+    <string name="haymaze">Labirynt z siana</string>
+    <string name="haymaze_description">Labirynt stworzony z bel siana. Nie ma tu nic ciekawego.</string>
+    <string name="packing_station">Stacja pakowania</string>
+    <string name="ruin">Ruina</string>
+    <string name="farmer_shack">Stragan</string>
+    <string name="warehouse">Magazyn</string>
+    <string name="farmer_shack_description">Stragany znajdują się koło dróg. Można tam znaleźć ziemię, nasiona i dużo materiału budowlanego. Rolnicy tu żyli i sprzedawali towar.</string>
+    <string name="mechanic_station">Warsztat</string>
+    <string name="mechanic_station_description">Warsztat ma wielki podświetlany klucz na dachu.możesz znaleźć baterię w baraku koło warsztatu. Po tym jak odstawisz ją na miejsce aktywujesz konsole tworzenia. Możesz tam stworzyć Craftbota, Dressbota, Cookbota, Refinebota i zbieracz zasobów.</string>
+    <string name="farmers_hideout">Kryjówka Rolnika</string>
+    <string name="autumn_forest">Jesienny las</string>
+    <string name="autumn_forest_description">Wspaniałe miejsce do szukania wełny i uwięzionych rolników.</string>
+    <string name="farmers_hideout_description">Przywieź ty swoje owoce i warzywa lub uwięzionych rolników. Możesz położyć rzeczy w oznaczonym miejscu i naciskać guzik obok. To wessie składniki i będziesz mógł je wymienić.
+\n
+\nMożesz tu kupować przedmioty jak działko na ziemniaki lub rzadkie nasiona.</string>
+    <string name="burned_forest">Spalony las</string>
+    <string name="burned_forest_description">Możesz ty znaleźć niedopałki, używane przy tworzeniu. Po prostu uderzaj w drzewa młotem.</string>
+    <string name="chemical_plant">Zakłady chemiczne</string>
+    <string name="chemical_plant_description">Nie wpadnij do różowego jeziora, to chemikalia. Możesz użyć wiadra lub pompy bu je wyssać.</string>
+    <string name="forest">Las</string>
+    <string name="forest_description">Dobre źródło drewna i kamienia. Zalecane jest by wziąć ze sobą piłę i wiertło by wykorzystać cały potencjał.</string>
+    <string name="ruin_city">Miasto ruin</string>
+    <string name="water_plant">Zakłady wodne</string>
+    <string name="water_plant_description">Teren wokół jest płaski i zawiera dużo wody, co czyni to idealnym miejscem na farmę, gdyż łatwo ją też obronić.</string>
+    <string name="underwater">Głębiny</string>
+    <string name="underwater_description">Znajdziesz tu małże, ropę i Świetliki. Te małe świecące zielono-żółte stworki upuszczą błyszczaka kiedy nakarmisz je 15 blokami kartonu.</string>
+    <string name="item_carrot_status_info">Czas wzrostu: 21h
+\nCzas wzrostu po na wiezieniu: 10h
+\nNasycenie: +30
+\nNawodnienie: +10</string>
+    <string name="item_redbeet_status_info">Czas wzrostu: 21h
+\nCzas wzrostu po na wiezieniu: 10h
+\nNasycenie: +20
+\nNawodnienie: +20</string>
+    <string name="item_broccoli_status_info">Czas wzrostu: 42h
+\nCzas wzrostu po na wiezieniu: 20h
+\nNasycenie: +50
+\nNawodnienie: +20</string>
+    <string name="item_potato_status_info">Czas wzrostu: 21h
+\nCzas wzrostu po na wiezieniu: 10h</string>
+    <string name="item_woc_milk_status_info">Nasycenie: +10
+\nNawodnienie: +40</string>
+    <string name="item_sunshake_status_info">Zdrowie: +10
+\nNasycenie: +25
+\nNawodnienie: +35</string>
+    <string name="item_pizza_burger_info">Zdrowie: +100
+\nNasycenie: +100
+\nNawodnienie: +100</string>
+    <string name="item_veggie_burger_info">Zdrowie: +100
+\nNasycenie: +100
+\nNawodnienie: +100</string>
+
+    //CLOTHING
+    <string name="clothing_owned">Posiadane</string>
+    <string name="clothing_not_owned">Nie posiadane</string>
+    <string name="clothing_automotive_gloves">Automobilowe rękawice</string>
+    <string name="clothing_automotive_hat">Automobilowa czapka</string>
+    <string name="clothing_automotive_jacket">Automobilowa kurtka</string>
+    <string name="clothing_automotive_pants">Automobilowe spodnie</string>
+    <string name="clothing_automotive_shoes">Automobilowe buty</string>
+    <string name="clothing_delivery_backpack">Plecak dostawczy</string>
+    <string name="clothing_delivery_hat">Czapka dostawcy</string>
+    <string name="clothing_delivery_jacket">Kurtka dostawcy</string>
+    <string name="clothing_delivery_pants">Spodnie dostawcy</string>
+    <string name="clothing_delivery_shoes">Buty dostawcy</string>
+    <string name="clothing_demolition_backpack">Plecak do rozbiórki</string>
+    <string name="clothing_demolition_gloves">Rękawice człowieka demolki</string>
+    <string name="clothing_demolition_jacket">Kurtka człowieka demolki</string>
+    <string name="clothing_demolition_pants">Spodnie człowieka demolki</string>
+    <string name="clothing_demolition_shoes">Buty człowieka demolki</string>
+    <string name="clothing_lumberjack_backpack">Plecak drwala</string>
+    <string name="clothing_lumberjack_gloves">Rękawice drwala</string>
+    <string name="clothing_lumberjack_hat">Czapka drwala</string>
+    <string name="clothing_lumberjack_jacket">Koszulka drwala</string>
+    <string name="clothing_lumberjack_shoes">Buty drwala</string>
+    <string name="clothing_engineer_backpack">Plecak inżyniera</string>
+    <string name="clothing_engineer_gloves">Rękawice inżyniera</string>
+    <string name="clothing_engineer_jacket">Kurtka inżyniera</string>
+    <string name="clothing_engineer_hat">Okulary inżyniera</string>
+    <string name="clothing_engineer_pants">Spodnie inżyniera</string>
+    <string name="clothing_engineer_shoes">Buty inżyniera</string>
+    <string name="clothing_painter_shoes">Buty malarza</string>
+    <string name="clothing_painter_gloves">Rękawice malarza</string>
+    <string name="clothing_painter_jacket">Kurtka malarza</string>
+    <string name="clothing_painter_pants">Spodnie malarza</string>
+    <string name="clothing_painter_hat">Maska malarza</string>
+    <string name="clothing_golf_backpack">Plecak do golfa</string>
+    <string name="clothing_golf_hat">Czapka golfisty</string>
+    <string name="clothing_golf_pants">Spodnie golfisty</string>
+    <string name="clothing_farmhand_shoes">Buty parobka</string>
+    <string name="clothing_farmhand_gloves">Rękawice parobka</string>
+    <string name="clothing_farmhand_hat">Czapka parobka</string>
+    <string name="clothing_farmhand_jacket">Koszulka parobka</string>
+    <string name="clothing_farmhand_pants">Spodnie parobka</string>
+    <string name="clothing_technician_gloves">Rękawice technika</string>
+    <string name="clothing_technician_hat">Okulary technika</string>
+    <string name="clothing_technician_jacket">Kurtka technika</string>
+    <string name="clothing_technician_pants">Spodnie technika</string>
+    <string name="clothing_technician_shoes">Buty technika</string>
+    <string name="clothing_applicator_backpack">Plecak aplikatora</string>
+    <string name="clothing_applicator_gloves">Rękawice aplikatora</string>
+    <string name="clothing_applicator_hat">Kaptur aplikatora</string>
+    <string name="clothing_applicator_pants">Spodnie aplikatora</string>
+    <string name="clothing_applicator_shoes">Buty aplikatora</string>
+    <string name="clothing_farmer_gloves">Rękawice rolnika</string>
+    <string name="clothing_farmer_hat">Czapka rolnika</string>
+    <string name="clothing_farmer_jacket">Koszula rolnika</string>
+    <string name="clothing_farmer_pants">Spodnie rolnika</string>
+    <string name="clothing_farmer_shoes">Buty rolnika</string>
+    <string name="clothing_crash_mechanic_backpack">Zniszczony plecak mechanika</string>
+    <string name="clothing_crash_mechanic_jacket">Zniszczona kurtka mechanika</string>
+    <string name="clothing_crash_mechanic_pants">Podarte spodnie mechanika</string>
+    <string name="clothing_crash_mechanic_shoes">But mechanika</string>
+    <string name="clothing_stuntman_gloves">Rękawice kaskadera</string>
+    <string name="clothing_stuntman_hat">Kask kaskadera</string>
+    <string name="clothing_stuntman_backpack">Plecak kaskadera</string>
+    <string name="clothing_stuntman_pants">Spodnie kaskadera</string>
+    <string name="clothing_stuntman_shoes">Buty kaskadera</string>
+    <string name="clothing_connection_tshirt">Koszulka \"połączenie\"</string>
+    <string name="clothing_bearing_tshirt">Koszulka \"łożyska\"</string>
+    <string name="clothing_tomato_tshirt">Koszulka \"pomidor\"</string>
+    <string name="clothing_totebot_tshirt_1">Koszulka \"Totebot\"</string>
+    <string name="clothing_totebot_tshirt_2">Koszulka \"totem\"</string>
+    <string name="clothing_axolot_tshirt">Koszulka \"Axolot\"</string>
+    <string name="clothing_lift_tshirt">Koszulka \"Need lift\"</string>
+    <string name="clothing_farmbot_tshirt">Koszulka firmowa</string>
+    <string name="clothing_broccoli_tshirt">Koszulka \"brokuł\"</string>
+    <string name="clothing_banana_tshirt">Koszulka \"banan\"</string>
+    <string name="clothing_blueberry_tshirt">Koszulka \"borówka\"</string>
+    <string name="clothing_duck_tshirt">Koszulka \"kwa\"</string>
+    <string name="clothing_controller_tshirt">Koszulka \"kontroler\"</string>
+    <string name="clothing_seat_tshirt">Koszulka \"siedzenie\"</string>
+    <string name="clothing_cornpattern_tshirt">Koszulka \"kukurydza\"</string>
+    <string name="clothing_gas_tshirt">Koszulka \"benzyna\"</string>
+    <string name="clothing_logical_tshirt">Logiczna koszulka</string>
+    <string name="clothing_pizzaburger_tshirt">Koszulka \"pizza burger\"</string>
+    <string name="clothing_woclove_tshirt">Koszulka \"kocham aworki\"</string>
+    <string name="clothing_playing_wrong_tshirt">Koszulka \"grasz źle\"</string>
+
+
+
+    //ITEMS
+    <string name="item_scrap_stone">Kamień z odzysku</string>
+    <string name="item_scrap_metal">Metal z odzysku</string>
+    <string name="item_scrap_wood">Drewno z odzysku</string>
+    <string name="item_hideout_dropoff">Uwięziony koleś</string>
+    <string name="item_thruster_upgrades">Poz. 1: odrzut 2, efektywność 1
+\nPoz. 2: odrzut 3, efektywność 2
+\nPoz. 3: odrzut 4, efektywność 3
+\nPoz. 4: odrzut 5, efektywność 4
+\nPoz. 5: odrzut 6, efektywność 5</string>
+    <string name="item_pineapple_status_info">Czas wzrostu: 42h
+\nCzas wzrostu po na wiezieniu: 20h
+\nNasycenie: +20
+\nNawodnienie: +50</string>
+    <string name="item_tomato_status_info">Czas wzrostu: 21h
+\nCzas wzrostu po na wiezieniu: 10h
+\nNasycenie: +10
+\nNawodnienie: +30</string>
+    <string name="clothing_automotive_backpack">Automobilowy Plecak</string>
+    <string name="item_radio_beacon_description">Emituje sygnał który może być przełączony w dzienniku.</string>
+    <string name="item_sledgehammer_description">Ten młot pomoże ci w poruszaniu luźnych rzeczy poprze uderzanie ich.</string>
+    <string name="clothing_delivery_gloves">Rękawice dostawcy</string>
+    <string name="clothing_demolition_hat">Kask człowieka demolki</string>
+    <string name="item_warehouse_key_description">Zdobądź go niszcząc farmbota, jest używany do odblokowania windy magazynu. Jednorazowy.</string>
+    <string name="item_orange_status_info">Czas wzrostu: 21h
+\nCzas wzrostu po na wiezieniu: 10h
+\nNasycenie: +15
+\nNawodnienie: +40</string>
+    <string name="item_controller_upgrades">Poz. 1: połączenia 1, prędkość 2
+\nPoz. 2: połączenia 2, prędkość e
+\nPoz. 3: połączenia 4, prędkość 5
+\nPoz. 4: połączenia 8, prędkość 7
+\nPoz. 5: połączenia 10, prędkość 9</string>
+    <string name="clothing_lumberjack_pants">Spodnie drwala</string>
+    <string name="clothing_painter_backpack">Plecak malarza</string>
+    <string name="clothing_golf_gloves">Rękawice golfisty</string>
+    <string name="clothing_golf_jacket">Koszulka golfisty</string>
+    <string name="clothing_technician_backpack">Plecak technika</string>
+    <string name="clothing_applicator_jacket">Strój aplikatora</string>
+    <string name="warehouse_description">To najniebezpieczniejsze miejsce w grze. Potrzebujesz klucza do magazynu żeby się tu dostać. Otrzymasz go zabijając Farmbota.
+\n
+\nSą dwa typy magazynów, dwu piętrowe i cztero piętrowe. Oba zawierają pokój skarbów na najwyższym piętrze z 5 uszkodzonymi złotymi skrzyniami. Dlatego zalecane jest odwiedzanie dwu piętrowych magazynów.
+\n
+\nTapeboty są w środku i dookoła magazynu i będą do ciebie strzelać. Zalecane jest posiadanie pistoletu na ziemniaki przed wizytą. Czerwony Tapebot będzie strzelał wybuchowymi taśmami.</string>
+    <string name="clothing_crash_mechanic_gloves">Połowa rękawicy mechanika</string>
+    <string name="clothing_stuntman_jacket">Kurtka kaskadera</string>
+    <string name="clothing_totebot_tshirt_3">Koszulka \"toteboty i księżyc\"</string>
+    <string name="clothing_sensor_tshirt">Czuła koszulka</string>
+    <string name="clothing_carrotpattern_tshirt">Koszulka \"marchewki\"</string>
+    <string name="clothing_scrap_muffin_tshirt">Koszulka \"Scrap muffin\"</string>
+    <string name="item_radio_beacon">Drogowskaz</string>
+    <string name="item_sledgehammer">Młot</string>
+    <string name="item_hideout_dropoff_description">Zabierz tego kolesia do handlarza w kryjówce.</string>
+    <string name="item_mannequin_hand">Dłoń manekina</string>
+    <string name="packing_station_description">Bilbord pokazuje jak jej używać. Potrzebujesz pompy podłączonej do dużej skrzyni na swoim pojeździe. Połącz guzik do pompy i wypełnij skrzynie przedmiotem który chcesz zapakować. Pasek na stacji pokaże poziom wypełnienia.
+\nSą dwa typy stacji pakowania.
+\nJedna przyjmuje warzywa a druga owoce. Zabierz skrzynie do kryjówki.</string>
+    <string name="item_blueberry_status_info">Czas wzrostu: 21h
+\nCzas wzrostu po na wiezieniu: 10h
+\nNasycenie: +30
+\nNawodnienie: +30</string>
 </resources>
