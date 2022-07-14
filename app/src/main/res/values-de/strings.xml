@@ -138,10 +138,16 @@
     <string name="item_thruster_upgrades">Lvl 1: Schub 2, Effizienz 1\nLvl 2: Schub 3, Effizienz 2\nLvl 3: Schub 4, Effizienz 3\nLvl 4: Schub 5, Effizienz 4\nLvl 5: Schub 6, Effizienz 5</string>
     <string name="item_controller_upgrades">Lvl 1: Verbindungen 1, Geschwindigkeit 2\nLvl 2: Verbindungen 2, Geschwindigkeit 3\nLvl 3: Verbindungen 4, Geschwindigkeit 5\nLvl 4: Verbindungen 8, Geschwindigkeit 7\nLvl 5: Verbindungen 10, Geschwindigkeit 9</string>
     <string name="item_banana_status_info">Wachszeit ungedüngt: 21h\nWachszeit gedüngt: 10h\nHunger: +40\nDurst: +15</string>
-    <string name="item_blueberry_status_info">Wachszeit ungedüngt: 21h\nWachszeit gedüngt: 10h\nHunger: +30\nDurst: +30</string>
+    <string name="item_blueberry_status_info">Wachszeit ungedüngt: 21h
+\nWachszeit gedüngt: 10h
+\nHunger: +30
+\nDurst: +30</string>
     <string name="item_orange_status_info">Wachszeit ungedüngt: 21h\nWachszeit gedüngt: 10h\nHunger: +15\nDurst: +40</string>
     <string name="item_pineapple_status_info">Wachszeit ungedüngt: 42h\nWachszeit gedüngt: 20h\nHunger: +20\nDurst: +50</string>
-    <string name="item_carrot_status_info">Wachszeit ungedüngt: 21h\nWachszeit gedüngt: 10h\nHunger: +30\nDurst: +10</string>
+    <string name="item_carrot_status_info">Wachszeit ungedüngt: 21h
+\nWachszeit gedüngt: 10h
+\nHunger: +30
+\nDurst: +10</string>
     <string name="item_redbeet_status_info">Wachszeit ungedüngt: 21h\nWachszeit gedüngt: 10h\nHunger: +20\nDurst: +20</string>
     <string name="item_tomato_status_info">Wachszeit ungedüngt: 21h\nWachszeit gedüngt: 10h\nHunger: +10\nDurst: +30</string>
     <string name="item_broccoli_status_info">Wachszeit ungedüngt: 42h\nWachszeit gedüngt: 20h\nHunger: +50\nDurst: +20</string>
@@ -664,4 +670,105 @@
     <string name="title_steam_updates">Steam Updates</string>
     <string name="app_version">App Version</string>
     <string name="creatures_totebot">Totebot</string>
-</resources>
+    <string name="clothing_automotive_backpack">Automobilrucksack</string>
+    <string name="clothing_delivery_backpack">Lieferrucksack</string>
+    <string name="clothing_demolition_jacket">Zerstörungsjacke</string>
+    <string name="clothing_lumberjack_shoes">Holzfällerschuhe</string>
+    <string name="clothing_painter_gloves">Malerhandschuhe</string>
+    <string name="clothing_farmhand_gloves">Bauernhandschuhe</string>
+    <string name="clothing_technician_jacket">Technikerjacke</string>
+    <string name="clothing_applicator_shoes">Lackiererschuhe</string>
+    <string name="clothing_stuntman_pants">Stuntmanhose</string>
+    <string name="clothing_totebot_tshirt_3">T-Shirt \"Totebot Mond\"</string>
+    <string name="clothing_farmhand_shoes">Bauernshuhe</string>
+    <string name="clothing_controller_tshirt">T-Shirt \"Control Freak\"</string>
+    <string name="clothing_pizzaburger_tshirt">T-Shirt \"Pizza Burger\"</string>
+    <string name="clothing_woclove_tshirt">T-Shirt \"Woc Liebe\"</string>
+    <string name="golden_damaged_crate">Goldene Kiste</string>
+    <string name="ruin_chest">Ruinenkiste</string>
+    <string name="none">Keine</string>
+    <string name="clothing_automotive_gloves">Automobilhandschuhe</string>
+    <string name="clothing_automotive_hat">Automobilhut</string>
+    <string name="clothing_automotive_jacket">Automobiljacke</string>
+    <string name="clothing_automotive_pants">Automobilhose</string>
+    <string name="clothing_automotive_shoes">Automobilschuhe</string>
+    <string name="clothing_delivery_gloves">Lieferhandschuhe</string>
+    <string name="clothing_delivery_hat">Lieferhut</string>
+    <string name="clothing_delivery_jacket">Lieferjacke</string>
+    <string name="clothing_delivery_pants">Lieferhose</string>
+    <string name="clothing_delivery_shoes">Lieferschuhe</string>
+    <string name="clothing_demolition_backpack">Zerstörungsrucksack</string>
+    <string name="clothing_demolition_gloves">Zerstörungshandschuhe</string>
+    <string name="clothing_demolition_hat">Zerstörungshut</string>
+    <string name="clothing_demolition_pants">Zerstörungshose</string>
+    <string name="clothing_demolition_shoes">Zerstörungsschuhe</string>
+    <string name="clothing_lumberjack_backpack">Holzfällerrucksack</string>
+    <string name="clothing_lumberjack_gloves">Holzfällerhandschuhe</string>
+    <string name="clothing_lumberjack_hat">Holzfällerhut</string>
+    <string name="clothing_lumberjack_jacket">Holzfällerjacke</string>
+    <string name="clothing_lumberjack_pants">Holzfällerhose</string>
+    <string name="clothing_engineer_backpack">Ingenieursrucksack</string>
+    <string name="clothing_engineer_gloves">Ingenieurshandschuhe</string>
+    <string name="clothing_engineer_hat">Ingenieurshut</string>
+    <string name="clothing_engineer_jacket">Ingenieursjacke</string>
+    <string name="clothing_engineer_pants">Ingenieurshose</string>
+    <string name="clothing_engineer_shoes">Ingenieursschuhe</string>
+    <string name="clothing_painter_backpack">Malerrucksack</string>
+    <string name="clothing_painter_shoes">Malerschuhe</string>
+    <string name="clothing_painter_hat">Malerhut</string>
+    <string name="clothing_painter_jacket">Malerjacke</string>
+    <string name="clothing_painter_pants">Malerhose</string>
+    <string name="clothing_golf_backpack">Golfrucksack</string>
+    <string name="clothing_golf_shoes">Golfschuhe</string>
+    <string name="clothing_golf_gloves">Golfhandschuhe</string>
+    <string name="clothing_golf_hat">Golfhut</string>
+    <string name="clothing_golf_jacket">Golfjacke</string>
+    <string name="clothing_golf_pants">Golfhose</string>
+    <string name="clothing_farmhand_hat">Bauernhut</string>
+    <string name="clothing_farmhand_jacket">Bauernjacke</string>
+    <string name="clothing_farmhand_pants">Bauernhose</string>
+    <string name="clothing_technician_backpack">Technikerrucksack</string>
+    <string name="clothing_technician_gloves">Technikerhandschuhe</string>
+    <string name="clothing_technician_hat">Technikerhut</string>
+    <string name="clothing_technician_pants">Technikerhose</string>
+    <string name="clothing_technician_shoes">Technikerschuhe</string>
+    <string name="clothing_applicator_backpack">Lackiererrucksack</string>
+    <string name="clothing_applicator_gloves">Lackiererhandschuhe</string>
+    <string name="clothing_applicator_hat">Lackiererhut</string>
+    <string name="clothing_applicator_jacket">Lackiererjacke</string>
+    <string name="clothing_applicator_pants">Lackiererhose</string>
+    <string name="clothing_farmer_gloves">Bauernhandschuhe</string>
+    <string name="clothing_farmer_hat">Bauernhut</string>
+    <string name="clothing_farmer_jacket">Bauernjacke</string>
+    <string name="clothing_farmer_pants">Bauernhose</string>
+    <string name="clothing_farmer_shoes">Bauernschuhe</string>
+    <string name="clothing_stuntman_gloves">Stuntmanhandschuhe</string>
+    <string name="clothing_stuntman_hat">Stuntmanhelm</string>
+    <string name="clothing_stuntman_backpack">Stuntmanrucksack</string>
+    <string name="clothing_stuntman_jacket">Stuntmanjacke</string>
+    <string name="clothing_stuntman_shoes">Stuntmanschuhe</string>
+    <string name="clothing_connection_tshirt">T-Shirt \"Verbindung\"</string>
+    <string name="clothing_bearing_tshirt">T-Shirt \"Kugellager\"</string>
+    <string name="clothing_tomato_tshirt">T-Shirt \"Tomate\"</string>
+    <string name="clothing_totebot_tshirt_1">T-Shirt \"Totebot Muster\"</string>
+    <string name="clothing_totebot_tshirt_2">T-Shirt \"Totem\"</string>
+    <string name="clothing_axolot_tshirt">T-Shirt \"Axolot\"</string>
+    <string name="clothing_lift_tshirt">T-Shirt \"Lift\"</string>
+    <string name="clothing_farmbot_tshirt">T-Shirt \"Unternehmen\"</string>
+    <string name="clothing_broccoli_tshirt">T-Shirt \"Broccoli\"</string>
+    <string name="clothing_banana_tshirt">T-Shirt \"Banane\"</string>
+    <string name="clothing_blueberry_tshirt">T-Shirt \"Blaubeere\"</string>
+    <string name="clothing_duck_tshirt">T-Shirt \"Quack\"</string>
+    <string name="clothing_sensor_tshirt">T-Shirt \"Sensor\"</string>
+    <string name="clothing_seat_tshirt">T-Shirt \"Sitz\"</string>
+    <string name="clothing_carrotpattern_tshirt">T-Shirt \"Karottenmuster\"</string>
+    <string name="clothing_cornpattern_tshirt">T-Shirt \"Mais Muster\"</string>
+    <string name="clothing_gas_tshirt">T-Shirt \"Benzin\"</string>
+    <string name="clothing_logical_tshirt">T-Shirt \"Logisch\"</string>
+    <string name="clothing_scrap_muffin_tshirt">T-Shirt \"Schrott Muffin\"</string>
+    <string name="clothing_playing_wrong_tshirt">T-Shirt \"Du spielst falsch\"</string>
+
+
+
+    //ITEMS
+    </resources>
