@@ -331,7 +331,7 @@
     <string name="item_headlight_description">Que la visibilité soit ! Connectez-le à un déclencheur pour l\'allumer ou l\'éteindre. Portée du faisceau ajustable.</string>
     <string name="item_horn_description">Ajoutez-le à votre véhicule ou utilisez-le en tant que sonnette. Klaxonnez vos amis pour éviter les accidents. Choisissez le ton et connectez-le à un déclencheur pour l\'activer.</string>
     <string name="item_large_chest_description">Idéal pour ranger plein d\'objets. Peut aussi fonctionner avec une pompe aspirante</string>
-    <string name="item_large_explosive_canister_description">Une bonbonne hautement explosive en cas de fortes collisions ou avec des lances-patates\nCette bonbonne a un grand rayon d\'explosion.</string>
+    <string name="item_large_explosive_canister_description">Une bonbonne hautement explosive en cas de fortes collisions ou avec des lances-patates. Cette bonbonne a un grand rayon d\'explosion.</string>
     <string name="item_lift_description">Construire sur le cric offre la possibilité de déplacer librement vos constructions, elles ne seront pas fixées au sol. Vous pouvez replacer n\'importe quelle création non ancrée sur le cric.</string>
     <string name="item_logic_gate_description">La fonction logique est un bloc très puissant qui vous permet de construire des fonctions logiques de base. Appuyez sur E sur le bloc, et votre mécano pourra choisir entre différentes sortes de fonctions logiques. La fonction logique peut être connectée à d\'autres fonctions logiques, à des déclencheurs, des minuteurs, et bien d\'autres. Idéale pour les créations avancées.</string>
     <string name="item_master_battery_description">Alimente les grands vaisseaux spatiaux ou les stations</string>
