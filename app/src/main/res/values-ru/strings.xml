@@ -123,7 +123,10 @@
 \nЖажда: +30</string>
     <string name="item_orange_status_info">Время роста без удобрения: 21ч\nВремя роста с удобрением: 10ч\nГолод: +15\nЖажда: +40</string>
     <string name="item_pineapple_status_info">Время роста без удобрения: 42ч\nВремя роста с удобрением: 20ч\nГолод: +20\nЖажда: +50</string>
-    <string name="item_carrot_status_info">Время роста без удобрения: 21ч\nВремя роста с удобрением: 10ч\nГолод: +30\nЖажда: +10</string>
+    <string name="item_carrot_status_info">Время роста без удобрения: 21ч
+\nВремя роста с удобрением: 10ч
+\nГолод: +30
+\nЖажда: +10</string>
     <string name="item_redbeet_status_info">Время роста без удобрения: 21ч\nВремя роста с удобрением: 20ч\nГолод: +10\nЖажда: +20</string>
     <string name="item_tomato_status_info">Время роста без удобрения: 21ч\nВремя роста с удобрением: 10ч\nГолод: +10\nЖажда: +30</string>
     <string name="item_broccoli_status_info">Время роста без удобрения: 42ч\nВремя роста с удобрением: 20ч\nГолод: +50\nЖажда: +20</string>
@@ -464,8 +467,7 @@
     <string name="item_headlight_description">Да будет видимость! Активируется триггером. Настраиваемый радиус освещения.</string>
     <string name="item_horn_description">Можно присоединить к транспорту или использовать как дверной звонок. Подавайте сигналы друзьям, чтобы избежать аварий. Выберите частоту и присоедините триггер.</string>
     <string name="item_large_chest_description">Здесь помещается множество вещей. Можно подсоединить вакуумный насос</string>
-    <string name="item_large_explosive_canister_description">Крайне взрывоопасная канистра, которая детонирует при сильном ударе и картофельном обстреле.
-\nИмеет большой радиус взрыва.</string>
+    <string name="item_large_explosive_canister_description">Крайне взрывоопасная канистра, которая детонирует при сильном ударе и картофельном обстреле. Имеет большой радиус взрыва.</string>
     <string name="item_lift_description">На подъемнике можно строить конструкции, которые не нужно закреплять на земле. Можно поднимать и опускать – и поднимать опрокинувшиеся конструкции.</string>
     <string name="item_logic_gate_description">Логический затвор – мощный блок, позволяющий строить простейшие логические схемы. Клавиша E позволяет выбрать тип логического затвора. Можно подключать к другим затворам, триггерам, таймерам и прочим элементам. Позволяет создавать продвинутые конструкции.</string>
     <string name="item_master_battery_description">Питает большие космические корабли или станции</string>
@@ -670,10 +672,10 @@
     <string name="trader">Торговец</string>
 
     // DESCRIPTIONS
-    <string name="damage_sledgehammer">Урон: 5</string>
-    <string name="damage_spudgun">Урон: 7</string>
+    <string name="damage_sledgehammer">Урон: 20</string>
+    <string name="damage_spudgun">Урон: 28</string>
     <string name="damage_spud_shotgun">Урон: 16</string>
-    <string name="damage_spudling_gun">Урон: 4</string>
+    <string name="damage_spudling_gun">Урон: 20</string>
 
 
     // LOCATIONS
