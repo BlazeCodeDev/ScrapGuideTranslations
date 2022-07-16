@@ -336,8 +336,7 @@
     <string name="item_headlight_description">I stała się jasność! Połącz z włącznikiem, aby móc włączać i wyłączać. Możliwość dostosowania zasięgu.</string>
     <string name="item_horn_description">Dodaj ją do pojazdu lub używaj jako dzwonka do drzwi. Zatrąb na przyjaciół, by uniknąć wypadku. Ustaw skalę dźwięku i uruchom trąbkę, łącząc ją z włącznikiem.</string>
     <string name="item_large_chest_description">Świetna do przechowywania wielu przedmiotów. Może być także używana z pompą próżniową</string>
-    <string name="item_large_explosive_canister_description">Niezwykle wybuchowy kanister, który można zdetonować poprzez silne zderzenie lub za pomocą działka na kartofle
-\nTen kanister ma duże pole rażenia.</string>
+    <string name="item_large_explosive_canister_description">Niezwykle wybuchowy kanister, który można zdetonować poprzez silne zderzenie lub za pomocą działka na kartofle. Ten kanister ma duże pole rażenia.</string>
     <string name="item_lift_description">Budując na podnośniku, stworzysz konstrukcję, która nie będzie przytwierdzona do podłoża. Możesz go podnieść lub opuścić. Służy również do podnoszenia konstrukcji, które się przewróciły.</string>
     <string name="item_logic_gate_description">Bramka logiczna to potężny blok, który pozwala tworzyć podstawowe funkcje logiczne. Wciskając „E” na bloku, można wybrać spośród kilku rodzajów bramek logicznych. Bramki logiczne można łączyć między sobą oraz z włącznikami, timerami i innymi elementami. Idealne do tworzenia skomplikowanych konstrukcji.</string>
     <string name="item_master_battery_description">Dostarcza energię dużym statkom kosmicznym i stacjom</string>
@@ -657,10 +656,10 @@
     <string name="scrap_metal_origin">Otrzymywane z przetworzenia części farmbotów.</string>
     <string name="beeswax_origin">Zdobywane przez niszczenie uli pszczół, które najczęściej występują na ścianach skał. Możesz zniszczyć je młotkiem, pszczoły cię nie skrzywdzą.</string>
     <string name="component_kit_origin">Zestawy komponenty są upuszczane przez uszkodzone skrzynki, Hayboty, Tapeboty i Farmboty. Mogą być także w skrzyniach z ruin.</string>
-    <string name="damage_sledgehammer">Obrażenia: 5</string>
-    <string name="damage_spudgun">Obrażenia: 7</string>
+    <string name="damage_sledgehammer">Obrażenia: 20</string>
+    <string name="damage_spudgun">Obrażenia: 28</string>
     <string name="damage_spud_shotgun">Obrażenia: 16</string>
-    <string name="damage_spudling_gun">Obrażenia: 4</string>
+    <string name="damage_spudling_gun">Obrażenia: 20</string>
 
 
     // LOCATIONS
@@ -861,6 +860,7 @@
     <string name="item_hideout_dropoff_description">Zabierz tego kolesia do handlarza w kryjówce.</string>
     <string name="item_mannequin_hand">Dłoń manekina</string>
     <string name="packing_station_description">Bilbord pokazuje jak jej używać. Potrzebujesz pompy podłączonej do dużej skrzyni na swoim pojeździe. Połącz guzik do pompy i wypełnij skrzynie przedmiotem który chcesz zapakować. Pasek na stacji pokaże poziom wypełnienia.
+\n
 \nSą dwa typy stacji pakowania.
 \nJedna przyjmuje warzywa a druga owoce. Zabierz skrzynie do kryjówki.</string>
     <string name="item_blueberry_status_info">Czas wzrostu: 21h
