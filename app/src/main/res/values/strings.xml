@@ -191,10 +191,10 @@
     <string name="crude_oil_origin">Receive it by collecting the oil bubbles underwater.</string>
     <string name="beeswax_origin">Receive it by collecting bee hives, which are most commonly of the side of a rock. You can destroy it with a hammer, the bees won\'t hurt you.</string>
     <string name="component_kit_origin">Component Kits are dropped by Damaged Crates, Haybots, Tapebots, and Farmbots. They can also be found in Ruin Chests.</string>
-    <string name="damage_sledgehammer">Damage: 5</string>
-    <string name="damage_spudgun">Damage: 7</string>
-    <string name="damage_spud_shotgun">Damage: 16</string>
-    <string name="damage_spudling_gun">Damage: 4</string>
+    <string name="damage_sledgehammer">Damage: 20</string>
+    <string name="damage_spudgun">Damage: 28</string>
+    <string name="damage_spud_shotgun">Damage: 64 (16 per fry)</string>
+    <string name="damage_spudling_gun">Damage: 20</string>
 
 
     // LOCATIONS
@@ -204,6 +204,7 @@
     <string name="haymaze_description">A maze made out of hay bales. There is nothing special in there.</string>
     <string name="packing_station">Packing Station</string>
     <string name="packing_station_description">The billboard shows you how to use it. You will need a vacuum pump attached to a large chest on your vehicle. Connect a button to the vacuum pump and fill the chest with the item you want to give to the packing station. A bar at the station will tell you how much to put in the plant to receive one crate of the item.
+\n
 \nThere are two types of packing stations. One takes vegetables and one fruit.
 \nTake the crates to a hideout.</string>
     <string name="ruin">Ruin</string>
@@ -248,15 +249,9 @@
     <string name="item_saddle_upgrades">Lvl 1: Connections 2\nLvl 2: Connections 4\nLvl 3: Connections 6\nLvl 4: Connections 8\nLvl 5: Connections 10</string>
     <string name="item_thruster_upgrades">Lvl 1: Thrust 2, Efficiency 1\nLvl 2: Thrust 3, Efficiency 2\nLvl 3: Thrust 4, Efficiency 3\nLvl 4: Thrust 5, Efficiency 4\nLvl 5: Thrust 6, Efficiency 5</string>
     <string name="item_banana_status_info">Growth Time Unfertilized: 21h\nGrowth Time Fertilized: 10h\nHunger: +40\nThirst: +15</string>
-    <string name="item_blueberry_status_info">Growth Time Unfertilized: 21h
-\nGrowth Time Fertilized: 10h
-\nHunger: +30
-\nThirst: +30</string>
+    <string name="item_blueberry_status_info">Growth Time Unfertilized: 21h Growth Time Fertilized: 10h Hunger: +30 Thirst: +30</string>
     <string name="item_pineapple_status_info">Growth Time Unfertilized: 42h\nGrowth Time Fertilized: 20h\nHunger: +20\nThirst: +50</string>
-    <string name="item_carrot_status_info">Growth Time Unfertilized: 21h
-\nGrowth Time Fertilized: 10h
-\nHunger: +30
-\nThirst: +10</string>
+    <string name="item_carrot_status_info">Growth Time Unfertilized: 21h Growth Time Fertilized: 10h Hunger: +30 Thirst: +10</string>
     <string name="item_redbeet_status_info">Growth Time Unfertilized: 21h\nGrowth Time Fertilized: 10h\nHunger: +20\nThirst: +20</string>
     <string name="item_tomato_status_info">Growth Time Unfertilized: 21h\nGrowth Time Fertilized: 10h\nHunger: +10\nThirst: +30</string>
     <string name="item_broccoli_status_info">Growth Time Unfertilized: 42h\nGrowth Time Fertilized: 20h\nHunger: +50\nThirst: +20</string>
@@ -733,8 +728,7 @@
     <string name="item_headlight_description">Let there be visibility! Connect to a trigger to turn on and off. Adjustable beam range.</string>
     <string name="item_horn_description">Add it to your vehicle or use it as a door bell. Honk at your friends to avoid accidents. Set the pitch and connect it to a trigger to activate it.</string>
     <string name="item_large_chest_description">Great for storing a lot of items. Can also be used with a Vacuum Pump</string>
-    <string name="item_large_explosive_canister_description">Highly explosive canister that can detonate by strong collisions or by Spud Guns.
-\nThis canister has a large explosion radius.</string>
+    <string name="item_large_explosive_canister_description">Highly explosive canister that can detonate by strong collisions or by Spud Guns. This canister has a large explosion radius.</string>
     <string name="item_lift_description">Build on the lift to create freely movable constructions that won\'t be fixed to the ground. Can be elevated and lowered as well as lift creations that have flipped over.</string>
     <string name="item_logic_gate_description">The Logic Gate is a powerful block that allows you to build basic logical functions. By pressing E on the block, the mechanic can choose between different logic gate types. The logic gate can be connected to other logic gates, triggers, timers and more. Great for making advanced creations.</string>
     <string name="item_master_battery_description">Used to power on large spaceships or stations</string>
