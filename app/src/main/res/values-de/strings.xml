@@ -96,6 +96,7 @@
     <string name="haymaze_description">Ein Labyrinth aus Heuballen. Hier gibt es nichts besonderes.</string>
     <string name="packing_station">Packstation</string>
     <string name="packing_station_description">Das Plakat zeigt an wie die Packstation zu benutzen ist. Es wird eine Vakuumpumpe an eine großen Truhe auf einem Fahrzeg benötigt. Verbinde einen Knopf mit der Vakuumpumpe und fülle die Kiste mit den Gegenständen, die der Packstation übergeben werden sollen. Eine Leiste an der Station zeigt den Füllstand an.
+\n
 \nEs gibt zwei Arten von Packstationen, eine für Obst und eine für Gemüse.</string>
     <string name="ruin">Ruine</string>
     <string name="ruin_description">Es gibt mehrere Arten von Ruinen. Sie enthalten für gewöhnlich kaputte Kisten und Ruinenkisten. Heubots spawnen im inneren und in der Nähe. Sie können mit dem Hammer geschlagen, oder mit der Knollenkanone abgeschossen werden.  Einige Heuhaufen haben kaputte Kisten darunter.</string>
@@ -209,10 +210,10 @@
     <string name="delete">Löschen</string>
     <string name="tap_plus_to_add_note">Tippe das Plus Symbol an um eine Notiz hinzuzufügen</string>
     <string name="tutorial_how_to_setup">Einrichtung</string>
-    <string name="damage_sledgehammer">Schaden: 5</string>
-    <string name="damage_spudgun">Schaden: 7</string>
-    <string name="damage_spud_shotgun">Schaden: 16</string>
-    <string name="damage_spudling_gun">Schaden: 4</string>
+    <string name="damage_sledgehammer">Schaden: 20</string>
+    <string name="damage_spudgun">Schaden: 28</string>
+    <string name="damage_spud_shotgun">Schaden: 64 (16 pro Pommes)</string>
+    <string name="damage_spudling_gun">Schaden: 20</string>
     <string name="item_staircase_wedge">Treppenkeil</string>
     <string name="item_capsule_woc">Woc-Kapsel</string>
     <string name="item_capsule_woc_description">Schieße auf die Kapsel oder schlage sie, um einen freundlichen Woc freizulassen.</string>
@@ -594,7 +595,7 @@
     <string name="item_headlight_description">Sorgt für bessere Sicht! Verbinde ihn mit einem Auslöser, um ihn ein- und auszuschalten. Einstellbare Reichweite.</string>
     <string name="item_horn_description">Kommt an deinem Fahrzeug oder als Türklingel zum Einsatz. Hupe deine Freunde an, um Unfälle zu vermeiden. Stell die Tonhöhe ein und verbinde sie mit einem Auslöser, um sie zu aktivieren.</string>
     <string name="item_large_chest_description">Großartig zum Aufbewahren vieler Gegenstände. Kann zusammen mit einer Vakuumpumpe verwendet werden</string>
-    <string name="item_large_explosive_canister_description">Ein hochexplosiver Kanister, der durch starke Zusammenstöße oder die Knollenkanone zur Explosion gebracht werden kann.\nMit kleinem Explosionsradius.</string>
+    <string name="item_large_explosive_canister_description">Ein hochexplosiver Kanister, der durch starke Zusammenstöße oder die Knollenkanone zur Explosion gebracht werden kann. Mit kleinem Explosionsradius.</string>
     <string name="item_lift_description">Baue auf der Hebevorrichtung frei bewegliche Konstruktionen, die nicht am Boden verankert sind. Kann nach oben und unten bewegt werden und kopfstehende Konstruktionen wieder aufrichten.</string>
     <string name="item_logic_gate_description">Das Logikgatter ist ein leistungsstarker Block, mit dem du physische Formen programmieren kannst. Drücke E auf dem Block, damit der Mechaniker aus verschiedenen Logikgattertypen auswählen kann. Das Logikgatter kann mit andern Logikgattern, Auslösern, Timern und mehr verbunden werden. Eignet sich super, um Profi-Konstruktionen zu bauen.</string>
     <string name="item_master_battery_description">Versorgt große Raumschiffe oder Stationen mit Energie</string>
@@ -771,4 +772,17 @@
 
 
     //ITEMS
-    </resources>
+    <string name="damaged_crate_crash_site">Beschädigte Kiste - Abgestürztes Wartungsschiff</string>
+    <string name="damaged_crate_warehouse">Beschädigte Kiste - Lagerhaus</string>
+    <string name="golden_damaged_crate_warehouse">Goldene Kiste - Lagerhaus</string>
+    <string name="ruin_chest_crash_site">Ruinenkiste - Abgestürztes Wartungsschiff</string>
+    <string name="ruin_chest_warehouse">Ruinenkiste - Lagerhaus</string>
+
+
+    // TUTORIALS
+    <string name="clothing_crash_mechanic_gloves">Beschädigte Mechanikerhandschuhe</string>
+    <string name="clothing_crash_mechanic_backpack">Beschädigter Mechanikerrucksack</string>
+    <string name="clothing_crash_mechanic_jacket">Beschädigte Mechanikerjacke</string>
+    <string name="clothing_crash_mechanic_pants">Beschädigte Mechanikerhose</string>
+    <string name="clothing_crash_mechanic_shoes">Beschädigte Mechanikerschuhe</string>
+</resources>
