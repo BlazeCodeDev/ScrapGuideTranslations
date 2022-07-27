@@ -439,7 +439,7 @@
     <string name="tap_plus_to_add_note">Naciśnij ikonę plusa aby dodać nową notatkę</string>
     <string name="settings_theme_light">Jasny</string>
     <string name="settings_usage_data_summary">Wyślij anonimowy raport o występujących Crashach i użytkowaniu by ulepszyć aplikacje.</string>
-    <string name="settings_translations_not_final">Tłumaczenie nie jest skończone, jestem bardzo wdzięczny za jakąkolwiek pomoc. To otworzy przeglądarkę.</string>
+    <string name="settings_translations_not_final">Tłumaczenie nie jest skończone, jestem bardzo wdzięczny za jakąkolwiek pomoc.</string>
     <string name="settings_what_report">Co chcesz zgłosić\?</string>
     <string name="settings_privacy_policy_title">Polityka prywatności</string>
     <string name="creatures_totebot_description">Totebot przyjmuje trzy uderzenia młota. Zawsze pojawia się na najazdach.</string>
@@ -658,7 +658,7 @@
     <string name="component_kit_origin">Zestawy komponenty są upuszczane przez uszkodzone skrzynki, Hayboty, Tapeboty i Farmboty. Mogą być także w skrzyniach z ruin.</string>
     <string name="damage_sledgehammer">Obrażenia: 20</string>
     <string name="damage_spudgun">Obrażenia: 28</string>
-    <string name="damage_spud_shotgun">Obrażenia: 16</string>
+    <string name="damage_spud_shotgun">Obrażenia: 64 (16 per fry)</string>
     <string name="damage_spudling_gun">Obrażenia: 20</string>
 
 
