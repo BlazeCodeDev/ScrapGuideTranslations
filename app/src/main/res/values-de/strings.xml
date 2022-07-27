@@ -48,7 +48,7 @@
     <string name="settings_usage_data">Sende Absturz- und Nutzungsdaten</string>
     <string name="settings_usage_data_summary">Sende anonyme Daten über Abstürze und die Nutzung der App, um sie weiter zu verbessern.</string>
     <string name="settings_contribute_translation">Trage zur Übersetzung bei</string>
-    <string name="settings_translations_not_final">Die Übersetzungen sind nicht final und ich bin über jede Hilfe dankbar. Das wird eine Website öffnen.</string>
+    <string name="settings_translations_not_final">Die Übersetzungen sind nicht final und ich bin über jede Hilfe dankbar.</string>
     <string name="settings_report_bug">Fehler Melden</string>
     <string name="settings_report_bug_summary">Sende Informationen über Fehler oder Vorschläge wie die App weiter verbessert werden kann.</string>
     <string name="settings_what_report">Was möchtest du melden?</string>
