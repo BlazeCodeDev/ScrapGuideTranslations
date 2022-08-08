@@ -1,2 +1,137 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="title_settings">Beállítások</string>
+    <string name="title_items">Elemek</string>
+    <string name="title_more">Több</string>
+    <string name="title_clothing">Ruházat</string>
+    <string name="title_chestloot">Láda Tartalom</string>
+    <string name="title_tutorials">Oktatóanyagok</string>
+    <string name="title_reddit">Reddit</string>
+    <string name="farming_not_safe">Nem biztonságos a farmolás</string>
+    <string name="farming_1st_night">1. Éjszaka</string>
+    <string name="farming_2nd_night">2. Éjszaka</string>
+    <string name="farming_3rd_night">3. Éjszaka</string>
+    <string name="yes">Igen</string>
+    <string name="no">Nem</string>
+    <string name="please_try_again">Próbálja újra</string>
+    <string name="report_missing_item">Hiányzó elem jelentése</string>
+    <string name="missing_item">Hiányzó Elem</string>
+    <string name="about">Az alkalmazásról</string>
+    <string name="disclaimer">Jogi nyilatkozat</string>
+    <string name="website_axolot_title">Axolot weboldalának meglátogatása</string>
+    <string name="sm_steam_title">ScrapMechanic vásárlása Steam-en</string>
+    <string name="visit_sm_wiki">ScrapMechanic Wiki meglátogatása</string>
+    <string name="visit_my_website">A weboldalam meglátogatása</string>
+    <string name="please_rate">Tetszik az alkalmazás\?</string>
+    <string name="rate_now">Értékeld most</string>
+    <string name="no_thanks">Nem, köszönöm</string>
+    <string name="later">Később</string>
+    <string name="app_version">Alkalmazás Verzió</string>
+    <string name="data_for_sm_version">ScrapMechanic Verzió</string>
+    <string name="changing_lang">Nyelv Váltása …</string>
+    <string name="rearrange">Átrendezés</string>
+    <string name="restore_default">Biztos vissza szeretnéd állítani az eredeti sorrendet\?</string>
+    <string name="no_internet_connection">Nincs Internet Kapcsolat</string>
+    <string name="copied_id">ID vágólapra másolva</string>
+    <string name="notepad">Jegyzettömb</string>
+    <string name="notepad_title">Cím</string>
+    <string name="notepad_text">Szöveg</string>
+    <string name="save">Mentés</string>
+    <string name="field_cannot_be_empty">Ez a mező nem maradhat üresen</string>
+    <string name="delete">Törlés</string>
+    <string name="update_downloaded">Egy frissítés letöltődött</string>
+    <string name="update_install">Telepítés</string>
+    <string name="gamemode_creative">Kreatív Mód</string>
+    <string name="gamemode_survival">Túlélő Mód</string>
+    <string name="clear_filters">Szűrők Törlése</string>
+    <string name="image_not_found">Kép nem található!</string>
+    <string name="always">Mindig</string>
+    <string name="common">Gyakori</string>
+    <string name="rare">Ritka</string>
+
+
+    // PREFERENCES
+    <string name="settings_category_general">Általános</string>
+    <string name="settings_language">Nyelv</string>
+    <string name="settings_theme_dark">Sötét</string>
+    <string name="settings_theme_system_default">Rendszer Alapértelmezett</string>
+    <string name="settings_data_loading">Képek Betöltése</string>
+    <string name="settings_data_loading_wifi">Csak WiFi</string>
+    <string name="settings_data_loading_always">Mindig</string>
+    <string name="settings_vibration_feedback">Rezgés Visszajelzés</string>
+    <string name="settings_category_more">Több</string>
+    <string name="settings_contribute_translation">Hozzájárulás a Fordításhoz</string>
+    <string name="settings_translations_not_final">A fordítások nem véglegesek és minden segítségért hálás vagyok.</string>
+    <string name="settings_report_bug">Hiba Jelentése</string>
+    <string name="settings_report_bug_summary">Küldj információt az alkalmazás hibáiról, vagy arról, hogyan lehetne továbbfejleszteni.</string>
+    <string name="settings_what_report">Mit szeretnél jelenteni\?</string>
+    <string name="settings_bug">Hiba</string>
+    <string name="settings_Typo">Elírás</string>
+    <string name="settings_privacy_policy_title">Adatvédelmi irányelvek</string>
+    <string name="settings_Translation">Fordítás</string>
+    <string name="settings_Other">Egyéb</string>
+    <string name="settings_suggestion">Javaslat</string>
+
+
+    // CREATURES
+    <string name="creatures_totebot">Totebot</string>
+    <string name="creatures_haybot">Haybot</string>
+    <string name="creatures_tapebot">Tapebot</string>
+    <string name="creature_glowb">Glowb</string>
+    <string name="creatures_haybot_description">A Haybot legkönnyebben a romok belsejében található. 5 ütés kalapáccsal, vagy 4 találat krumpliágyúval.</string>
+    <string name="creatures_farmbot_description">A Farmbot megtalálható őszi erdőben, leégett erdőben, erdőben és a romvárosban. A Farmbot-ok immunisak a kalapácsra és 58 találatok a krumpliágyúval, vagy 25 a krumpli shotgun-al.</string>
+    <string name="creatures_health">Életerő</string>
+    <string name="creatures_damage">Sebzés</string>
+    <string name="creatures_drops">Zsákmány</string>
+
+
+    // CHEST LOOT
+    <string name="damaged_crate">Sérült Láda</string>
+    <string name="golden_damaged_crate_warehouse">Arany Sérült Láda - Raktár</string>
+    <string name="ruin_chest">Rom Láda</string>
+    <string name="ruin_chest_warehouse">Rom Láda - Raktár</string>
+
+
+    // TUTORIALS
+    <string name="tutorial_memory">Memória</string>
+    <string name="tutorial_demonstration">Demonstráció</string>
+    <string name="tutorial_input">Bemenet</string>
+    <string name="tutorial_output">Kimenet</string>
+    <string name="tutorial_how_to_setup">Összeállítás</string>
+    <string name="tutorial_memory_setup1">Rakj le 3 logikai kaput. Állítsd át az elsőt NOR-ra, a másodikat OR-ra és a harmadikat is NOR-ra.</string>
+    <string name="tutorial_memory_setup3">A külső logikai kapukkal állíthatod a memóriát. A középső kapu pedig a kimenet ami mutatja a memória állapotát.</string>
+    <string name="tutorial_timer_description">Az időzítő egy olyan elem amivel késleltetheted a jelet egy logikai folyamatban. Emellett használhatod egyszerű órák építéséhez. Alább láthatod, hogyan.</string>
+    <string name="tutorial_timer_setup1">Rakj le egy időzítőt, két logikai kaput és egy kapcsolót.</string>
+    <string name="tutorial_timer_setup3">Kösd a kapcsolót az AND kapuba, az AND kaput az időzítőbe, az időzítőt a NOR kapuba és a NOR kaput az AND kapuba. Ezután kapcsold be.</string>
+    <string name="tutorial_commands">Parancsok</string>
+    <string name="farming_safe">Biztonságos a farmolás</string>
+    <string name="search">Keresés</string>
+    <string name="no_item_found">Nem található elem!</string>
+    <string name="ruin_chest_crash_site">Rom Láda - Lezuhant Karbantartó Hajó</string>
+    <string name="disclaimer_text">Ez az alkalmazás nem hivatalos, vagy felülvizsgált az Axolot Games által. Az megnevezés Scrap Mechanic, Axolot Games és minden kapcsolódó név, jelölés, embléma és kép regisztrált védjegye a tulajdonosainak. Ezt az alkalmazást egy rajongó csinálta rajongóknak. Hatalmas köszönet a ScrapMechanic Wiki-nek!</string>
+    <string name="leave_feedback">Ha élvezed az alkalmazás használatát örülnék ha értékelnéd. Nem tart tovább egy percnél. Köszönöm a támogatást!</string>
+    <string name="tap_plus_to_add_note">Nyomd meg a plusz ikont új jegyzet létrehozásához</string>
+    <string name="gamemode_challenge">Kihívás Mód</string>
+    <string name="tutorial_logic_gate_description">A logikai kapu egy olyan elem ami feldolgoz kettő vagy több bemenetet. Ennek segítségével elég összetett automata dolgokat lehet építeni. Hatféle kapuból lehet választani. Alul kiválaszthatod őket és szimulálhatod a működésüket.</string>
+    <string name="uncommon">Nem gyakori</string>
+    <string name="tutorial_memory_description">A memória 3 logikai kapuból áll amik együtt képesek eltárolni egy bináris értéket. Ezzel például átalkíthatsz egy gombot kapcsolóvá vagy eltárolhatod egy daru pozícióját. Minden nagyobb logikai alapú építményhez szükséged lesz rá.</string>
+    <string name="settings_theme">Téma</string>
+    <string name="settings_theme_light">Világos</string>
+    <string name="settings_usage_data">Összeomlási Információk Küldése</string>
+    <string name="settings_usage_data_summary">Névtelen információ küldés az összeomlásról az alkalmazás fejlesztéséhez.</string>
+    <string name="creatures_farmbot">Farmbot</string>
+    <string name="tutorial_memory_setup2">Kösd az elsőt a másodikba és a másodikat a harmadikba. Ezután kösd a harmadikat az elsőbe. Figyelj a sorrendre.</string>
+    <string name="creature_woc">Woc</string>
+    <string name="creatures_totebot_description">A Totebot 3 ütés a kalapáccsal. Mindig jelen van rajtaütéseknél.</string>
+    <string name="tutorial_timer_setup2">Állítsd az egyik logikai kaput AND-re, a másikat NOR-ra és az időzítőt a szügséges intervallumra. Én 500ms-re állítottam.</string>
+    <string name="creatures_tapebot_description">A kék Tapebot 55-öt sebez. A piros ami a Warehouse legfelső szintjén található és robban a lövése 62-őt sebez.</string>
+    <string name="creatures_woc_description">A Woc-ok Woctejet termelnek. Ha 3 cső kukoricát raksz egy Woc közelébe, tejet ad. Akárhányszor meg tudod ezt ismételni. Legalább egyszer meg kell etetni 30 naponta, vagy eltűnik.</string>
+    <string name="EMAIL_TITLE">Hiba Jelentés</string>
+    <string name="creatures_glowb_description">A Glowb egy kis állat ami víz alatt található éjjel. Kiveheted őket a vízből, és ha megeteted 15 karton tömbbel ad egy Glow-t.</string>
+    <string name="title_locations">Helyek</string>
+    <string name="damaged_crate_crash_site">Sérült Láda - Lezuhant Karbantartó Hajó</string>
+    <string name="title_creatures">Teremtmények</string>
+    <string name="damaged_crate_warehouse">Sérült Láda - Raktár</string>
+    <string name="title_steam_updates">Steam Frissítések</string>
+    <string name="golden_damaged_crate">Arany Sérült Láda</string>
+</resources>
