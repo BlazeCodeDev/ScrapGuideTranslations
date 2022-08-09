@@ -5,7 +5,7 @@
     <string name="title_more">Több</string>
     <string name="title_clothing">Ruházat</string>
     <string name="title_chestloot">Láda Tartalom</string>
-    <string name="title_tutorials">Oktatóanyagok</string>
+    <string name="title_tutorials">Útmutatók</string>
     <string name="title_reddit">Reddit</string>
     <string name="farming_not_safe">Nem biztonságos a farmolás</string>
     <string name="farming_1st_night">1. Éjszaka</string>
@@ -134,5 +134,9 @@
     <string name="damaged_crate_warehouse">Sérült Láda - Raktár</string>
     <string name="title_steam_updates">Steam Frissítések</string>
     <string name="golden_damaged_crate">Arany Sérült Láda</string>
-    <string name="SEND_EMAIL">E-Mail küldés … használatával</string>
+    <string name="SEND_EMAIL">E-Mail küldés ... használatával</string>
+    <string name="NO_EMAIL_CLIENT">Nem található E-Mail kliens</string>
+    <string name="title_home">Főmenü</string>
+    <string name="title_tutorial">Oktatóanyag</string>
+    <string name="title_raid_calculator">Támadás Számoló</string>
 </resources>
