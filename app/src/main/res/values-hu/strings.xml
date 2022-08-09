@@ -134,4 +134,5 @@
     <string name="damaged_crate_warehouse">Sérült Láda - Raktár</string>
     <string name="title_steam_updates">Steam Frissítések</string>
     <string name="golden_damaged_crate">Arany Sérült Láda</string>
+    <string name="SEND_EMAIL">E-Mail küldés … használatával</string>
 </resources>
