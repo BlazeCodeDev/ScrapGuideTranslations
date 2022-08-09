@@ -682,4 +682,6 @@
     <string name="damaged_crate_crash_site">Повреждённый Ящик - Разбившийся Корабль Обслуживания</string>
     <string name="item_warehouse_key">Ключ От Склада</string>
     <string name="item_radio_beacon">Маяк</string>
+    <string name="tutorial_how_to_setup">Как настроить</string>
+    <string name="clothing_automotive_backpack">Автомобильный рюкзак</string>
 </resources>
