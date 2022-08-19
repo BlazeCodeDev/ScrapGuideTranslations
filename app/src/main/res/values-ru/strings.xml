@@ -47,7 +47,7 @@
     <string name="settings_usage_data">Отправить вылет и информацию об использовании</string>
     <string name="settings_usage_data_summary">Отправить анонимную информацию о вылете и информацию об использовании для улучшения приложения.</string>
     <string name="settings_contribute_translation">Помочь с переводом</string>
-    <string name="settings_translations_not_final">Этот перевод ещё подлежит изменениям, и я буду благодарен любой помощи. Это откроет сайт.</string>
+    <string name="settings_translations_not_final">Этот перевод ещё подлежит изменениям, и я буду благодарен любой помощи.</string>
     <string name="settings_report_bug">Сообщить об ошибке</string>
     <string name="settings_report_bug_summary">Сообщить об ошибках в приложении или предложения по его улучшению.</string>
     <string name="settings_what_report">О чём вы хотите сообщить?</string>
