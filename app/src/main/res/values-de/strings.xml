@@ -785,4 +785,8 @@
     <string name="clothing_crash_mechanic_jacket">Beschädigte Mechanikerjacke</string>
     <string name="clothing_crash_mechanic_pants">Beschädigte Mechanikerhose</string>
     <string name="clothing_crash_mechanic_shoes">Beschädigte Mechanikerschuhe</string>
+    <string name="settings_translations_introduction">Dieses Projekt wurde von Freiwilligen aus der Community übersetzt. Ich bin sehr dankbar für jede Hilfe, ohne diese wäre das nicht möglich. Wenn du zur Übersetzung beitragen möchtest tippe bitte die Schaltfläche unten und registriere dich. Danach wirst du automatisch als Mitwirkender erwähnt.</string>
+    <string name="settings_contributors">Mitwirkende</string>
+    <string name="settings_contribute">Beitragen</string>
+    <string name="settings_error_contributors">Fehler beim Laden der Mitwirkenden</string>
 </resources>
