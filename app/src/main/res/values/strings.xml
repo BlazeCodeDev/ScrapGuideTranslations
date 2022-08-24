@@ -793,4 +793,8 @@
     <string name="item_warehouse_key_description">Get it by killing the big red Farmbot, it\'s used to unlock a Warehouse elevator. This is single use only.</string>
     <string name="item_orange_status_info">Growth Time Unfertilized: 21h\nGrowth Time Fertilized: 10h\nHunger: +15\nThirst: +40</string>
     <string name="item_controller_upgrades">Lvl 1: Connections 1, Speed 2\nLvl 2: Connections 2, Speed 3\nLvl 3: Connections 4, Speed 5\nLvl 4: Connections 8, Speed 7\nLvl 5: Connections 10, Speed 9</string>
+    <string name="settings_translations_introduction">This project is translated by volunteers from the community. I\'m very thankful for any help. Without them it wouldn\'t be possible. If you want to contribute, please press the button below and register, after that you will be automatically listed as a contributor.</string>
+    <string name="settings_contributors">Contributors</string>
+    <string name="settings_contribute">Contribute</string>
+    <string name="settings_error_contributors">Error loading contributors</string>
 </resources>
