@@ -139,4 +139,51 @@
     <string name="title_home">Főmenü</string>
     <string name="title_tutorial">Oktatóanyag</string>
     <string name="title_raid_calculator">Támadás Számoló</string>
+    <string name="title_raid_calculator_condensed">Roham szint számoló</string>
+    <string name="tutorial_commands_copied">Másolt</string>
+    <string name="tutorial_commands_to_clipboard">vágólapra</string>
+    <string name="tutorial_commands_only">Csak</string>
+
+    // ITEMS
+    <string name="description">Leírás</string>
+    <string name="crafting">Barkácsolás</string>
+    <string name="trading">Kereskedés</string>
+    <string name="properties">Tulajdonságok</string>
+    <string name="extra_info">Extra információ</string>
+    <string name="property_weight">Tömeg</string>
+    <string name="property_durability">Ellenállóság</string>
+    <string name="property_friction">Súrlódás</string>;
+    <string name="property_buoyancy">Felhajtóerő</string>
+    <string name="property_flammable">Éghető</string>
+    <string name="filter_category">Kategória</string>
+    <string name="none">Semmi</string>
+    <string name="tool">Eszköz</string>
+    <string name="part">Elem</string>
+    <string name="interactive">Interaktív</string>
+    <string name="consumable">Fogyó termék</string>
+    <string name="trader">Kereskedő</string>
+
+    // DESCRIPTIONS
+    <string name="can_be_traded_at_the_hideout">A menedéknél kereskedve megszerezhető.</string>
+    <string name="obtained_in_warehouse">A raktárépületben fellelhető.</string>
+    <string name="block">Blokk</string>
+    <string name="crafted_in_cookbot">A séf-bottal lehet elkészíttetni.</string>
+    <string name="crafted_in_mechanic_station">A szerelő állomáson lehet elkészíteni.</string>
+    <string name="can_be_found_at_crashsites">Zuhanási pontokon fellelhető.</string>
+    <string name="feed_to_wocs">Etesd Wocoknak hogy Woc tejhez juss.</string>
+    <string name="get_at_packing_station">A csomagoló állomáson szerezd meg.</string>
+    <string name="scrap_metal_origin">Farmbot maradványok feldolgozásával megszerezhető.</string>
+    <string name="scrap_stone_origin">Hogy megszerezd, fúrj nagy sziklákat amik az erdőben találhatók.</string>
+    <string name="scrap_wood_origin">Hogy megszerezd, vágj kis fákat (akác, kis fenyő és tölgy) vagy bontsd le a szegény farmerek vityillóit.</string>
+    <string name="chemical_origin">Megszerezhető sérült ládákból vagy vegyszerüzemekből kipumpálva, oda egy vödör is jó lesz, csak vigyázz mert a vegyzer mar.</string>
+    <string name="pigment_flower_origin">Az erdőkben található virágok leszedésével szerzheted meg.</string>
+    <string name="circuit_board_origin">Sérült ládákból, vagy farmbotok kivégzésével juthatsz hozzá.</string>
+    <string name="cotton_origin">Őszi erdőkben található.</string>
+    <string name="ember_origin">Leégett erdőkben vágd ki az elszenesedett fákat hogy megszerezd.</string>
+    <string name="images_diabled_ram">Képek kikapcsolva RAM hiány miatt.</string>
+    <string name="dropped_by_damaged_crates">Sérült ládákból esik ki.</string>
+    <string name="is_near_structures_that_need_power">Mindig fellelhető az energia szükséges épületek környékén.</string>
+    <string name="glue_clam_origin">Hogy megszerezd üss szét nagy kagylókat a víz allatt.</string>
+    <string name="tutorial_commands_description">Ezen parancsokat használhatod arra hogy megváltoztasd a játékot különböző módokon. Bekapcsolhatsz rejtett dolgokat, vagy idézhetsz dolgokat, csak légy óvatos. a chat-be írjad a a parancsokat.</string>
+    <string name="glow_origin">Adj egy glowbugnak 15 karton blokkot, és ő nos... kikakil neked fénylő ürüléket, de ne aggódj vagy nem radioaktív, vagy csak te vagy ellenálló. A víz allat honos, éjjeli állat. fel tudod venni hogy elvigyed, vagy csak meg csodáld a cuki fejét. A glowbugok sárga-zöld ragyogása segít őket sötétben megtalálni. Ő nem bánt, szóval te se bántsad.</string>
 </resources>
