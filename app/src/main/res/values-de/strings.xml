@@ -103,7 +103,11 @@
     <string name="farmer_shack">Bauernschuppen</string>
     <string name="farmer_shack_description">Bauernschuppen befinden sich meist an der Straße. Darin befindet sich Erde, Samen und viel Baumaterial. Bauern haben hier gelebt und ihre Waren verkauft.</string>
     <string name="warehouse">Lagerhaus</string>
-    <string name="warehouse_description">Das ist gefährlichste Bereich im Spiel. Es wird eine Lagerhaus-Schlüsselkarte benötigt. Sie kann erhalten werden indem der große, rote Farmbot getötet wird.\n\nEs gibt zwei Arten von Lagerhäusern, mit zwei und vier Etagen. Beide Typen haben einen Raum mit wertvollen Gegenständen in der obersten Etage. Deswegen ist es empfohlen die Lagerhäuser mit zwei Etagen aufzusuchen.\n\nKlebebandbots in der Nähe und im Inneren werden den Spieler abschießen. Es ist empfohlen das Lagerhaus nicht ohne Knollenkanone zu besuchen. Die roten Klebebandbots in der obersten Etage schießen explosive Projektile.</string>
+    <string name="warehouse_description">Das ist gefährlichste Bereich im Spiel. Es wird eine Lagerhaus-Schlüsselkarte benötigt. Sie kann erhalten werden indem der große, rote Farmbot getötet wird.
+\n
+\nEs gibt zwei Arten von Lagerhäusern, mit zwei und vier Etagen. Beide Typen haben einen Raum mit wertvollen Gegenständen in der obersten Etage. Deswegen ist es empfohlen die Lagerhäuser mit zwei Etagen aufzusuchen.
+\n
+\nKlebebandbots in der Nähe und im Inneren werden den Spieler abschießen. Es ist empfohlen das Lagerhaus nicht ohne Knollenkanone zu besuchen. Die roten Klebebandbots in der obersten Etage schießen explosive Projektile.</string>
     <string name="mechanic_station">Mechanikerstation</string>
     <string name="mechanic_station_description">Die Mechanikerstation hat einen großen, beleuchteten Maulschlüssel auf dem Dach. Die Master-Batterie befindet sich in den Schlafkabinen daneben. Nachdem die Station aktiviert wurde kann der Handwerkerbot, Kochbot, Kleiderbot, Veredlungsbot und der Ressourcensammler gebaut werden.</string>
     <string name="farmers_hideout">Bauernversteck</string>
