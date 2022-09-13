@@ -212,7 +212,11 @@
     <string name="farmer_shack">Farmer Shack</string>
     <string name="farmer_shack_description">Farmer Shacks are shacks found next to the roads. You can find soil, seeds and lots of building material in them. The farmers used to live and sell their stuff here.</string>
     <string name="warehouse">Warehouse</string>
-    <string name="warehouse_description">This is the most dangerous area in survival mode. You need a warehouse key to get in. You can get the key by killing the big red boss farmbot.\n\nThere are two types of warehouses, two and four floor. Both types have a lootroom at the top with 5 epic damaged crates and a chest with items. Therefore its recommended to go to the two floor warehouses.\n\nTapebots are inside and near the warehouses and will shoot you. It\'s recommended to have a spudgun before you go in there. The red tapebot in the top floor will shoot explosives. </string>
+    <string name="warehouse_description">This is the most dangerous area in survival mode. You need a warehouse key to get in. You can get the key by killing the big red boss farmbot.
+\n
+\nWarehouses can spawn with two, three and four floors. All types have a lootroom at the top with 5 epic damaged crates and a chest with items. Therefore its recommended to go to the two floor warehouses.
+\n
+\nTapebots are inside and near the warehouses and will shoot you. It\\\'s recommended to have a spudgun before you go in there. The red tapebot in the top floor will shoot explosives. Farmbots will spawn at the base of 4 floor warehouses.</string>
     <string name="mechanic_station">Mechanic Station</string>
     <string name="mechanic_station_description">The mechanic station has a large illuminated wrench on top of it\'s roof. You have to get a master battery from the bunkhouse rooms next to the mechanic station. After you put it in the designated slot you will activate the crafting console. It\'s used to craft the Crafting Bot, Dressbot, Cookbot, Refinebot and Resource Collector.</string>
     <string name="farmers_hideout">Farmers Hideout</string>
