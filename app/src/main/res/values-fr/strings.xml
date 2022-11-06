@@ -496,10 +496,10 @@
     <string name="crude_oil_origin">Recevez-le en ramassant les bulles de pétrole sous l\'eau.</string>
     <string name="beeswax_origin">Recevez-le en ramassant les nids d\'abeilles, qui sont en général sur les rochers. Vous pouvez les casser avec la masse, les abeilles ne vous attaquerons pas.</string>
     <string name="item_air_conditioner">Climatiseur</string>
-    <string name="damage_sledgehammer">Dommage : 5</string>
-    <string name="damage_spudgun">Dommage : 7</string>
-    <string name="damage_spud_shotgun">Dommage : 16</string>
-    <string name="damage_spudling_gun">Dommage : 4</string>
+    <string name="damage_sledgehammer">Dégats: 20</string>
+    <string name="damage_spudgun">Dégats: 28</string>
+    <string name="damage_spud_shotgun">Dégats: 64 (16 par frite)</string>
+    <string name="damage_spudling_gun">Dégats: 20</string>
     <string name="item_staircase_wedge">Coin d\'escalier</string>
     <string name="item_capsule_woc">Capsule de Woc</string>
     <string name="item_capsule_woc_description">Frappez ou tirez sur une capsule pour libérer une gentille Woc.</string>
@@ -515,4 +515,237 @@
     <string name="item_capsule_glowbug_description">Frappez ou tirez sur une capsule pour libérer un gentil Glowb.</string>
     <string name="item_capsule_farmbot">Capsule de Farmbot</string>
     <string name="item_capsule_haybot">Capsule de Haybot</string>
+    <string name="copied_id">ID copié dans le presse-papiers</string>
+    <string name="update_downloaded">Une mise à jour a été téléchargé</string>
+    <string name="settings_data_loading_always">Toujours</string>
+    <string name="property_friction">Friction</string>;
+    <string name="settings_usage_data_summary">Envoyer un rapport anonyme de vos données et de vos crash pour améliorer l\'app</string>
+    <string name="title_tutorial">Tutoriel</string>
+    <string name="title_reddit">Reddit</string>
+    <string name="settings_suggestion">Suggestion</string>
+
+
+    // CREATURES
+    <string name="restore_default">Êtes-vous sûr de vouloir restaurer l\'ordre par défaut\?</string>
+    <string name="no_internet_connection">Pas de connexion Internet</string>
+    <string name="notepad">Bloc-notes</string>
+    <string name="notepad_title">Titre</string>
+    <string name="notepad_text">Contenu</string>
+    <string name="save">Enregistrer</string>
+    <string name="field_cannot_be_empty">Ce champ est obligatoire !</string>
+    <string name="delete">Supprimer</string>
+    <string name="tap_plus_to_add_note">Cliquez sur le + pour créer une nouvelle note</string>
+    <string name="update_install">Installer</string>
+    <string name="gamemode_creative">Mode Créatif</string>
+    <string name="gamemode_survival">Mode Survie</string>
+    <string name="gamemode_challenge">Mode Challenge</string>
+    <string name="clear_filters">Supprimer les filtres</string>
+    <string name="image_not_found">Image introuvable !</string>
+    <string name="always">Toujours</string>
+    <string name="common">Commun</string>
+    <string name="uncommon">Peu commun</string>
+    <string name="rare">Rare</string>
+
+
+    // PREFERENCES
+    <string name="settings_data_loading">Chargement des Images</string>
+    <string name="settings_data_loading_wifi">Wi-Fi uniquement</string>
+    <string name="settings_vibration_feedback">Vibrations</string>
+    <string name="settings_usage_data">Signaler un crash, données d\'utilisation</string>
+    <string name="settings_translations_not_final">Les traductions ne sont pas terminées et je serai reconnaissant de quiconque m\'aidera</string>
+    <string name="settings_bug">Bug</string>
+    <string name="settings_privacy_policy_title">Police de confidentialité</string>
+    <string name="creatures_haybot_description">Les Haybots sont le plus souvent trouvé dans les ruines. Ils faut leur donner 5 coups de masse ou leur tirer 4 fois dessus avec le spudgun pour les détruire.</string>
+    <string name="creatures_woc_description">Les Woc produisent du lait si elles mangent/sont nourri de 3 morceaux de maïs, vous pouvez le faire autant de fois que vous le souhaitez. Assurez vous juste qu\'elles soit au moins nourri tout les 30 jours (in-game) sinon elles disparaîtront.</string>
+    <string name="creatures_glowb_description">Les Glowbugs sont des petites créatures qui apparaissent sous l\'eau la nuit. Vous pouvez les sortir de l\'eau sans problème. Si vous leur donnez 15 morceaux de carton elle produiront 1 luminescence. Assurez vous juste qu\'elles soit au moins nourrit tout les 30 jours (in-game) sinon elles disparaîtront.</string>
+    <string name="creatures_drops">Butin</string>
+
+
+    // CHEST LOOT
+    <string name="damaged_crate">Coffre endommagé</string>
+    <string name="damaged_crate_crash_site">Coffre endommagé - Vaisseau de maintenance écrasé</string>
+    <string name="damaged_crate_warehouse">Coffre endommagés - Entrepôt</string>
+    <string name="golden_damaged_crate">Coffre endommagé doré</string>
+    <string name="golden_damaged_crate_warehouse">Coffre endommagé doré - Entrepôt</string>
+    <string name="ruin_chest">Coffre de ruine</string>
+    <string name="ruin_chest_warehouse">Coffre de ruine - Entrepôt</string>
+
+
+    // TUTORIALS
+    <string name="tutorial_memory">Mémoire</string>
+    <string name="tutorial_demonstration">Démonstration</string>
+    <string name="tutorial_input">Entrée</string>
+    <string name="tutorial_output">Sortie</string>
+    <string name="tutorial_how_to_setup">Mise en place</string>
+    <string name="tutorial_memory_setup1">Placez 3 portes logique comme ceci. Mettez la première sur NOR, la deuxième sur OR et la troisième sur NOR.</string>
+    <string name="tutorial_memory_setup2">Connectez la première porte (NOR) à la deuxième (OR) , la deuxième (OR) à la troisième (NOR). Ensuite connecter la troisième (NOR) à la première (NOR). L\'ordre est très important.</string>
+    <string name="tutorial_memory_setup3">Les portes logique externes sont utilisés pour mettre le bit mémoire. Celle du milieu est la sortie avec laquelle vous pouvez avoir l\'état du bit mémoire.</string>
+    <string name="tutorial_timer_setup1">Placez un minuteur, deux portes logiques et un interrupteur.</string>
+    <string name="tutorial_timer_description">Le minuteur est un bloc interactif qui peut être utilisé pour retarder un signal dans un circuit logique. Il est aussi possible de construire une simple horloge avec. Vous pouvez voir comment en dessous :</string>
+    <string name="tutorial_timer_setup3">Connectez l\'interrupteur à la porte AND, la porte AND au minuteur, le minuteur à la porte NOR et la porte NOR à la porte AND. Puis allumez le circuit (en utilisant l\'interrupteur)</string>
+    <string name="tutorial_commands">Commandes</string>
+    <string name="tutorial_commands_copied">Copié</string>
+    <string name="tutorial_commands_only">Uniquement</string>
+
+    // ITEMS
+    <string name="filter_category">Catégorie</string>
+    <string name="none">Aucun/e</string>
+    <string name="tool">Outil</string>
+    <string name="block">Bloc</string>
+    <string name="part">Pièce</string>
+    <string name="consumable">Consommable</string>
+    <string name="trader">Commerçant</string>
+
+    // DESCRIPTIONS
+    <string name="component_kit_origin">Les kits de composants font parti du butin obtenu dans les coffres endommagé et dans les coffre de ruines ou bien en detruisant des Haybots. Tapebots et Farmbots.</string>
+    <string name="farmer_shack_description">Les Cabanes de fermiers sont des cabanes situées à côté des routes. Vous pouvez y trouver du sol fertil (communément appelé terreau), des graines et beaucoup de matériaux de construction (notamment le bois dont ces cabanes sont faites). Les agriculteurs vivaient et vendaient leurs produits ici.</string>
+    <string name="farmers_hideout_description">Apportez vos caisses de fruits/légumes ou un fermier en cage à la cachette (chez le marchant). Vous pouvez mettre les choses sur un pad là-bas et appuyer sur le bouton à côté. Cela aspirera les ressources et vous pourrez les dépenser pour votre achat.
+\n
+\nVous pouvez y acheter des objets comme le spudgun ou bien des graines rares.</string>
+    <string name="autumn_forest_description">C\'est un excellent endroit pour trouver du coton et/ou des fermiers en cage</string>
+    <string name="burned_forest_description">Ici vous pouvez trouver de la braise, qui est utilisée pour l\'artisanat. Il suffit de casser les arbres brulés pour en obtenir (entre 2 et 4). Mais faites attention des Farmbots peuvent parfois s\'y trouver.</string>
+    <string name="chemical_plant">Usine de produits chimiques</string>
+    <string name="water_plant_description">La zone autour de l\'usine de production d\'eau (non) potable est très plate et il y a beaucoup d\'eau, ce qui en fait un endroit parfait pour votre ferme, elle est également facile à défendre.</string>
+    <string name="stone_woc">Woc en pierre</string>
+    <string name="stone_woc_description">Un enclos avec une Woc en pierre qui est entouré d\'un tas de vrais Wocs. Vous pouvez le trouver au milieu de la forêt.</string>
+    <string name="oil_lake">Puit de pétrole</string>
+    <string name="oil_lake_description">Le puit de pétrole se trouve dans un biome comparable à un désert. Vous pouvez utiliser une pompe pour y pomper du pétrole.</string>
+
+    //INTERACTIVE ITEMS
+    <string name="item_sensor_upgrades">Lvl 1: Portée 4
+\nLvl 2: Portée 8
+\nLvl 3: Portée 12
+\nLvl 4: Portée 16
+\nLvl 5: Portée 20 / Mode détection des couleurs débloqué</string>
+    <string name="item_offroad_suspension_upgrades">Lvl 1: Rigidité 4
+\nLvl 2: Rigidité 6
+\nLvl 3: Rigidité 9
+\nLvl 4: Rigidité 13
+\nLvl 5: Rigidité 20</string>
+    <string name="item_electric_engine_upgrades">Lvl 1: Paliers/Roulements 2, Efficacité 1, Vitesses 5
+\nLvl 2: Paliers/Roulements 4, Efficacité 2, Vitesses7
+\nLvl 3: Paliers/Roulements 6, Efficacité 3, Vitesses 9
+\nLvl 4: Paliers/Roulements 8, Efficacité 4, Vitesses 11
+\nLvl 5: Paliers/Roulements 10, Efficacité 5, Vitesses 13</string>
+    <string name="item_drivers_seat_upgrades">Lvl 1: Connections 6
+\nLvl 2: Connections 8
+\nLvl 3: Connections 12
+\nLvl 4: Connections 16
+\nLvl 5: Connections 20 / Paramètres de Paliers/Roulements débloqué</string>
+    <string name="item_seat_upgrades">Lvl 1: Connections 2
+\nLvl 2: Connections 4
+\nLvl 3: Connections 6
+\nLvl 4: Connections 8
+\nLvl 5: Connections 10</string>
+    <string name="item_drivers_saddle_upgrades">Lvl 1: Connections 6
+\nLvl 2: Connections 8
+\nLvl 3: Connections 12
+\nLvl 4: Connections 16
+\nLvl 5: Connections 20 / Paramètres de Paliers/Roulements débloqué</string>
+    <string name="item_thruster_upgrades">Lvl 1: Poussée 2, Efficacité 1
+\nLvl 2: Poussée 3, Efficacité 2
+\nLvl 3: Poussée 4, Efficacité 3
+\nLvl 4: Poussée 5, Efficacité 4
+\nLvl 5: Poussée 6, Efficacité 5</string>
+    <string name="item_banana_status_info">Temps de croissance non fertilisé: 21h
+\nTemps de croissance fertilisé: 10h
+\nFaim: +40
+\nSoif: +15</string>
+    <string name="item_pineapple_status_info">Temps de croissance non fertilisé: 42h
+\nTemps de croissance fertilisé: 20h
+\nFaim: +20
+\nSoif: +50</string>
+    <string name="item_redbeet_status_info">Temps de croissance non fertilisé: 21h
+\nTemps de croissance fertilisé: 10h
+\nFaim: +20
+\nSoif: +20</string>
+    <string name="item_tomato_status_info">Temps de croissance non fertilisé: 21h
+\nTemps de croissance fertilisé: 10h
+\nFaim: +10
+\nSoif: +30</string>
+    <string name="item_potato_status_info">Temps de croissance non fertilisé: 21h
+\nTemps de croissance fertilisé: 10h
+\nLes patates ne peuvent pas être mangées</string>
+    <string name="item_woc_milk_status_info">Il faut 3 morceaux de maïs pour produire 1 bouteille de lait. 
+\nFaim: +10
+\nSoif: +40</string>
+    <string name="item_sunshake_status_info">Vie: +10
+\nFaim: +25
+\nSoif : +35</string>
+    <string name="item_pizza_burger_info">Vie : +100
+\nFaim: +100
+\nSoif: +100</string>
+    <string name="clothing_owned">Possédé</string>
+    <string name="clothing_not_owned">Non possédé</string>
+    <string name="settings_Translation">Traduction</string>
+    <string name="settings_Other">Autre</string>
+    <string name="creature_woc">Woc</string>
+    <string name="creature_glowb">Glowbug</string>
+    <string name="ruin_chest_crash_site">Coffre de ruine - Vaisseau de maintenance écrasé</string>
+    <string name="tutorial_commands_to_clipboard">dans le presse-papiers</string>
+    <string name="interactive">Bloc interactif</string>
+    <string name="common_fixes_items_fallen_through_map_solution2">Alternativement, vous pouvez utiliser une petite astuce ! Il s\'agit de construire avec des blocs sur votre cric et de placer un siège. Montez dans le siège et abaissez le cric pour traverser le sol et récupérer votre items.</string>
+    <string name="common_fixes_player_fallen_through_map_solution1">Ne vous inquiétez pas! Dès que vous tomberez dans le vide, un écran apparaîtra disant, \"Eh vous ne jouez pas de la bonne façon, Arrêtez !\". Et vous serez téléporté à la surface.</string>
+    <string name="common_fixes_player_fallen_through_map_problem">Vous êtes tombé à travers le sol.</string>
+    <string name="common_fixes_player_fallen_through_map_title">Vous êtes tombé à travers le sol.</string>
+    <string name="common_fixes_player_fallen_through_map_solution2">Si vous êtes coincé dans un objet ou dans l\'eau, essayez de descendre dans le vide où vous serez téléporté. Si vous êtes vraiment bloqué, vous devrez peut-être utiliser un outil tiers pour vous téléporter.</string>
+    <string name="chemical_plant_description">Ne tombez pas dans le lac rose, ceci est les produits chimiques. Vous pouvez utiliser un seau ou une pompe pour en récupérer.</string>
+    <string name="item_piston_upgrades">Lvl 1: Portée 7, Vitesse 2, Force 1
+\nLvl 2: Portée 9, Vitesse 4, Force 2
+\nLvl 3: Portée 11, Vitesse 6, Force 3
+\nLvl 4: Portée 13, Vitesse 8, Force 4
+\nLvl 5: Portée 15, Vitesse 10, Force 5</string>
+    <string name="item_saddle_upgrades">Lvl 1: Connections 2
+\nLvl 2: Connections 4
+\nLvl 3: Connections 6
+\nLvl 4: Connections 8
+\nLvl 5: Connections 10</string>
+    <string name="item_broccoli_status_info">Temps de croissance non fertilisé: 42h
+\nTemps de croissance fertilisé: 20h
+\nFaim: +50
+\nSoif: +20</string>
+    <string name="warehouse_description">C\'est l\'endroit le plus dangereux du mode survie. Vous avez besoin d\'une clé d\'entrepôt pour entrer. Vous pouvez en obtenir une en tuant le Farmbot.
+\n
+\nLes entrepôts peuvent apparaître avec deux, trois et quatre étages. Tous les types ont une salle de butin au sommet avec 5 caisses endommagées épiques et un coffre avec des objets (notamment graines de brocolis et d\'ananas). Par conséquent, il est recommandé d\'aller dans les entrepôts à deux étages pour commencer.
+\n
+\nLes Tapebots sont à l\'intérieur et à proximité des entrepôts et vous tireront dessus. Il est plus que recommendé d\'avoir un spudgun avant d\'y entrer. Les Tapebots rouges au dernier étage tireront des explosifs. Les Farmbots apparaîtront à la base des entrepôts à 4 étages.</string>
+    <string name="ruin_description">Il existe plusieurs variantes de ruines. Elles contiennent généralement des coffres endommagées et des coffres de ruine. Les Haybots ainsi que des tas de foin apparaissent à l\'intérieur ou à proximité des ruines. Frappez les t\'as de foins avec le marteau ou tirez dessus avec un spudgun pour révéler une caisse endommagée. Attention tous les tas de foin n\'en ont pas.</string>
+    <string name="forest_description">Une excellente source de bois et de pierre. Il est recommandé de venir avec une scie circulaire (appelé \"lame de scie\" in-game) et une tête de forage/forêt (appelé \"perceuse\" in-game) pour en tirer le meilleur parti.</string>
+    <string name="item_blueberry_status_info">Temps de croissance non fertilisé: 21h
+\nTemps de croissance fertilisé: 10h
+\nFaim: +30
+\nSoif: +30</string>
+    <string name="title_tutorials">Tutoriels</string>
+    <string name="title_steam_updates">Mises à jour Steam</string>
+    <string name="mechanic_station_description">La station service/garage a une grande clé illuminée sur le dessus de son toit. Vous devez obtenir la batterie principale située dans les dortoirs à côté de la station. Après l\'avoir placé dans l\'emplacement désigné, vous activerez la console d\'artisanat. C\'est un mega bot capable de fabriquer les autre bots : le Craft Bot (Fabribot), le Dressbot (Tenuebot), le Cookbot (Cuisibot), la Raffinerie (raffinebot)et le Collecteur de ressources.</string>
+    <string name="ruin_city_description">C\'est un endroit parfait pour trouver des coffres endommagées et des kits de composants. Attention il y a beaucoup de Haybots, même les Farmbots sont là.</string>
+    <string name="underwater_description">Ici vous pouvez trouver des palourdes, du pétrole brut et des Glowbug. Il s\'agit d\'une petite créature lumineuse de couleur verte / jaune. Elle vous donnera une lueur lorsque vous lui donnerez 15 blocs de carton.</string>
+    <string name="item_gas_engine_upgrades">Lvl 1: Paliers/Roulements 2, Efficacité 1, Vitesses 5
+\nLvl 2: Paliers/Roulements 4, Efficacité 2, Vitesses7
+\nLvl 3: Paliers/Roulements 6, Efficacité 3, Vitesses 9
+\nLvl 4: Paliers/Roulements 8, Efficacité 4, Vitesses 11
+\nLvl 5: Paliers/Roulements 10, Efficacité 5, Vitesses 13</string>
+    <string name="item_carrot_status_info">Temps de croissance non fertilisé: 21h
+\nTemps de croissance fertilisé: 10h
+\nFaim: +30
+\nSoif: +10</string>
+    <string name="item_veggie_burger_info">Vie: +100
+\nFaim: +100
+\nSoif: +100</string>
+
+    //CLOTHING
+    <string name="rearrange">Réarranger</string>
+    <string name="creatures_totebot_description">Il faut donner 3 coups de masse au Totebot pour le détruire. Ils vont toujours apparaître lors des raids.</string>
+    <string name="creatures_tapebot_description">Les tapebots bleus infligent 55 de dégâts en mode normal et 28 en facile tandis que les tapebots rouges (situer au dernier étage d\'un entrepôt) lancent des explosifs infligeant 62 de dégâts en normal et 31 en facile</string>
+    <string name="creatures_farmbot_description">Les Farmbots sont le type de bots le plus fort du jeu, ils sont immunisés à tout dégâts infligés avec la masse et ont besoin de 58 tirs de Spudgun ou 25 de Spud Shotgun pour être détruit. Ils apparaissent naturellement dans les forêts, forêt d\'automne et forêts brûlées ainsi que dans les villes en ruines, il est également possible (avec une très faible chance) qu\'un garde un entrepôt.</string>
+    <string name="tutorial_logic_gate_description">La porte logique est un bloc interactif utilisé pour comparer deux ou plusieurs entrées. Elle vous permet de construire des constructions assez complexes et automatisés. Vous pouvez choisir parmi six types de portes. Vous pouvez les sélectionner ci-dessous et simuler leur comportement.</string>
+    <string name="tutorial_memory_description">La porte logique est un bloc interactif utilisé pour comparer deux ou plusieurs entrées. Il vous permet de construire des constructions assez complexes et automatisés. Vous pouvez choisir parmi six types de portes. Vous pouvez les sélectionner ci-dessous et simuler leur comportement.</string>
+    <string name="tutorial_timer_setup2">Mettez une porte logique sur AND et l\'autre sur NOR. Vous pouvez choisir n\'importe quel intervalle pour le minuteur en fonction de ce que vous avez besoin pour votre création (de 0 sec (0 tick) à 1 min (2400 ticks)). En l\'occurrence j\'ai utilisé 500ms (20 ticks) pour mon exemple.</string>
+    <string name="tutorial_commands_description">Vous pouvez utiliser ces commandes pour changer la manière dont le jeu ce comporte, pour faire apparaître certains objets ou pour obtenir des items, faites juste attention de ne pas detruire votre monde en les utilisant. Vous pouvez les entrer dans le tchat pour les activer.</string>
+    <string name="is_near_structures_that_need_power">Peut toujours être trouvé à proximité des structures qui ont besoin d\'énergie.</string>
+    <string name="item_sport_suspension_upgrades">Lvl 1: Rigidité 4
+\nLvl 2: Rigidité 6
+\nLvl 3: Rigidité 9
+\nLvl 4: Rigidité 13
+\nLvl 5: Rigidité 20</string>
 </resources>
