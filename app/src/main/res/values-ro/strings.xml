@@ -100,7 +100,11 @@
     <string name="packing_station_description">Panoul vă arată cum să-l utilizați. Veți avea nevoie de o pompă de vid atașată la o cutie mare din vehicul. Conectați un buton la pompa de vid și umple cutia cu obiectul pe care doriți să-l oferiți la stația de ambalare. O bară din stație vă va spune cât de mult trebuie să puneți în uzină pentru a primi o cutie a articolului.
 \nExistă două tipuri de stații de ambalare. Unul ia legume și un fruct.
 \nLuați lăzile la o ascunzătoare.</string>
-    <string name="warehouse_description">Aceasta este cea mai periculoasă zonă în modul de supraviețuire. Aveți nevoie de o cheie de depozit pentru a intra. Puteți obține cheia ucigând marele mare robot roșu.\n\nExistă două tipuri de depozite, etaj doi și patru. Ambele tipuri au o cameră de loot în partea de sus cu 5 lăzi epice deteriorate și un piept cu obiecte. Prin urmare, este recomandat să mergi la depozitele de la două etaje.\n\nRoboţii de Bandă Adezivă sunt în interiorul și în apropierea depozitelor și te vor împușca. Este recomandat să aveți o spudgun înainte de a intra acolo. Robotul de Bandă Adezivă Roșie din ultimul etaj va trage explozibili.</string>
+    <string name="warehouse_description">Aceasta este cea mai periculoasă zonă în modul de supraviețuire. Ai nevoie de o cheie de depozit pentru a intra. Poți obține cheia ucigându-l pe marele bot roșu de fermă.
+\n
+\nDepozitele pot apărea cu două, trei și patru etaje. Toate tipurile au o cameră cu pradă în partea de sus cu 5 lăzi epice deteriorate și un cufăr cu obiecte. Prin urmare, este recomandat să mergeți la depozitele cu două etaje.
+\n
+\nTapebots sunt în interiorul și lângă depozite și vă vor împușca. Este recomandat să aveți un spudgun înainte de a intra acolo. Tapebot-ul roșu de la ultimul etaj va trage explozibili. Farmbots vor apărea la baza depozitelor cu 4 etaje.</string>
     <string name="mechanic_station_description">Stația mecanică are o cheie mare iluminată deasupra acoperișului. Trebuie să obțineți o baterie principală din camerele de dormit de lângă stația mecanică. După ce ați introdus-o în slotul desemnat, veți activa consola de proiectare. Este folosit pentru construirea roboţilor precum Craftbot, Dressbot, Cookbot, Refinebot şi Resource Collector.</string>
     <string name="farmers_hideout_description">Aduci cutii de fructe/legume sau fermierul în cuşcă. Puteți așeza lucrurile pe platformă și apăsați butonul de lângă acesta. Acest lucru va aspira resursele în și le veți putea cheltui pentru achiziția dvs.\n\nPuteți cumpăra obiecte precum tunul de cartofi sau semințe rare la ascunzătoare.</string>
     <string name="autumn_forest_description">Acesta este un loc minunat pentru a găsi bumbac sau chiar fermieri în cușcă.</string>
@@ -123,10 +127,16 @@
     <string name="item_thruster_upgrades">Lvl 1: Împingere 2, Eficienţă 1\nLvl 2: Împingere 3, Eficienţă 2\nLvl 3: Împingere 4, Eficienţă 3\nLvl 4: Împingere 5, Eficienţă 4\nLvl 5: Împingere 6, Eficienţă 5</string>
     <string name="item_controller_upgrades">Lvl 1: Conexiuni 1,Viteză 2\nLvl 2: Conexiuni 2,Viteză 3\nLvl 3: Conexiuni 4,Viteză 5\nLvl 4: Conexiuni 8,Viteză 7\nLvl 5: Conexiuni 10,Viteză 9</string>
     <string name="item_banana_status_info">Timp de Creştere Nefertilizat: 21h\nTimp de Creştere Fertilizat: 10h\nFoame: +40\nSete: +15</string>
-    <string name="item_blueberry_status_info">Timp de Creştere Nefertilizat: 21h\nTimp de Creştere Fertilizat: 10h\nFoame: +30\nSete: +30</string>
+    <string name="item_blueberry_status_info">Timp de creștere nefertilizat: 21h
+\nTimp de creștere fertilizat: 10h
+\nFoame: +30
+\nSete: +30</string>
     <string name="item_orange_status_info">Timp de Creştere Nefertilizat: 21h\nTimp de Creştere Fertilizat: 10h\nFoame: +15\nSete: +40</string>
     <string name="item_pineapple_status_info">Timp de Creştere Nefertilizat: 42h\nTimp de Creştere Fertilizat: 20h\nFoame: +20\nSete: +50</string>
-    <string name="item_carrot_status_info">Timp de Creştere Nefertilizat: 21h\nTimp de Creştere Fertilizat: 10h\nFoame: +30\nSete: +10</string>
+    <string name="item_carrot_status_info">Timp de creștere nefertilizat: 21h
+\nTimp de creștere fertilizat: 10h
+\nFoame: +30
+\nSete: +10</string>
     <string name="item_redbeet_status_info">Timp de Creştere Nefertilizat: 21h\nTimp de Creştere Fertilizat: 10h\nFoame: +20\nSete: +20</string>
     <string name="item_tomato_status_info">Timp de Creştere Nefertilizat: 21h\nTimp de Creştere Fertilizat: 10h\nFoame: +10\nSete: +30</string>
     <string name="item_broccoli_status_info">Timp de Creştere Nefertilizat: 42h\nTimp de Creştere Fertilizat: 20h\nFoame: +50\nSete: +20</string>
@@ -137,7 +147,7 @@
     <string name="item_veggie_burger_info">Viaţă: +100\nFoame: +100\nSete: +100</string>
     <string name="extra_info">Informaţie extra</string>
     <string name="settings_contribute_translation">Contribuie la translaţie</string>
-    <string name="settings_translations_not_final">Translaţiile nu sunt finale şi sunt foarte mulţumit pentru orice ajutor.Acesta va deschide un site web.</string>
+    <string name="settings_translations_not_final">Traducerile nu sunt finale și sunt foarte recunoscător pentru orice ajutor.</string>
     <string name="settings_usage_data">Trimite date anonime</string>
     <string name="settings_usage_data_summary">Trimite date anonime despre aplicaţie când se inchide neaşteptat şi cum o foloseşti.</string>
     <string name="item_hideout_dropoff">Fermier Inchis</string>
@@ -191,10 +201,10 @@
     <string name="tutorial_timer_setup2">Setează o poartă logică la AND, şi a doua la NOR şi setează temporizatorul la intervalul care îl doreşti pentru creația ta. Am folosit 500ms.</string>
     <string name="tutorial_timer_setup3">Conectează întrerupătorul la poarta AND, poarta AND la temporizator, întrerupătorul la poarta NOR şi poarta NOR la poarta AND. Acum porneşte-l.</string>
     <string name="copied_id">Copiat ID-ul în clipboard</string>
-    <string name="damage_sledgehammer">Deteriorare: 5</string>
-    <string name="damage_spudgun">Deteriorare: 7</string>
-    <string name="damage_spud_shotgun">Deteriorare: 16</string>
-    <string name="damage_spudling_gun">Deteriorare: 4</string>
+    <string name="damage_sledgehammer">Deteriorare: 20</string>
+    <string name="damage_spudgun">Deteriorare: 28</string>
+    <string name="damage_spud_shotgun">Deteriorare: 64 (16 pe cartof prăjit)</string>
+    <string name="damage_spudling_gun">Deteriorare: 20</string>
     <string name="notepad">Notițe</string>
     <string name="notepad_text">Text</string>
     <string name="notepad_title">Titlu</string>
@@ -218,4 +228,83 @@
     <string name="image_not_found">Imagine negasita!</string>
     <string name="is_near_structures_that_need_power">Poate fi găsit mereu in vecinătatea structurilor care necesita electricitate.</string>
     <string name="always">Mereu</string>
+    <string name="creatures_farmbot">Farmbot</string>
+    <string name="creature_woc">Woc</string>
+    <string name="creature_glowb">Glowb</string>
+    <string name="title_reddit">Reddit</string>
+    <string name="field_cannot_be_empty">Acest câmp nu poate fi gol</string>
+    <string name="creatures_tapebot">Tapebot</string>
+    <string name="damaged_crate">Ladă Deteriorată</string>
+    <string name="golden_damaged_crate_warehouse">Ladă deteriorată de aur - Depozit</string>
+    <string name="filter_category">Categorie</string>
+    <string name="block">Bloc</string>
+    <string name="clothing_automotive_backpack">Rucsac Automobil</string>
+    <string name="creatures_haybot">Haybot</string>
+    <string name="common">Comun</string>
+    <string name="uncommon">Neobişnuit</string>
+    <string name="rare">Rar</string>
+
+
+    // PREFERENCES
+    <string name="settings_privacy_policy_title">Politica de Confidențialitate</string>
+    <string name="creatures_totebot">Totebot</string>
+    <string name="damaged_crate_crash_site">Ladă avariată - Navă de întreținere prăbușită</string>
+    <string name="damaged_crate_warehouse">Ladă deteriorată - Depozit</string>
+    <string name="golden_damaged_crate">Ladă deteriorată de aur</string>
+    <string name="ruin_chest">Cufăr Ruină</string>
+    <string name="ruin_chest_crash_site">Cufăr Ruină - Nava de întreținere prăbușită</string>
+    <string name="ruin_chest_warehouse">Cufăr Ruină - Depozit</string>
+
+
+    // TUTORIALS
+    <string name="tutorial_how_to_setup">Cum să configurați</string>
+    <string name="none">Nimic</string>
+    <string name="tool">Instrument</string>
+    <string name="part">Parte</string>
+    <string name="interactive">Interactiv</string>
+    <string name="consumable">Consumabil</string>
+    <string name="trader">Comerciant</string>
+
+    // DESCRIPTIONS
+    <string name="clothing_delivery_shoes">Papuci de Livrare</string>
+    <string name="clothing_demolition_backpack">Rucsac de Demolare</string>
+    <string name="clothing_automotive_gloves">Mănuși Automobil</string>
+    <string name="clothing_automotive_hat">Căciulă Automobil</string>
+    <string name="clothing_automotive_jacket">Jachetă Automobil</string>
+    <string name="clothing_automotive_pants">Pantaloni Automobil</string>
+    <string name="clothing_delivery_backpack">Rucsac de Livrare</string>
+    <string name="clothing_delivery_gloves">Mănuși de Livrare</string>
+    <string name="clothing_delivery_hat">Căciulă de Livrare</string>
+    <string name="clothing_delivery_jacket">Jachetă de Livrare</string>
+    <string name="clothing_demolition_hat">Căciulă de Demolare</string>
+    <string name="clothing_demolition_jacket">Jachetă de Demolare</string>
+    <string name="clothing_demolition_pants">Pantaloni de Demolare</string>
+    <string name="clothing_lumberjack_backpack">Rucsac de Tăietor de Lemne</string>
+    <string name="clothing_lumberjack_gloves">Mănuși de Tăietor de Lemne</string>
+    <string name="clothing_lumberjack_hat">Căciulă de Tăietor de Lemne</string>
+    <string name="clothing_lumberjack_jacket">Jachetă de Tăietor de Lemne</string>
+    <string name="clothing_lumberjack_shoes">Papuci de Tăietor de Lemne</string>
+    <string name="clothing_engineer_backpack">Rucsacul Inginerului</string>
+    <string name="clothing_engineer_gloves">Mănușile Inginerului</string>
+    <string name="clothing_engineer_hat">Căciula Inginerului</string>
+    <string name="clothing_engineer_jacket">Jacheta Inginerului</string>
+    <string name="clothing_engineer_pants">Pantalonii Inginerului</string>
+    <string name="clothing_engineer_shoes">Papucii Inginerului</string>
+    <string name="clothing_painter_shoes">Papucii Vopsitorului</string>
+    <string name="clothing_painter_gloves">Mănușile Vopsitorului</string>
+    <string name="clothing_painter_hat">Căciula Vopsitorului</string>
+    <string name="clothing_painter_jacket">Jacheta Vopsitorului</string>
+    <string name="clothing_painter_pants">Pantalonii Vopsitorului</string>
+    <string name="clothing_golf_backpack">Rucsac de Golf</string>
+    <string name="clothing_golf_shoes">Papuci de Golf</string>
+    <string name="clothing_golf_hat">Căciulă de Golf</string>
+    <string name="clothing_golf_jacket">Jachetă de Golf</string>
+    <string name="clothing_golf_pants">Pantaloni de Golf</string>
+    <string name="clothing_automotive_shoes">Papuci Automobil</string>
+    <string name="clothing_delivery_pants">Pantaloni de Livrare</string>
+    <string name="clothing_demolition_gloves">Mănuși de Demolare</string>
+    <string name="clothing_demolition_shoes">Papuci de Demolare</string>
+    <string name="clothing_lumberjack_pants">Pantaloni de Tăietor de Lemne</string>
+    <string name="clothing_painter_backpack">Rucsacul Vopsitorului</string>
+    <string name="clothing_golf_gloves">Mănuși de Golf</string>
 </resources>
