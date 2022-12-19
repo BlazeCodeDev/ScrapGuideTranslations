@@ -519,7 +519,7 @@
     <string name="update_downloaded">Une mise à jour a été téléchargé</string>
     <string name="settings_data_loading_always">Toujours</string>
     <string name="property_friction">Friction</string>;
-    <string name="settings_usage_data_summary">Envoyer un rapport anonyme de vos données et de vos crash pour améliorer l\'app</string>
+    <string name="settings_usage_data_summary">Envoyer un rapport anonyme de vos données et de vos crash pour améliorer l\'app.</string>
     <string name="title_tutorial">Tutoriel</string>
     <string name="title_reddit">Reddit</string>
     <string name="settings_suggestion">Suggestion</string>
@@ -532,7 +532,7 @@
     <string name="notepad_title">Titre</string>
     <string name="notepad_text">Contenu</string>
     <string name="save">Enregistrer</string>
-    <string name="field_cannot_be_empty">Ce champ est obligatoire !</string>
+    <string name="field_cannot_be_empty">Ce champ est obligatoire</string>
     <string name="delete">Supprimer</string>
     <string name="tap_plus_to_add_note">Cliquez sur le + pour créer une nouvelle note</string>
     <string name="update_install">Installer</string>
@@ -552,7 +552,7 @@
     <string name="settings_data_loading_wifi">Wi-Fi uniquement</string>
     <string name="settings_vibration_feedback">Vibrations</string>
     <string name="settings_usage_data">Signaler un crash, données d\'utilisation</string>
-    <string name="settings_translations_not_final">Les traductions ne sont pas terminées et je serai reconnaissant de quiconque m\'aidera</string>
+    <string name="settings_translations_not_final">Les traductions ne sont pas terminées et je serai reconnaissant de quiconque m\'aidera.</string>
     <string name="settings_bug">Bug</string>
     <string name="settings_privacy_policy_title">Police de confidentialité</string>
     <string name="creatures_haybot_description">Les Haybots sont le plus souvent trouvé dans les ruines. Ils faut leur donner 5 coups de masse ou leur tirer 4 fois dessus avec le spudgun pour les détruire.</string>
@@ -581,8 +581,8 @@
     <string name="tutorial_memory_setup2">Connectez la première porte (NOR) à la deuxième (OR) , la deuxième (OR) à la troisième (NOR). Ensuite connecter la troisième (NOR) à la première (NOR). L\'ordre est très important.</string>
     <string name="tutorial_memory_setup3">Les portes logique externes sont utilisés pour mettre le bit mémoire. Celle du milieu est la sortie avec laquelle vous pouvez avoir l\'état du bit mémoire.</string>
     <string name="tutorial_timer_setup1">Placez un minuteur, deux portes logiques et un interrupteur.</string>
-    <string name="tutorial_timer_description">Le minuteur est un bloc interactif qui peut être utilisé pour retarder un signal dans un circuit logique. Il est aussi possible de construire une simple horloge avec. Vous pouvez voir comment en dessous :</string>
-    <string name="tutorial_timer_setup3">Connectez l\'interrupteur à la porte AND, la porte AND au minuteur, le minuteur à la porte NOR et la porte NOR à la porte AND. Puis allumez le circuit (en utilisant l\'interrupteur)</string>
+    <string name="tutorial_timer_description">Le minuteur est un bloc interactif qui peut être utilisé pour retarder un signal dans un circuit logique. Il est aussi possible de construire une simple horloge avec. Vous pouvez voir comment en dessous.</string>
+    <string name="tutorial_timer_setup3">Connectez l\'interrupteur à la porte AND, la porte AND au minuteur, le minuteur à la porte NOR et la porte NOR à la porte AND. Puis allumez le circuit (en utilisant l\'interrupteur).</string>
     <string name="tutorial_commands">Commandes</string>
     <string name="tutorial_commands_copied">Copié</string>
     <string name="tutorial_commands_only">Uniquement</string>
@@ -602,7 +602,7 @@
     <string name="farmers_hideout_description">Apportez vos caisses de fruits/légumes ou un fermier en cage à la cachette (chez le marchant). Vous pouvez mettre les choses sur un pad là-bas et appuyer sur le bouton à côté. Cela aspirera les ressources et vous pourrez les dépenser pour votre achat.
 \n
 \nVous pouvez y acheter des objets comme le spudgun ou bien des graines rares.</string>
-    <string name="autumn_forest_description">C\'est un excellent endroit pour trouver du coton et/ou des fermiers en cage</string>
+    <string name="autumn_forest_description">C\'est un excellent endroit pour trouver du coton et/ou des fermiers en cage.</string>
     <string name="burned_forest_description">Ici vous pouvez trouver de la braise, qui est utilisée pour l\'artisanat. Il suffit de casser les arbres brulés pour en obtenir (entre 2 et 4). Mais faites attention des Farmbots peuvent parfois s\'y trouver.</string>
     <string name="chemical_plant">Usine de produits chimiques</string>
     <string name="water_plant_description">La zone autour de l\'usine de production d\'eau (non) potable est très plate et il y a beaucoup d\'eau, ce qui en fait un endroit parfait pour votre ferme, elle est également facile à défendre.</string>
@@ -632,11 +632,7 @@
 \nLvl 3: Connections 12
 \nLvl 4: Connections 16
 \nLvl 5: Connections 20 / Paramètres de Paliers/Roulements débloqué</string>
-    <string name="item_seat_upgrades">Lvl 1: Connections 2
-\nLvl 2: Connections 4
-\nLvl 3: Connections 6
-\nLvl 4: Connections 8
-\nLvl 5: Connections 10</string>
+    <string name="item_seat_upgrades"></string>
     <string name="item_drivers_saddle_upgrades">Lvl 1: Connections 6
 \nLvl 2: Connections 8
 \nLvl 3: Connections 12
@@ -664,15 +660,13 @@
 \nFaim: +10
 \nSoif: +30</string>
     <string name="item_potato_status_info">Temps de croissance non fertilisé: 21h
-\nTemps de croissance fertilisé: 10h
-\nLes patates ne peuvent pas être mangées</string>
-    <string name="item_woc_milk_status_info">Il faut 3 morceaux de maïs pour produire 1 bouteille de lait. 
-\nFaim: +10
+\nTemps de croissance fertilisé: 10h</string>
+    <string name="item_woc_milk_status_info">Faim: +10
 \nSoif: +40</string>
     <string name="item_sunshake_status_info">Vie: +10
 \nFaim: +25
-\nSoif : +35</string>
-    <string name="item_pizza_burger_info">Vie : +100
+\nSoif: +35</string>
+    <string name="item_pizza_burger_info">Vie: +100
 \nFaim: +100
 \nSoif: +100</string>
     <string name="clothing_owned">Possédé</string>
@@ -685,9 +679,9 @@
     <string name="tutorial_commands_to_clipboard">dans le presse-papiers</string>
     <string name="interactive">Bloc interactif</string>
     <string name="common_fixes_items_fallen_through_map_solution2">Alternativement, vous pouvez utiliser une petite astuce ! Il s\'agit de construire avec des blocs sur votre cric et de placer un siège. Montez dans le siège et abaissez le cric pour traverser le sol et récupérer votre items.</string>
-    <string name="common_fixes_player_fallen_through_map_solution1">Ne vous inquiétez pas! Dès que vous tomberez dans le vide, un écran apparaîtra disant, \"Eh vous ne jouez pas de la bonne façon, Arrêtez !\". Et vous serez téléporté à la surface.</string>
+    <string name="common_fixes_player_fallen_through_map_solution1">Ne vous inquiétez pas! Dès que vous tomberez dans le vide, un écran apparaîtra disant, \"Eh vous ne jouez pas de la bonne façon, Arrêtez!\". Et vous serez téléporté à la surface.</string>
     <string name="common_fixes_player_fallen_through_map_problem">Vous êtes tombé à travers le sol.</string>
-    <string name="common_fixes_player_fallen_through_map_title">Vous êtes tombé à travers le sol.</string>
+    <string name="common_fixes_player_fallen_through_map_title">Vous êtes tombé à travers le sol</string>
     <string name="common_fixes_player_fallen_through_map_solution2">Si vous êtes coincé dans un objet ou dans l\'eau, essayez de descendre dans le vide où vous serez téléporté. Si vous êtes vraiment bloqué, vous devrez peut-être utiliser un outil tiers pour vous téléporter.</string>
     <string name="chemical_plant_description">Ne tombez pas dans le lac rose, ceci est les produits chimiques. Vous pouvez utiliser un seau ou une pompe pour en récupérer.</string>
     <string name="item_piston_upgrades">Lvl 1: Portée 7, Vitesse 2, Force 1
@@ -695,11 +689,7 @@
 \nLvl 3: Portée 11, Vitesse 6, Force 3
 \nLvl 4: Portée 13, Vitesse 8, Force 4
 \nLvl 5: Portée 15, Vitesse 10, Force 5</string>
-    <string name="item_saddle_upgrades">Lvl 1: Connections 2
-\nLvl 2: Connections 4
-\nLvl 3: Connections 6
-\nLvl 4: Connections 8
-\nLvl 5: Connections 10</string>
+    <string name="item_saddle_upgrades"></string>
     <string name="item_broccoli_status_info">Temps de croissance non fertilisé: 42h
 \nTemps de croissance fertilisé: 20h
 \nFaim: +50
@@ -736,7 +726,7 @@
     //CLOTHING
     <string name="rearrange">Réarranger</string>
     <string name="creatures_totebot_description">Il faut donner 3 coups de masse au Totebot pour le détruire. Ils vont toujours apparaître lors des raids.</string>
-    <string name="creatures_tapebot_description">Les tapebots bleus infligent 55 de dégâts en mode normal et 28 en facile tandis que les tapebots rouges (situer au dernier étage d\'un entrepôt) lancent des explosifs infligeant 62 de dégâts en normal et 31 en facile</string>
+    <string name="creatures_tapebot_description">Les tapebots bleus infligent 55 de dégâts en mode normal et 28 en facile tandis que les tapebots rouges (situer au dernier étage d\'un entrepôt) lancent des explosifs infligeant 62 de dégâts en normal et 31 en facile.</string>
     <string name="creatures_farmbot_description">Les Farmbots sont le type de bots le plus fort du jeu, ils sont immunisés à tout dégâts infligés avec la masse et ont besoin de 58 tirs de Spudgun ou 25 de Spud Shotgun pour être détruit. Ils apparaissent naturellement dans les forêts, forêt d\'automne et forêts brûlées ainsi que dans les villes en ruines, il est également possible (avec une très faible chance) qu\'un garde un entrepôt.</string>
     <string name="tutorial_logic_gate_description">La porte logique est un bloc interactif utilisé pour comparer deux ou plusieurs entrées. Elle vous permet de construire des constructions assez complexes et automatisés. Vous pouvez choisir parmi six types de portes. Vous pouvez les sélectionner ci-dessous et simuler leur comportement.</string>
     <string name="tutorial_memory_description">La porte logique est un bloc interactif utilisé pour comparer deux ou plusieurs entrées. Il vous permet de construire des constructions assez complexes et automatisés. Vous pouvez choisir parmi six types de portes. Vous pouvez les sélectionner ci-dessous et simuler leur comportement.</string>
