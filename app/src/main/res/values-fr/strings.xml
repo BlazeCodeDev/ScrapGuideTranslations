@@ -632,7 +632,6 @@
 \nLvl 3: Connections 12
 \nLvl 4: Connections 16
 \nLvl 5: Connections 20 / Paramètres de Paliers/Roulements débloqué</string>
-    <string name="item_seat_upgrades"></string>
     <string name="item_drivers_saddle_upgrades">Lvl 1: Connections 6
 \nLvl 2: Connections 8
 \nLvl 3: Connections 12
@@ -689,7 +688,6 @@
 \nLvl 3: Portée 11, Vitesse 6, Force 3
 \nLvl 4: Portée 13, Vitesse 8, Force 4
 \nLvl 5: Portée 15, Vitesse 10, Force 5</string>
-    <string name="item_saddle_upgrades"></string>
     <string name="item_broccoli_status_info">Temps de croissance non fertilisé: 42h
 \nTemps de croissance fertilisé: 20h
 \nFaim: +50
