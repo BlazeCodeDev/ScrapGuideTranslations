@@ -736,6 +736,5 @@
 \nLvl 3: Rigidité 9
 \nLvl 4: Rigidité 13
 \nLvl 5: Rigidité 20</string>
-    <string name="item_saddle_upgrades"></string>
-    <string name="item_seat_upgrades"></string>
+    <string name="item_seat_upgrades"/>
 </resources>
