@@ -379,7 +379,6 @@
     //ITEMS
     <string name="item_scrap_stone">Scrap Stone</string>
     <string name="item_scrap_wood">Scrap Wood</string>
-    <string name="item_antenna">Antenna</string>
     <string name="item_armored_glass_block">Armored Glass Block</string>
     <string name="item_arrow_sign">Arrow Sign</string>
     <string name="item_awning">Awning</string>
