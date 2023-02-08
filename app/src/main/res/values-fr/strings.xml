@@ -494,7 +494,6 @@
     <string name="ember_origin">Recevez-le en cassant des arbres dans la forêt brûlée.</string>
     <string name="crude_oil_origin">Recevez-le en ramassant les bulles de pétrole sous l\'eau.</string>
     <string name="beeswax_origin">Recevez-le en ramassant les nids d\'abeilles, qui sont en général sur les rochers. Vous pouvez les casser avec la masse, les abeilles ne vous attaquerons pas.</string>
-    <string name="item_air_conditioner">Climatiseur</string>
     <string name="damage_sledgehammer">Dégats : 20</string>
     <string name="damage_spudgun">Dégats : 28</string>
     <string name="damage_spud_shotgun">Dégats : 64 (16 par frite)</string>
