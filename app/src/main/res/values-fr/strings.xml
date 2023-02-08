@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="item_antenna">Antenne</string>
     <string name="item_armored_glass_block">Bloc de verre blindé</string>
     <string name="item_arrow_sign">Panneau flèche</string>
     <string name="item_awning">Auvent de cabane</string>
