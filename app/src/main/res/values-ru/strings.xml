@@ -136,7 +136,6 @@
     <string name="item_sunshake_status_info">Здоровье: +10\nГолод: +25\nЖажда: +35</string>
     <string name="item_pizza_burger_info">Здоровье: +100\nГолод: +100\nЖажда: +100</string>
     <string name="item_veggie_burger_info">Здоровье: +100\nГолод: +100\nЖажда: +100</string>
-    <string name="item_air_conditioner">Кондиционер</string>
     <string name="item_antenna">Антенна</string>
     <string name="item_armored_glass_block">Блок армированного стекла</string>
     <string name="item_arrow_sign">Знак стрелки</string>
