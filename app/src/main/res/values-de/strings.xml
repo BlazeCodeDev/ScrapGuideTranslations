@@ -172,7 +172,6 @@
     <string name="creatures_glowb_description">Der Glowb ist ein kleines Tier, welches nachts und unterwasser erscheint. Sie können aus dem Wasser genommen werden und mit 15 Pappkartonblöcken gefüttert werden. Dann werden sie 1 Glow (Leuchten) fallen lassen.</string>
     <string name="creatures_drops">Gegenstände</string>
     <string name="item_scrap_wood">Schrottholz</string>
-    <string name="item_scrap_metal">Schrottmetall</string>
     <string name="item_scrap_stone">Schrottstein</string>
     <string name="creatures_health">Gesundheit</string>
     <string name="creatures_damage">Schaden</string>
