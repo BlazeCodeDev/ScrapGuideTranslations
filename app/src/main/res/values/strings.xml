@@ -886,4 +886,13 @@
     <string name="comamnd_clear">Remove all shapes in the world. It must first be enabled with /allowclear</string>
     <string name="command_allowclear">Enabled/Disables the /clear command</string>
     <string name="command_baguette">Give 1 revival baguette</string>
+    <string name="modpacks_in_settings">Enable modpacks in the settings</string>
+    <string name="hide">Hide</string>
+    <string name="modpack_hint">Maybe you are looking for a modpack item. You can enable to include modpacks in the settings.</string>
+    <string name="modpacks">Modpacks</string>
+    <plurals name="x_modpacks_enabled">
+        <item quantity="one">%d modpack enabled</item>
+        <item quantity="other">%d modpacks enabled</item>
+    </plurals>
+    <string name="modpack_fant">Fant</string>
 </resources>
