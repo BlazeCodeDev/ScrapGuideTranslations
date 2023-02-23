@@ -330,4 +330,30 @@
     <string name="clothing_crash_mechanic_jacket">Jacheta Mecanicului Accidentat</string>
     <string name="clothing_crash_mechanic_shoes">Papucii Mecanicului Accidentat</string>
     <string name="clothing_broccoli_tshirt">Bluză Broccoli</string>
+    <string name="modpacks">Modpackuri</string>
+    <plurals name="x_modpacks_enabled">
+        <item quantity="one">%d modpack activat</item>
+        <item quantity="few">%d modpackuri activate</item>
+        <item quantity="other">%d de modpackuri activate</item>
+    </plurals>
+
+
+    // MODPACKS
+    <string name="command_glowsticks">Dă-ți &lt;cantitate&gt; bețe strălucitoare (implicit 10)</string>
+    <string name="modpacks_in_settings">Activează modpackurile în setări</string>
+    <string name="hide">Ascunde</string>
+    <string name="modpack_hint">Poate cauți un item dintr-un modpack. Poți activa să incluzi modpackuri în setări.</string>
+
+
+    // PREFERENCES
+    <string name="modpack_version_dates">Date versiuni Modpackuri</string>
+    <string name="command_ammo">Give &lt;quantity&gt; ammo (default 50)</string>
+    <string name="command_spudgun">Dă-ți spudgun</string>
+    <string name="command_gatling">Dă-ți mitraliera de cartofi</string>
+    <string name="command_shotgun">Dă-ți un shotgun de cartofi prăjiți</string>
+    <string name="command_sunshake">Dă-ți 1 sunshake</string>
+    <string name="command_baguette">Dă-ți 1 baghetă de resuscitare</string>
+    <string name="command_keycard">Dă-ți 1 keycard</string>
+    <string name="command_powercore">Dă-ți 1 powercore</string>
+    <string name="command_components">Dă-ți &lt;cantitate&gt; componente (implicit 10)</string>
 </resources>
