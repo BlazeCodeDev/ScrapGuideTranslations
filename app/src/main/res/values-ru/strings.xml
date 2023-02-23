@@ -281,4 +281,24 @@
     <string name="common_fixes_creation_laggy_solution1">Если ваша постройка не транспорт или не мобильная, тогда просто приварите её к земле! Для этого нужно поставить временный блок на землю и приварить постройку к этому блоку, после чего блок может быть удалён.</string>
     <string name="common_fixes_invalid_checksum_solution2">Кроме того, вы можете проверить целостность файлов игры! Щелкните правой кнопкой мыши на Scrap Mechanic в вашей библиотеке Steam, выберите \"Свойства\", перейдите в раздел \"Локальные файлы\", затем нажмите \"Проверить Целостность Файлов Игры\"</string>
     <string name="common_fixes_items_fallen_through_map_solution2">В качестве альтернативы, вы можете использовать небольшую хитрость! Это включает в себя строительство с помощью блоков на вашем подъемнике и установку сиденья. Садитесь на сиденье и опустите подъемник, чтобы опуститься под пол и забрать свой предмет.</string>
+    <string name="command_ammo">Выдать &lt;кол-во&gt; патронов (по умолчанию 50)</string>
+    <string name="command_spudgun">Выдать картофелемет</string>
+    <string name="modpacks_in_settings">Включите моды в настройках</string>
+    <string name="modpack_hint">Возможно вы ищете предмет из мода. Вы можете включить поиск в модах в настройках.</string>
+
+
+    // PREFERENCES
+    <string name="modpacks">Модпаки</string>
+    <plurals name="x_modpacks_enabled">
+        <item quantity="one">%d модпак включен</item>
+        <item quantity="few">%d модпака включено</item>
+        <item quantity="many">%d модпаков включено</item>
+        <item quantity="other">%d модпаков включено</item>
+    </plurals>
+
+
+    // MODPACKS
+    <string name="command_gatling">Выдать картофельный гатлинг</string>
+    <string name="command_shotgun">Выдать картофельный дробовик</string>
+    <string name="command_sunshake">Выдать 1 саншейк</string>
 </resources>
