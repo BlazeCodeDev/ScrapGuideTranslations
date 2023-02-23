@@ -77,7 +77,7 @@
     <string name="packing_station_description">Le panneau d\'affichage vous montre comment l\'utiliser. Vous aurez besoin d\'une pompe fixée sur un grand coffre de votre véhicule. Connectez un bouton à la pompe et remplissez le coffre avec le fruit/légume que vous voulez donner à la station d\'emballage. Une barre située à la station vous indiquera la quantité à mettre dans la centrale pour recevoir une caisse de l\'article.
 \nIl existe deux types de stations de conditionnement. L\'un prend les légumes et l\'autre les fruits.
 \nEmmenez les caisses dans une cachette.</string>
-    <string name="circuit_board_origin">Recevez-le en détruisant les caisses endommagées ou en tuant les bots.</string>
+    <string name="circuit_board_origin">Recevez-le en détruisant les caisses endommagées ou en tuant les farmbots.</string>
     <string name="title_chestloot">butin de coffre</string>
     <string name="title_clothing">Vêtements</string>
     <string name="property_flammable">Inflammable</string>
@@ -250,7 +250,7 @@
     <string name="command_baguette">Give 1 baguette de renaissance</string>
     <string name="command_keycard">Give 1 clé d\'entrepôt</string>
     <string name="command_glowsticks">Give &lt;quantité&gt; bâtons lumineux (défaut 10)</string>
-    <string name="command_god">Un godmode comme il y en a dans des milliers de jeux (vous êtes invincible quoi)</string>
+    <string name="command_god"></string>
     <string name="command_respawn">Respawn au dernier lit (comme dans mine raft) (ou au site de crash)</string>
     <string name="command_encrypt">Restreint les interactions dans les entrepôts</string>
     <string name="command_decrypt">Autorise les interactions dans les entrepôts</string>
@@ -268,13 +268,13 @@
     <string name="command_pipekit">Fait apparaître un kit de tuyaux</string>
     <string name="command_foodkit">Fait apparaître un kit de bouffe</string>
     <string name="command_seedkit">Fait apparaître un kit de graines</string>
-    <string name="command_die">Suicide</string>
+    <string name="command_die"></string>
     <string name="command_set_hp">Défini le nombre d\'hp</string>
     <string name="command_set_food">Défini le niveau de faim à une certaine valeur</string>
     <string name="command_set_water">Défini le niveau de soif à une certaine valeur</string>
     <string name="command_aggroall">Tous les bots vont savoir où le joueur se trouve</string>
     <string name="command_pop_capsules">Ouvre toutes les capsules. Optionnellement vous pouvez définir le type de capsule: bot, animal</string>
-    <string name="command_killall">Génocide de tout ce qui a été fait apparaître</string>
+    <string name="command_killall"></string>
     <string name="command_dropscrap">Active/désactive le butin des haybot (métal abîmé)</string>
     <string name="comamnd_clear">Supprime toutes les créations (spawnées avec le cric et construites directement dans le monde). Doit être activé avec /allowclear</string>
     <string name="command_allowclear">Active/désactive le /clear (doit être réutilisé après avoir utilisé le /clear pour pouvoir réutiliser le /clear)</string>
@@ -285,7 +285,7 @@
     <plurals name="x_modpacks_enabled">
         <item quantity="one">%d modpack activé</item>
         <item quantity="many">%d modpacks activés</item>
-        <item quantity="other">0 modpack d\'activé</item>
+        <item quantity="other">%d modpack d\'activé</item>
     </plurals>
 
 
