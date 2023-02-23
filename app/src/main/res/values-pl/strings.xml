@@ -5,6 +5,8 @@
     <string name="property_friction">Tarcie</string>;
     <string name="property_buoyancy">Wyporność</string>
     <string name="property_flammable">Łatwopalność</string>
+    <string name="item_air_conditioner">Klimatyzator</string>
+    <string name="item_antenna">Antena</string>
     <string name="item_armored_glass_block">Blok ze szkła pancernego</string>
     <string name="item_arrow_sign">Strzałka</string>
     <string name="item_awning">Markiza chaty</string>
@@ -226,6 +228,7 @@
     <string name="item_small_pipe_corner">Mały trójnik kątowy</string>
     <string name="item_small_pipe_five_way">Mały piątnik</string>
     <string name="item_small_pipe_four_way">Mały czwórnik</string>
+    <string name="item_small_pipe_four_way_tee">Mały czwórnik kątow</string>
     <string name="item_small_pipe_long">Mała długa rura</string>
     <string name="item_small_pipe_short">Mała krótka rura</string>
     <string name="item_small_pipe_six_way">Mały szóstnik</string>
@@ -801,9 +804,9 @@
     <string name="clothing_playing_wrong_tshirt">Koszulka \"grasz źle\"</string>
 
 
-
     //ITEMS
     <string name="item_scrap_stone">Kamień z odzysku</string>
+    <string name="item_scrap_metal">Metal z odzysku</string>
     <string name="item_scrap_wood">Drewno z odzysku</string>
     <string name="item_hideout_dropoff">Uwięziony koleś</string>
     <string name="item_thruster_upgrades">Poz. 1: odrzut 2, efektywność 1
