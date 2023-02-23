@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="description">Description</string>
-    <string name="crafting">Bricolage</string>
+    <string name="crafting">Craft</string>
     <string name="trading">Échange</string>
     <string name="properties">Propriétés</string>
     <string name="haymaze">Labyrinthe de blé</string>
@@ -9,7 +9,7 @@
     <string name="ruin">Ruine</string>
     <string name="farmer_shack">Cabane de fermier</string>
     <string name="warehouse">Entrepôt</string>
-    <string name="mechanic_station">Station du mechanique</string>
+    <string name="mechanic_station">Station de mecanique</string>
     <string name="farmers_hideout">Cachette des fermiers</string>
     <string name="autumn_forest">Forêt d\'automne</string>
     <string name="burned_forest">Forêt brulée</string>
@@ -17,34 +17,34 @@
     <string name="ruin_city">Ville en ruine</string>
     <string name="water_plant">Installation de distribution d\'eau</string>
     <string name="underwater">Sous l\'eau</string>
-    <string name="settings_report_bug">Reporter in bug</string>
+    <string name="settings_report_bug">Reporter un bug</string>
     <string name="SEND_EMAIL">Envoyer un E-Mail avec …</string>
     <string name="EMAIL_TITLE">Rapport de bug</string>
-    <string name="NO_EMAIL_CLIENT">Aucun client E-mail trouvé</string>
+    <string name="NO_EMAIL_CLIENT">Aucun client d\'E-mail trouvé</string>
     <string name="title_home">Menu</string>
     <string name="title_settings">Réglages</string>
-    <string name="title_items">Objects</string>
-    <string name="title_locations">Location</string>
+    <string name="title_items">Objets</string>
+    <string name="title_locations">Localisations</string>
     <string name="title_raid_calculator">Calculateur de pillage</string>
     <string name="title_raid_calculator_condensed">Calcul du pillage</string>
     <string name="farming_safe">L\'agriculture est sécurisée</string>
     <string name="farming_not_safe">L\'agriculture n\'est pas sécurisée</string>
     <string name="farming_1st_night">1ère nuit</string>
-    <string name="farming_2nd_night">2eme nuit</string>
+    <string name="farming_2nd_night">2ème nuit</string>
     <string name="farming_3rd_night">3ème nuit</string>
     <string name="search">Rechercher</string>
     <string name="close">Fermer</string>
     <string name="yes">Oui</string>
     <string name="no">Non</string>
-    <string name="please_try_again">Aissaier encore s\'il vous plaît</string>
-    <string name="images_diabled_ram">Image désactivés à cause d\'un manque de RAM.</string>
-    <string name="no_item_found">Aucun item trouvé !</string>
-    <string name="report_missing_item">Reporter les items manquants</string>
+    <string name="please_try_again">Veuillez réessayer</string>
+    <string name="images_diabled_ram">Images désactivées à cause d\'un manque de RAM.</string>
+    <string name="no_item_found">Aucun item trouvé!</string>
+    <string name="report_missing_item">Signaler les items manquants</string>
     <string name="missing_item">Item manquant</string>
-    <string name="sm_steam_title">Acheter ScrapMechanic sur Steam</string>
-    <string name="visit_sm_wiki">Visiter le wiki de ScrapMechanic</string>
+    <string name="sm_steam_title">Acheter Scrap Mechanic sur Steam</string>
+    <string name="visit_sm_wiki">Visiter le wiki de Scrap Mechanic</string>
     <string name="visit_my_website">Visiter mon site</string>
-    <string name="please_rate">Avez vous aimé l\'application \?</string>
+    <string name="please_rate">Aimez vous l\'application\?</string>
     <string name="rate_now">Noter maintenant</string>
     <string name="no_thanks">Non merci</string>
     <string name="later">Plus tard</string>
@@ -52,61 +52,61 @@
     <string name="changing_lang">Changement de langue …</string>
     <string name="settings_category_general">Général</string>
     <string name="settings_language">Langue</string>
-    <string name="settings_theme">Theme</string>
-    <string name="settings_theme_light">Blanc</string>
+    <string name="settings_theme">Thème</string>
+    <string name="settings_theme_light">Clair</string>
     <string name="settings_theme_dark">Noir</string>
     <string name="settings_theme_system_default">Système par défaut</string>
     <string name="settings_category_more">Plus</string>
     <string name="obtained_in_warehouse">Peut être trouvé dans un entrepôt.</string>
     <string name="crafted_in_cookbot">Ceci doit être confectionné dans un robot-cuisinier.</string>
-    <string name="crafted_in_mechanic_station">Ceci doit être bricolé dans la Station du Mechanic.</string>
+    <string name="crafted_in_mechanic_station">Ceci doit être crafté dans la Station de Mecanique.</string>
     <string name="crashed_maintenance_ship">Vaisseau de maintenance détruit</string>
-    <string name="crashed_maintenance_ship_description">La batterie maîtresse est obligatoire pour activer le robot-bricoleur basic dedans. Vous trouverez de l\'équipement de jardinage à proximité. Dans une boite jaune dans le cockpit vous trouverez un journal de bord.</string>
-    <string name="haymaze_description">Un labyrinthe fait en bottes de foin rien de spécial là-bas.</string>
+    <string name="crashed_maintenance_ship_description">La batterie maîtresse est obligatoire pour activer le craftbot basique dedans. Vous trouverez de l\'équipement de jardinage à proximité. Dans une boite jaune dans le cockpit vous trouverez un journal de bord.</string>
+    <string name="haymaze_description">Un labyrinthe fait en bottes de foin, rien de spécial là-bas.</string>
     <string name="extra_info">Plus d\'infos</string>
-    <string name="settings_contribute_translation">Contribue à la traduction</string>
+    <string name="settings_contribute_translation">Contribuer à la traduction</string>
     <string name="disclaimer">Avertissement</string>
-    <string name="disclaimer_text">Ce Guide / Assistant n\'est ni associé ni autorisé par Axolot Games. Les noms Scrap Mechanic et Axolot Games ainsi que les noms, marques, emblèmes et images associés sont des marques déposées de leurs propriétaires respectifs. Cette application est faite par les fans pour les fans !</string>
+    <string name="disclaimer_text">Ce Guide / Assistant n\'est ni associé ni autorisé par Axolot Games. Les noms Scrap Mechanic et Axolot Games ainsi que les noms, marques, emblèmes et images associés sont des marques déposées de leurs propriétaires respectifs. Cette application est faite par un fan pour les fans. Un grand merci au wiki de Scrap Mechanic!</string>
     <string name="title_more">Plus</string>
     <string name="can_be_traded_at_the_hideout">On peut l\'obtenir en faisant du commerce avec la cachette.</string>
-    <string name="dropped_by_damaged_crates">Jeté par des caisses endommagées.</string>
+    <string name="dropped_by_damaged_crates">Obtention via caisses endommagées.</string>
     <string name="settings_report_bug_summary">Envoyez des informations sur les bugs de l\'application ou simplement des suggestions sur la manière de l\'améliorer.</string>
-    <string name="data_for_sm_version">Données pour la version ScrapMechanic</string>
+    <string name="data_for_sm_version">Données pour la version Scrap Mechanic</string>
     <string name="leave_feedback">Si vous aimez utiliser cette application, pourriez-vous prendre un moment pour l\'évaluer ? Cela ne prendra pas plus d\'une minute. Merci pour votre soutien !</string>
-    <string name="website_axolot_title">Visitez le site web d\'Axolots</string>
-    <string name="packing_station_description">Le panneau d\'affichage vous montre comment l\'utiliser. Vous aurez besoin d\'une pompe à vide fixée sur un grand coffre de votre véhicule. Connectez un bouton à la pompe à vide et remplissez le coffre avec l\'objet que vous voulez donner à la station d\'emballage. Une barre située à la station vous indiquera la quantité à mettre dans la centrale pour recevoir une caisse de l\'article.
+    <string name="website_axolot_title">Visitez le site web d\'Axolot</string>
+    <string name="packing_station_description">Le panneau d\'affichage vous montre comment l\'utiliser. Vous aurez besoin d\'une pompe fixée sur un grand coffre de votre véhicule. Connectez un bouton à la pompe et remplissez le coffre avec le fruit/légume que vous voulez donner à la station d\'emballage. Une barre située à la station vous indiquera la quantité à mettre dans la centrale pour recevoir une caisse de l\'article.
 \nIl existe deux types de stations de conditionnement. L\'un prend les légumes et l\'autre les fruits.
 \nEmmenez les caisses dans une cachette.</string>
-    <string name="circuit_board_origin">Recevez-le en pillant les caisses endommagées ou en tuant les farmbots.</string>
-    <string name="title_chestloot">Le butin du coffre</string>
+    <string name="circuit_board_origin">Recevez-le en détruisant les caisses endommagées ou en tuant les bots.</string>
+    <string name="title_chestloot">butin de coffre</string>
     <string name="title_clothing">Vêtements</string>
     <string name="property_flammable">Inflammable</string>
     <string name="property_buoyancy">Flottabilité</string>
     <string name="property_durability">Durabilité</string>
-    <string name="property_weight">Poid</string>
+    <string name="property_weight">Poids</string>
     <string name="creatures_health">Santé</string>
     <string name="creatures_totebot">Totebot</string>
     <string name="creatures_haybot">Haybot</string>
     <string name="creatures_tapebot">Tapebot</string>
     <string name="creatures_farmbot">Farmbot</string>
-    <string name="creatures_damage">Dommage</string>
+    <string name="creatures_damage">Dégats</string>
     <string name="title_creatures">Créatures</string>
-    <string name="cotton_origin">Recevez-le en le collectant dans le biome forestier d\'automne.</string>
+    <string name="cotton_origin">Recevez-le en le collectant dans la forêt d\'automne.</string>
     <string name="get_at_packing_station">Obtenez ceci à la station d\'emballage.</string>
-    <string name="can_be_found_at_crashsites">Peut être trouvé sur le site de l\'écrasement.</string>
+    <string name="can_be_found_at_crashsites">Peut être trouvé sur le site de crash.</string>
     <string name="about">À propos de cette application</string>
     <string name="settings_what_report">Que voulez-vous signaler ?</string>
     <string name="feed_to_wocs">Nourrissez les Wocs avec pour obtenir du lait.</string>
-    <string name="scrap_metal_origin">Recevez-le en raffinant les morceaux de farmbot.</string>
+    <string name="scrap_metal_origin">Recevez-le en raffinant les morceaux de haybots.</string>
     <string name="scrap_stone_origin">Recevez-le en forant des pierres. Elles se trouvent principalement dans la forêt.</string>
     <string name="scrap_wood_origin">Recevez-le en coupant des petits arbres ou en cassant les cabanes de fermiers.</string>
     <string name="glue_clam_origin">Recevez-le en cassant les grandes palourdes dans les zones sous-marines.</string>
-    <string name="chemical_origin">Recevez-le  en pillant les caisse endommagées ou en le pompant dans un lac de produits chimiques.</string>
+    <string name="chemical_origin">Recevez-le en cassant les caisses endommagées ou en le pompant dans un lac de produits chimiques.</string>
     <string name="pigment_flower_origin">Recevez-le en ramassant des fleurs. Elles se trouvent principalement dans la forêt.</string>
-    <string name="glow_origin">Recevez-le en nourrissant un Glowb de 15 blocs de carton. Les Glowbs peuvent être trouvés dans les zones sous-marines la nuit. C\'est une créature jaune/verte brillante. Vous pouvez la ramasser et la sortir de l\'eau. Elle ne va pas mourir ni vous blesser.</string>
+    <string name="glow_origin">Recevez-le en nourrissant une Glowbug de 15 blocs de carton. Les Glowbugs peuvent être trouvés dans les zones sous-marines la nuit. C\'est une créature jaune/verte brillante. Vous pouvez la ramasser et la sortir de l\'eau. Elle ne va pas mourir ni vous blesser.</string>
     <string name="ember_origin">Recevez-le en cassant des arbres dans la forêt brûlée.</string>
     <string name="crude_oil_origin">Recevez-le en ramassant les bulles de pétrole sous l\'eau.</string>
-    <string name="beeswax_origin">Recevez-le en ramassant les nids d\'abeilles, qui sont en général sur les rochers. Vous pouvez les casser avec la masse, les abeilles ne vous attaquerons pas.</string>
+    <string name="beeswax_origin">Recevez-le en cassant les ruches généralement sur les rochers. Vous pouvez les casser avec la masse, les abeilles ne vous attaquerons pas.</string>
     <string name="damage_sledgehammer">Dégats: 20</string>
     <string name="damage_spudgun">Dégats: 28</string>
     <string name="damage_spud_shotgun">Dégats: 64 (16 par frite)</string>
@@ -115,7 +115,7 @@
     <string name="update_downloaded">Une mise à jour a été téléchargé</string>
     <string name="settings_data_loading_always">Toujours</string>
     <string name="property_friction">Friction</string>;
-    <string name="settings_usage_data_summary">Envoyer un rapport anonyme de vos données et de vos crash pour améliorer l\'app.</string>
+    <string name="settings_usage_data_summary">Envoyer un rapport anonyme de vos données de crash et d\'utilisation pour améliorer l\'app.</string>
     <string name="title_tutorial">Tutoriel</string>
     <string name="title_reddit">Reddit</string>
     <string name="settings_suggestion">Suggestion</string>
@@ -193,15 +193,15 @@
     <string name="trader">Commerçant</string>
 
     // DESCRIPTIONS
-    <string name="component_kit_origin">Les kits de composants font parti du butin obtenu dans les coffres endommagé et dans les coffre de ruines ou bien en detruisant des Haybots. Tapebots et Farmbots.</string>
+    <string name="component_kit_origin">Les kits de composants font parti du butin obtenu dans les coffres endommagé et dans les coffre de ruines ou bien en detruisant des Haybots, Tapebots et/ou Farmbots.</string>
     <string name="farmer_shack_description">Les Cabanes de fermiers sont des cabanes situées à côté des routes. Vous pouvez y trouver du sol fertil (communément appelé terreau), des graines et beaucoup de matériaux de construction (notamment le bois dont ces cabanes sont faites). Les agriculteurs vivaient et vendaient leurs produits ici.</string>
     <string name="farmers_hideout_description">Apportez vos caisses de fruits/légumes ou un fermier en cage à la cachette (chez le marchant). Vous pouvez mettre les choses sur un pad là-bas et appuyer sur le bouton à côté. Cela aspirera les ressources et vous pourrez les dépenser pour votre achat.
 \n
 \nVous pouvez y acheter des objets comme le spudgun ou bien des graines rares.</string>
     <string name="autumn_forest_description">C\'est un excellent endroit pour trouver du coton et/ou des fermiers en cage.</string>
-    <string name="burned_forest_description">Ici vous pouvez trouver de la braise, qui est utilisée pour l\'artisanat. Il suffit de casser les arbres brulés pour en obtenir (entre 2 et 4). Mais faites attention des Farmbots peuvent parfois s\'y trouver.</string>
+    <string name="burned_forest_description">Ici vous pouvez trouver de la braise, qui est utilisée pour certains craft. Il suffit de casser les arbres brulés pour en obtenir (entre 2 et 4). Mais faites attention des Farmbots peuvent parfois s\'y trouver.</string>
     <string name="chemical_plant">Usine de produits chimiques</string>
-    <string name="water_plant_description">La zone autour de l\'usine de production d\'eau (non) potable est très plate et il y a beaucoup d\'eau, ce qui en fait un endroit parfait pour votre ferme, elle est également facile à défendre.</string>
+    <string name="water_plant_description">La zone autour de l\'usine de \"production\" d\'eau (non) potable est très plate et il y a beaucoup d\'eau, ce qui en fait un endroit parfait pour votre ferme, elle est également facile à défendre.</string>
     <string name="stone_woc">Woc en pierre</string>
     <string name="stone_woc_description">Un enclos avec une Woc en pierre qui est entouré d\'un tas de vrais Wocs. Vous pouvez le trouver au milieu de la forêt.</string>
     <string name="oil_lake">Puit de pétrole</string>
@@ -217,7 +217,7 @@
     <string name="ruin_chest_crash_site">Coffre de ruine - Vaisseau de maintenance écrasé</string>
     <string name="tutorial_commands_to_clipboard">dans le presse-papiers</string>
     <string name="interactive">Bloc interactif</string>
-    <string name="common_fixes_items_fallen_through_map_solution2">Alternativement, vous pouvez utiliser une petite astuce ! Il s\'agit de construire avec des blocs sur votre cric et de placer un siège. Montez dans le siège et abaissez le cric pour traverser le sol et récupérer votre items.</string>
+    <string name="common_fixes_items_fallen_through_map_solution2">Alternativement, vous pouvez utiliser une petite astuce ! Il s\'agit de construire avec des blocs sur votre cric et de placer un siège. Montez dans le siège et abaissez le cric pour traverser le sol et récupérer vos items.</string>
     <string name="common_fixes_player_fallen_through_map_solution1">Ne vous inquiétez pas! Dès que vous tomberez dans le vide, un écran apparaîtra disant, \"Eh vous ne jouez pas de la bonne façon, Arrêtez!\". Et vous serez téléporté à la surface.</string>
     <string name="common_fixes_player_fallen_through_map_problem">Vous êtes tombé à travers le sol.</string>
     <string name="common_fixes_player_fallen_through_map_title">Vous êtes tombé à travers le sol</string>
@@ -226,12 +226,72 @@
 
     //CLOTHING
     <string name="rearrange">Réarranger</string>
-    <string name="creatures_totebot_description">Il faut donner 3 coups de masse au Totebot pour le détruire. Ils vont toujours apparaître lors des raids.</string>
+    <string name="creatures_totebot_description">Il faut donner 3 coups de masse au Totebot pour le détruire. Il y en apparait toujours lors des raids.</string>
     <string name="creatures_tapebot_description">Les tapebots bleus infligent 55 de dégâts en mode normal et 28 en facile tandis que les tapebots rouges (situer au dernier étage d\'un entrepôt) lancent des explosifs infligeant 62 de dégâts en normal et 31 en facile.</string>
     <string name="creatures_farmbot_description">Les Farmbots sont le type de bots le plus fort du jeu, ils sont immunisés à tout dégâts infligés avec la masse et ont besoin de 58 tirs de Spudgun ou 25 de Spud Shotgun pour être détruit. Ils apparaissent naturellement dans les forêts, forêt d\'automne et forêts brûlées ainsi que dans les villes en ruines, il est également possible (avec une très faible chance) qu\'un garde un entrepôt.</string>
     <string name="tutorial_logic_gate_description">La porte logique est un bloc interactif utilisé pour comparer deux ou plusieurs entrées. Elle vous permet de construire des constructions assez complexes et automatisés. Vous pouvez choisir parmi six types de portes. Vous pouvez les sélectionner ci-dessous et simuler leur comportement.</string>
-    <string name="tutorial_memory_description">La porte logique est un bloc interactif utilisé pour comparer deux ou plusieurs entrées. Il vous permet de construire des constructions assez complexes et automatisés. Vous pouvez choisir parmi six types de portes. Vous pouvez les sélectionner ci-dessous et simuler leur comportement.</string>
+    <string name="tutorial_memory_description">Le système mémoire est une combinaison de 3 portes logiques utilisées pour stocker une valeur binaire. Vous pouvez utiliser ceci pour transformer un bouton en interrupteur ou sauver la position d\'une grue par exemple. Vous aurez besoin de ce système pour toutes les grosses création nécessitant de la logique.</string>
     <string name="tutorial_timer_setup2">Mettez une porte logique sur AND et l\'autre sur NOR. Vous pouvez choisir n\'importe quel intervalle pour le minuteur en fonction de ce que vous avez besoin pour votre création (de 0 sec (0 tick) à 1 min (2400 ticks)). En l\'occurrence j\'ai utilisé 500ms (20 ticks) pour mon exemple.</string>
-    <string name="tutorial_commands_description">Vous pouvez utiliser ces commandes pour changer la manière dont le jeu ce comporte, pour faire apparaître certains objets ou pour obtenir des items, faites juste attention de ne pas detruire votre monde en les utilisant. Vous pouvez les entrer dans le tchat pour les activer.</string>
+    <string name="tutorial_commands_description">Vous pouvez utiliser ces commandes pour changer la manière dont le jeu se comporte, pour faire apparaître certains objets ou pour obtenir des items, faites juste attention de ne pas detruire votre monde en les utilisant. Vous pouvez les entrer dans le tchat pour les activer.</string>
     <string name="is_near_structures_that_need_power">Peut toujours être trouvé à proximité des structures qui ont besoin d\'énergie.</string>
+    <string name="command_sunshake">Give 1 sunshake</string>
+    <string name="command_components">Give &lt;quantité&gt; composants (défaut 10)</string>
+    <string name="command_place">Place un arbre / une pierre à l\'endroit visé. Doit être placé au sol. Le paramètre défini ce qui sera placé : stone (pierre), tree (arbre), birch (boulot), leafy (feuillu), spruce (sapin), pine (pin)</string>
+    <string name="modpacks_in_settings">Activer les mods dans les paramètres</string>
+    <string name="hide">Cacher</string>
+    <string name="modpack_hint">Vous recherchez peut-être un élément de modpack. Vous pouvez activer l\'inclusion des modpacks dans les paramètres.</string>
+
+
+    // PREFERENCES
+    <string name="settings_Typo">Erreur orthographique</string>
+    <string name="modpack_version_dates">Dates de version de Modpack</string>
+    <string name="command_spudgun">Give le spudgun</string>
+    <string name="command_shotgun">Give le shotgun à frites</string>
+    <string name="command_baguette">Give 1 baguette de renaissance</string>
+    <string name="command_keycard">Give 1 clé d\'entrepôt</string>
+    <string name="command_glowsticks">Give &lt;quantité&gt; bâtons lumineux (défaut 10)</string>
+    <string name="command_god">Un godmode comme il y en a dans des milliers de jeux (vous êtes invincible quoi)</string>
+    <string name="command_respawn">Respawn au dernier lit (comme dans mine raft) (ou au site de crash)</string>
+    <string name="command_encrypt">Restreint les interactions dans les entrepôts</string>
+    <string name="command_decrypt">Autorise les interactions dans les entrepôts</string>
+    <string name="command_limited">Active l\'inventaire survie</string>
+    <string name="command_unlimited">Active l\'inventaire créatif</string>
+    <string name="command_time">Défini la période du jour (sous forme de nombre a virgule (0.5 = midi))</string>
+    <string name="command_time_progress">Active/désactive le temps qui passe</string>
+    <string name="command_day">Désactive le temps qui passe et met le jour</string>
+    <string name="command_spawn">Fait apparaître un mob: Woc, Tapebot, Totebot, Haybot</string>
+    <string name="command_harvestable">Fait apparaître un arbre / une pierre</string>
+    <string name="command_export">Exporte un blueprint $SURVIVAL_DATA/LocalBlueprints/&lt;name&gt;.blueprint</string>
+    <string name="command_import">Importe un blueprint $SURVIVAL_DATA/LocalBlueprints/&lt;name&gt;.blueprint</string>
+    <string name="command_starterkit">Fait apparaître un kit de démarrage</string>
+    <string name="command_mechanic_starterkit">Fait apparaître un kit de démarrage pour la station de mécanique</string>
+    <string name="command_pipekit">Fait apparaître un kit de tuyaux</string>
+    <string name="command_foodkit">Fait apparaître un kit de bouffe</string>
+    <string name="command_seedkit">Fait apparaître un kit de graines</string>
+    <string name="command_die">Suicide</string>
+    <string name="command_set_hp">Défini le nombre d\'hp</string>
+    <string name="command_set_food">Défini le niveau de faim à une certaine valeur</string>
+    <string name="command_set_water">Défini le niveau de soif à une certaine valeur</string>
+    <string name="command_aggroall">Tous les bots vont savoir où le joueur se trouve</string>
+    <string name="command_pop_capsules">Ouvre toutes les capsules. Optionnellement vous pouvez définir le type de capsule: bot, animal</string>
+    <string name="command_killall">Génocide de tout ce qui a été fait apparaître</string>
+    <string name="command_dropscrap">Active/désactive le butin des haybot (métal abîmé)</string>
+    <string name="comamnd_clear">Supprime toutes les créations (spawnées avec le cric et construites directement dans le monde). Doit être activé avec /allowclear</string>
+    <string name="command_allowclear">Active/désactive le /clear (doit être réutilisé après avoir utilisé le /clear pour pouvoir réutiliser le /clear)</string>
+
+    // ITEMS
+    <string name="command_ammo">Give &lt;quantity&gt; ammo (default 50)</string>
+    <string name="modpacks">Modpacks</string>
+    <plurals name="x_modpacks_enabled">
+        <item quantity="one">%d modpack activé</item>
+        <item quantity="many">%d modpacks activés</item>
+        <item quantity="other">0 modpack d\'activé</item>
+    </plurals>
+
+
+    // MODPACKS
+    <string name="title_steam_updates">Mise à jours Steam</string>
+    <string name="title_tutorials">Tutoriels</string>
+    <string name="forest_description">Une bonne source de bois et de pierre. Il est recommandé de venir avec une scie et une tête de forage (et non pas perceuse comme in-game).</string>
+    <string name="command_gatling">Give la mitraillette à patates</string>
 </resources>
