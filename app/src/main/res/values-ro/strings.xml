@@ -19,7 +19,7 @@
     <string name="ruin_city">Oraşul Ruinat</string>
     <string name="water_plant">Staţia de Apă</string>
     <string name="underwater">Sub Apă</string>
-    <string name="EMAIL_TITLE">Raportează Greşeli</string>
+    <string name="EMAIL_TITLE">Raportează Greșeli</string>
     <string name="SEND_EMAIL">Trimite E-Mail folosind …</string>
     <string name="NO_EMAIL_CLIENT">Niciun Client de E-Mail găsit</string>
     <string name="title_home">Acasă</string>
@@ -141,7 +141,7 @@
     <string name="settings_vibration_feedback">Feedback Vibraţii</string>
     <string name="title_tutorial">Tutorial</string>
     <string name="title_tutorials">Tutoriale</string>
-    <string name="title_chestloot">Pradă din Cufăr</string>
+    <string name="title_chestloot">Prăzi din Cufere</string>
     <string name="tutorial_input">Intrare</string>
     <string name="tutorial_output">Iesire</string>
     <string name="tutorial_demonstration">Demonstratie</string>
@@ -356,4 +356,7 @@
     <string name="command_keycard">Dă-ți 1 keycard</string>
     <string name="command_powercore">Dă-ți 1 powercore</string>
     <string name="command_components">Dă-ți &lt;cantitate&gt; componente (implicit 10)</string>
+    <string name="command_tumble">Set tumble state</string>
+    <string name="command_god">Mecanicii nu vor fi vătămați</string>
+    <string name="command_respawn">Respawn la ultimul pat (sau la racheta prăbușită)</string>
 </resources>
