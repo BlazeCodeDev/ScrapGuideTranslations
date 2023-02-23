@@ -307,6 +307,7 @@
     <string name="clothing_lumberjack_pants">Pantaloni de Tăietor de Lemne</string>
     <string name="clothing_painter_backpack">Rucsacul Vopsitorului</string>
     <string name="clothing_golf_gloves">Mănuși de Golf</string>
+    <string name="item_scrap_metal">Fier Vechi</string>
     <string name="clothing_tomato_tshirt">Bluză Roșie</string>
     <string name="clothing_logical_tshirt">Bluză Logică</string>
     <string name="clothing_farmhand_shoes">Papucii Muncitorului Agricol</string>
@@ -333,6 +334,7 @@
     <string name="clothing_farmer_shoes">Papucii Fermierului</string>
     <string name="clothing_crash_mechanic_gloves">Mănușile Mecanicului Accidentat</string>
     <string name="clothing_crash_mechanic_backpack">Rucsacul Mecanicului Accidentat</string>
+    <string name="item_air_conditioner">Aer Condiționat</string>
     <string name="clothing_crash_mechanic_pants">Pantalonii Mecanicului Accidentat</string>
     <string name="clothing_stuntman_gloves">Mănușile Cascadorului</string>
     <string name="clothing_stuntman_hat">Casca Cascadorului</string>
@@ -363,9 +365,9 @@
     <string name="clothing_playing_wrong_tshirt">Bluză Jucând greșit</string>
 
 
-
     //ITEMS
     <string name="item_scrap_wood">Lemn Vechi</string>
+    <string name="item_antenna">Antenă</string>
     <string name="clothing_crash_mechanic_jacket">Jacheta Mecanicului Accidentat</string>
     <string name="clothing_crash_mechanic_shoes">Papucii Mecanicului Accidentat</string>
     <string name="clothing_broccoli_tshirt">Bluză Broccoli</string>
