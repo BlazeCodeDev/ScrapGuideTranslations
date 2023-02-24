@@ -250,7 +250,6 @@
     <string name="command_baguette">Give 1 baguette de renaissance</string>
     <string name="command_keycard">Give 1 clé d\'entrepôt</string>
     <string name="command_glowsticks">Give &lt;quantité&gt; bâtons lumineux (défaut 10)</string>
-    <string name="command_god"></string>
     <string name="command_respawn">Respawn au dernier lit (comme dans mine raft) (ou au site de crash)</string>
     <string name="command_encrypt">Restreint les interactions dans les entrepôts</string>
     <string name="command_decrypt">Autorise les interactions dans les entrepôts</string>
@@ -268,13 +267,11 @@
     <string name="command_pipekit">Fait apparaître un kit de tuyaux</string>
     <string name="command_foodkit">Fait apparaître un kit de bouffe</string>
     <string name="command_seedkit">Fait apparaître un kit de graines</string>
-    <string name="command_die"></string>
     <string name="command_set_hp">Défini le nombre d\'hp</string>
     <string name="command_set_food">Défini le niveau de faim à une certaine valeur</string>
     <string name="command_set_water">Défini le niveau de soif à une certaine valeur</string>
     <string name="command_aggroall">Tous les bots vont savoir où le joueur se trouve</string>
     <string name="command_pop_capsules">Ouvre toutes les capsules. Optionnellement vous pouvez définir le type de capsule: bot, animal</string>
-    <string name="command_killall"></string>
     <string name="command_dropscrap">Active/désactive le butin des haybot (métal abîmé)</string>
     <string name="comamnd_clear">Supprime toutes les créations (spawnées avec le cric et construites directement dans le monde). Doit être activé avec /allowclear</string>
     <string name="command_allowclear">Active/désactive le /clear (doit être réutilisé après avoir utilisé le /clear pour pouvoir réutiliser le /clear)</string>
