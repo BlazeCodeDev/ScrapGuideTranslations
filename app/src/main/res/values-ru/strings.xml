@@ -301,4 +301,20 @@
     <string name="command_gatling">Выдать картофельный гатлинг</string>
     <string name="command_shotgun">Выдать картофельный дробовик</string>
     <string name="command_sunshake">Выдать 1 саншейк</string>
+    <string name="command_decrypt">Отключить ограничение взаимодействия на всех складах</string>
+    <string name="command_time">Задает время суток (0,5=середина дня)</string>
+    <string name="hide">Спрятать</string>
+    <string name="modpack_version_dates">Даты выпуска модпака</string>
+    <string name="command_baguette">Выдать 1 багет возрождения</string>
+    <string name="command_keycard">Выдать 1 ключ-карту</string>
+    <string name="command_powercore">Выдать мощную батарейку</string>
+    <string name="command_components">Выдать &lt;количество&gt; компонентов (по умолчанию 10)</string>
+    <string name="command_glowsticks">Выдать &lt;количество&gt; светящихся палочек (по умолчанию 10)</string>
+    <string name="command_god">Механик не будет получать никакого урона</string>
+    <string name="command_respawn">Возрождение в кровате (или на месте крушения)</string>
+    <string name="command_encrypt">Отключить взаимодействие на всех складах</string>
+    <string name="command_limited">Включить ограниченный инвентарь</string>
+    <string name="command_unlimited">Отключить ограниченный инвентарь</string>
+    <string name="command_time_progress">Заморозить время</string>
+    <string name="command_day">Поставить время на полдень и заморозить время</string>
 </resources>
