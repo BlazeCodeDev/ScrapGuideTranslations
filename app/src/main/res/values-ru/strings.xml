@@ -317,7 +317,7 @@
     <string name="command_unlimited">Отключить ограниченный инвентарь</string>
     <string name="command_time_progress">Заморозить время</string>
     <string name="command_day">Поставить время на полдень и заморозить время</string>
-    <string name="command_pop_capsules">Открывает все капсулы. Дополнительный фильтр определяет, какой тип капсул открывать: бот, животное.</string>
+    <string name="command_pop_capsules">Открывает все капсулы. Дополнительный фильтр определяет, какой тип капсул открывать: бот, животное</string>
     <string name="command_place">Помещает убираемый материал в прицельное положение. Должен быть поставлен на землю. Параметр \"Собираемый урожай\" определяет, какой урожай следует размещать: камень, дерево, береза, лиственный, ель, сосна</string>
     <string name="clothing_automotive_gloves">Автомобильные перчатки</string>
     <string name="clothing_automotive_hat">Автомобильная шляпа</string>
@@ -373,7 +373,7 @@
     <string name="command_export">Экспортирует чертеж $SURVIVAL_DATA/LocalBlueprints/&lt;имя&gt;.blueprint</string>
     <string name="command_import">Импортировать чертеж $SURVIVAL_DATA/LocalBlueprints/&lt;имя&gt;.blueprint</string>
     <string name="command_starterkit">Заспавнить стартовый набор</string>
-    <string name="command_mechanic_starterkit">"Создать стартовый набор для запуска  механической станции"</string>
+    <string name="command_mechanic_starterkit">Создать стартовый набор для запуска механической станции</string>
     <string name="command_pipekit">Создать набор труб</string>
     <string name="command_foodkit">Создать набор еды</string>
     <string name="command_seedkit">Создать набор семян</string>
@@ -383,7 +383,7 @@
     <string name="command_set_food">Установить сытость игрока</string>
     <string name="command_aggroall">Все враги будут знать ваше положение</string>
     <string name="command_killall">Убить всех заспавненых юнитов</string>
-    <string name="command_dropscrap">вкл. или откл. выпадение металлолома из сеноботов в творческом режиме (по умолчанию выключено).</string>
+    <string name="command_dropscrap">вкл. или откл. выпадение металлолома из сеноботов в творческом режиме (по умолчанию выключено)</string>
     <string name="command_restrictions">Переключает ограничения на создания</string>
     <string name="comamnd_clear">Удалить все формы в мире. Сначала его необходимо включить с помощью /allowclear</string>
     <string name="command_allowclear">Включает/отключает команду /clear</string>
