@@ -101,7 +101,6 @@
     <string name="autumn_forest_description">Este local é ótimo para encontrar algodão, ou mesmo fazendeiros enjaulados.</string>
     <string name="farmers_hideout_description">Leve suas caixas de frutas/verduras e o sujeito enjaulado para o ponto de entrega do esconderijo. Você pode colocar estas coisas na plataforma demarcada e pressionar o botão próximo. Os recursos serão aspirados, e você vai poder gasta-los em suas compras. \n\n Você pode comprar itens como a arma de batatas ou sementes raras no esconderijo.</string>
     <string name="mechanic_station_description">A oficina mecânica tem uma chave grande e iluminada no topo do seu telhado. Você precisa conseguir uma bateria mestre dos quartos de alojamento ao lado da oficina. Depois que você colocá-la no local designado, você ativa o console de construção. Ele é usado para fazer o Crafting Bot, o Dressbot, o Cookbot, Refine bot e o coletor de recursos.</string>
-    <string name="warehouse_description"></string>
     <string name="packing_station_description">O letreiro mostra como usar. Primeiro você precisa de uma bomba a vácuo conectada a um baú grande no seu veículo. Conecte um botão à bomba de vácuo e encha o baú com o item que você quer enviar à estação de empacotamento. Uma barra na estação vai lhe dizer quanto mais colocar na fábrica para receber uma caixa do item.
 \nHá dois tipos de estação de empacotamento. Uma para verduras e uma para frutas.
 \nLeve as caixas a um esconderijo.</string>

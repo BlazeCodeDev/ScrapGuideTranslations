@@ -234,7 +234,6 @@
     <string name="tutorial_timer_setup2">Mettez une porte logique sur AND et l\'autre sur NOR. Vous pouvez choisir n\'importe quel intervalle pour le minuteur en fonction de ce que vous avez besoin pour votre création (de 0 sec (0 tick) à 1 min (2400 ticks)). En l\'occurrence j\'ai utilisé 500ms (20 ticks) pour mon exemple.</string>
     <string name="tutorial_commands_description">Vous pouvez utiliser ces commandes pour changer la manière dont le jeu se comporte, pour faire apparaître certains objets ou pour obtenir des items, faites juste attention de ne pas detruire votre monde en les utilisant. Vous pouvez les entrer dans le tchat pour les activer.</string>
     <string name="is_near_structures_that_need_power">Peut toujours être trouvé à proximité des structures qui ont besoin d\'énergie.</string>
-    <string name="command_sunshake"></string>
     <string name="command_components">Give &lt;quantité&gt; composants (défaut 10)</string>
     <string name="command_place">Place un arbre / une pierre à l\'endroit visé. Doit être placé au sol. Le paramètre défini ce qui sera placé : stone (pierre), tree (arbre), birch (boulot), leafy (feuillu), spruce (sapin), pine (pin)</string>
     <string name="modpacks_in_settings">Activer les mods dans les paramètres</string>
@@ -277,7 +276,6 @@
     <string name="command_allowclear">Active/désactive le /clear (doit être réutilisé après avoir utilisé le /clear pour pouvoir réutiliser le /clear)</string>
 
     // ITEMS
-    <string name="command_ammo"></string>
     <string name="modpacks">Modpacks</string>
     <plurals name="x_modpacks_enabled">
         <item quantity="one">%d modpack activé</item>

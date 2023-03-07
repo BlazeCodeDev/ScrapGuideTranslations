@@ -347,7 +347,6 @@
 
     // PREFERENCES
     <string name="modpack_version_dates">Date versiuni Modpackuri</string>
-    <string name="command_ammo"></string>
     <string name="command_spudgun">Dă-ți spudgun</string>
     <string name="command_gatling">Dă-ți mitraliera de cartofi</string>
     <string name="command_shotgun">Dă-ți un shotgun de cartofi prăjiți</string>
@@ -356,7 +355,6 @@
     <string name="command_keycard">Dă-ți 1 keycard</string>
     <string name="command_powercore">Dă-ți 1 powercore</string>
     <string name="command_components">Dă-ți &lt;cantitate&gt; componente (implicit 10)</string>
-    <string name="command_tumble"></string>
     <string name="command_god">Mecanicii nu vor fi vătămați</string>
     <string name="command_respawn">Respawn la ultimul pat (sau la racheta prăbușită)</string>
 </resources>
