@@ -331,11 +331,7 @@
     <string name="clothing_golf_jacket">Koszulka golfisty</string>
     <string name="clothing_technician_backpack">Plecak technika</string>
     <string name="clothing_applicator_jacket">Strój aplikatora</string>
-    <string name="warehouse_description">To najniebezpieczniejsze miejsce w grze. Potrzebujesz klucza do magazynu żeby się tu dostać. Otrzymasz go zabijając Farmbota.
-\n
-\nSą dwa typy magazynów, dwu piętrowe i cztero piętrowe. Oba zawierają pokój skarbów na najwyższym piętrze z 5 uszkodzonymi złotymi skrzyniami. Dlatego zalecane jest odwiedzanie dwu piętrowych magazynów.
-\n
-\nTapeboty są w środku i dookoła magazynu i będą do ciebie strzelać. Zalecane jest posiadanie pistoletu na ziemniaki przed wizytą. Czerwony Tapebot będzie strzelał wybuchowymi taśmami.</string>
+    <string name="warehouse_description"></string>
     <string name="clothing_crash_mechanic_gloves">Połowa rękawicy mechanika</string>
     <string name="clothing_stuntman_jacket">Kurtka kaskadera</string>
     <string name="clothing_totebot_tshirt_3">Koszulka \"toteboty i księżyc\"</string>
@@ -346,4 +342,5 @@
 \n
 \nSą dwa typy stacji pakowania.
 \nJedna przyjmuje warzywa a druga owoce. Zabierz skrzynie do kryjówki.</string>
+    <string name="crashed_maintenance_ship_description">Główna bateria jest wymagana do aktywowania podstawowego Craftbota w środku. Niedaleko znajdziesz podstawowy sprzęt rolniczy. Żółte pudełko w kokpicie zawiera dziennik.</string>
 </resources>
