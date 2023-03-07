@@ -38,13 +38,13 @@
     <string name="no">Non</string>
     <string name="please_try_again">Veuillez réessayer</string>
     <string name="images_diabled_ram">Images désactivées à cause d\'un manque de RAM.</string>
-    <string name="no_item_found">Aucun item trouvé!</string>
+    <string name="no_item_found">Aucun item trouvé !</string>
     <string name="report_missing_item">Signaler les items manquants</string>
     <string name="missing_item">Item manquant</string>
     <string name="sm_steam_title">Acheter Scrap Mechanic sur Steam</string>
     <string name="visit_sm_wiki">Visiter le wiki de Scrap Mechanic</string>
     <string name="visit_my_website">Visiter mon site</string>
-    <string name="please_rate">Aimez vous l\'application\?</string>
+    <string name="please_rate">Aimez vous l\'application \?</string>
     <string name="rate_now">Noter maintenant</string>
     <string name="no_thanks">Non merci</string>
     <string name="later">Plus tard</string>
@@ -66,7 +66,7 @@
     <string name="extra_info">Plus d\'infos</string>
     <string name="settings_contribute_translation">Contribuer à la traduction</string>
     <string name="disclaimer">Avertissement</string>
-    <string name="disclaimer_text">Ce Guide / Assistant n\'est ni associé ni autorisé par Axolot Games. Les noms Scrap Mechanic et Axolot Games ainsi que les noms, marques, emblèmes et images associés sont des marques déposées de leurs propriétaires respectifs. Cette application est faite par un fan pour les fans. Un grand merci au wiki de Scrap Mechanic!</string>
+    <string name="disclaimer_text">Ce Guide / Assistant n\'est ni associé ni autorisé par Axolot Games. Les noms Scrap Mechanic et Axolot Games ainsi que les noms, marques, emblèmes et images associés sont des marques déposées de leurs propriétaires respectifs. Cette application est faite par un fan pour les fans. Un grand merci au wiki de Scrap Mechanic !</string>
     <string name="title_more">Plus</string>
     <string name="can_be_traded_at_the_hideout">On peut l\'obtenir en faisant du commerce avec la cachette.</string>
     <string name="dropped_by_damaged_crates">Obtention via caisses endommagées.</string>
@@ -107,10 +107,10 @@
     <string name="ember_origin">Recevez-le en cassant des arbres dans la forêt brûlée.</string>
     <string name="crude_oil_origin">Recevez-le en ramassant les bulles de pétrole sous l\'eau.</string>
     <string name="beeswax_origin">Recevez-le en cassant les ruches généralement sur les rochers. Vous pouvez les casser avec la masse, les abeilles ne vous attaquerons pas.</string>
-    <string name="damage_sledgehammer">Dégats: 20</string>
-    <string name="damage_spudgun">Dégats: 28</string>
-    <string name="damage_spud_shotgun">Dégats: 64 (16 par frite)</string>
-    <string name="damage_spudling_gun">Dégats: 20</string>
+    <string name="damage_sledgehammer">Dégats : 20</string>
+    <string name="damage_spudgun">Dégats : 28</string>
+    <string name="damage_spud_shotgun">Dégats : 64 (16 par frite)</string>
+    <string name="damage_spudling_gun">Dégats : 20</string>
     <string name="copied_id">ID copié dans le presse-papiers</string>
     <string name="update_downloaded">Une mise à jour a été téléchargé</string>
     <string name="settings_data_loading_always">Toujours</string>
@@ -122,7 +122,7 @@
 
 
     // CREATURES
-    <string name="restore_default">Êtes-vous sûr de vouloir restaurer l\'ordre par défaut\?</string>
+    <string name="restore_default">Êtes-vous sûr de vouloir restaurer l\'ordre par défaut \?</string>
     <string name="no_internet_connection">Pas de connexion Internet</string>
     <string name="notepad">Bloc-notes</string>
     <string name="notepad_title">Titre</string>
@@ -218,7 +218,7 @@
     <string name="tutorial_commands_to_clipboard">dans le presse-papiers</string>
     <string name="interactive">Bloc interactif</string>
     <string name="common_fixes_items_fallen_through_map_solution2">Alternativement, vous pouvez utiliser une petite astuce ! Il s\'agit de construire avec des blocs sur votre cric et de placer un siège. Montez dans le siège et abaissez le cric pour traverser le sol et récupérer vos items.</string>
-    <string name="common_fixes_player_fallen_through_map_solution1">Ne vous inquiétez pas! Dès que vous tomberez dans le vide, un écran apparaîtra disant, \"Eh vous ne jouez pas de la bonne façon, Arrêtez!\". Et vous serez téléporté à la surface.</string>
+    <string name="common_fixes_player_fallen_through_map_solution1">Ne vous inquiétez pas ! Dès que vous tomberez dans le vide, un écran apparaîtra disant, \"Eh vous ne jouez pas de la bonne façon, Arrêtez !\". Et vous serez téléporté à la surface.</string>
     <string name="common_fixes_player_fallen_through_map_problem">Vous êtes tombé à travers le sol.</string>
     <string name="common_fixes_player_fallen_through_map_title">Vous êtes tombé à travers le sol</string>
     <string name="common_fixes_player_fallen_through_map_solution2">Si vous êtes coincé dans un objet ou dans l\'eau, essayez de descendre dans le vide où vous serez téléporté. Si vous êtes vraiment bloqué, vous devrez peut-être utiliser un outil tiers pour vous téléporter.</string>
@@ -234,7 +234,7 @@
     <string name="tutorial_timer_setup2">Mettez une porte logique sur AND et l\'autre sur NOR. Vous pouvez choisir n\'importe quel intervalle pour le minuteur en fonction de ce que vous avez besoin pour votre création (de 0 sec (0 tick) à 1 min (2400 ticks)). En l\'occurrence j\'ai utilisé 500ms (20 ticks) pour mon exemple.</string>
     <string name="tutorial_commands_description">Vous pouvez utiliser ces commandes pour changer la manière dont le jeu se comporte, pour faire apparaître certains objets ou pour obtenir des items, faites juste attention de ne pas detruire votre monde en les utilisant. Vous pouvez les entrer dans le tchat pour les activer.</string>
     <string name="is_near_structures_that_need_power">Peut toujours être trouvé à proximité des structures qui ont besoin d\'énergie.</string>
-    <string name="command_sunshake">Give 1 sunshake</string>
+    <string name="command_sunshake"></string>
     <string name="command_components">Give &lt;quantité&gt; composants (défaut 10)</string>
     <string name="command_place">Place un arbre / une pierre à l\'endroit visé. Doit être placé au sol. Le paramètre défini ce qui sera placé : stone (pierre), tree (arbre), birch (boulot), leafy (feuillu), spruce (sapin), pine (pin)</string>
     <string name="modpacks_in_settings">Activer les mods dans les paramètres</string>
@@ -258,7 +258,7 @@
     <string name="command_time">Défini la période du jour (sous forme de nombre a virgule (0.5 = midi))</string>
     <string name="command_time_progress">Active/désactive le temps qui passe</string>
     <string name="command_day">Désactive le temps qui passe et met le jour</string>
-    <string name="command_spawn">Fait apparaître un mob: Woc, Tapebot, Totebot, Haybot</string>
+    <string name="command_spawn">Fait apparaître un mob : Woc, Tapebot, Totebot, Haybot</string>
     <string name="command_harvestable">Fait apparaître un arbre / une pierre</string>
     <string name="command_export">Exporte un blueprint $SURVIVAL_DATA/LocalBlueprints/&lt;name&gt;.blueprint</string>
     <string name="command_import">Importe un blueprint $SURVIVAL_DATA/LocalBlueprints/&lt;name&gt;.blueprint</string>
@@ -271,13 +271,13 @@
     <string name="command_set_food">Défini le niveau de faim à une certaine valeur</string>
     <string name="command_set_water">Défini le niveau de soif à une certaine valeur</string>
     <string name="command_aggroall">Tous les bots vont savoir où le joueur se trouve</string>
-    <string name="command_pop_capsules">Ouvre toutes les capsules. Optionnellement vous pouvez définir le type de capsule: bot, animal</string>
+    <string name="command_pop_capsules">Ouvre toutes les capsules. Optionnellement vous pouvez définir le type de capsule : bot, animal</string>
     <string name="command_dropscrap">Active/désactive le butin des haybot (métal abîmé)</string>
     <string name="comamnd_clear">Supprime toutes les créations (spawnées avec le cric et construites directement dans le monde). Doit être activé avec /allowclear</string>
     <string name="command_allowclear">Active/désactive le /clear (doit être réutilisé après avoir utilisé le /clear pour pouvoir réutiliser le /clear)</string>
 
     // ITEMS
-    <string name="command_ammo">Give &lt;quantity&gt; ammo (default 50)</string>
+    <string name="command_ammo"></string>
     <string name="modpacks">Modpacks</string>
     <plurals name="x_modpacks_enabled">
         <item quantity="one">%d modpack activé</item>
@@ -291,4 +291,13 @@
     <string name="title_tutorials">Tutoriels</string>
     <string name="forest_description">Une bonne source de bois et de pierre. Il est recommandé de venir avec une scie et une tête de forage (et non pas perceuse comme in-game).</string>
     <string name="command_gatling">Give la mitraillette à patates</string>
+    <string name="ruin_city_description">C\'est un endroit parfait pour trouver des coffres endommagées et des kits de composants. Attention il y a beaucoup de Haybots, même les Farmbots sont là.</string>
+    <string name="warehouse_description">C\'est l\'endroit le plus dangereux du mode survie. Vous avez besoin d\'une clé d\'entrepôt pour entrer. Vous pouvez en obtenir une en tuant le Farmbot.
+\n
+\nLes entrepôts peuvent apparaître avec deux, trois et quatre étages. Tous les types ont une salle de butin au sommet avec 5 caisses endommagées épiques et un coffre avec des objets (notamment graines de brocolis et d\'ananas). Par conséquent, il est recommandé d\'aller dans les entrepôts à deux étages pour commencer.
+\n
+\nLes Tapebots sont à l\'intérieur et à proximité des entrepôts et vous tireront dessus. Il est plus que recommendé d\'avoir un spudgun avant d\'y entrer. Les Tapebots rouges au dernier étage tireront des explosifs. Les Farmbots apparaîtront à la base des entrepôts à 4 étages.</string>
+    <string name="mechanic_station_description">La station service/garage a une grande clé illuminée sur le dessus de son toit. Vous devez obtenir la batterie principale située dans les dortoirs à côté de la station. Après l\'avoir placé dans l\'emplacement désigné, vous activerez la console d\'artisanat. C\'est un mega bot capable de fabriquer les autre bots : le Craft Bot (Fabribot), le Dressbot (Tenuebot), le Cookbot (Cuisibot), la Raffinerie (raffinebot)et le Collecteur de ressources.</string>
+    <string name="underwater_description">Ici vous pouvez trouver des palourdes, du pétrole brut et des Glowbug. Il s\'agit d\'une petite créature lumineuse de couleur verte / jaune. Elle vous donnera une lueur lorsque vous lui donnerez 15 blocs de carton.</string>
+    <string name="ruin_description">Il existe plusieurs variantes de ruines. Elles contiennent généralement des coffres endommagées et des coffres de ruine. Les Haybots ainsi que des tas de foin apparaissent à l\'intérieur ou à proximité des ruines. Frappez les t\'as de foins avec le marteau ou tirez dessus avec un spudgun pour révéler une caisse endommagée. Attention tous les tas de foin n\'en ont pas.</string>
 </resources>
