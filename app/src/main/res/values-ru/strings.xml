@@ -389,4 +389,56 @@
     <string name="command_allowclear">Включает/отключает команду /clear</string>
 
     // ITEMS
-    </resources>
+    <string name="clothing_demolition_backpack">Рюкзак Подрывника</string>
+    <string name="clothing_demolition_gloves">Перчатки Подрывника</string>
+    <string name="clothing_demolition_hat">Наушники Подрывника</string>
+    <string name="clothing_applicator_gloves">Перчатки Аппликатора</string>
+    <string name="clothing_applicator_hat">Капюшон Аппликатора</string>
+    <string name="clothing_farmer_gloves">Перчатки фермера</string>
+    <string name="clothing_farmer_hat">Шляпа Фермера</string>
+    <string name="clothing_farmer_jacket">Куртка Фермера</string>
+    <string name="clothing_farmer_pants">Штаны Фермера</string>
+    <string name="clothing_farmer_shoes">Ботинки Фермера</string>
+    <string name="clothing_crash_mechanic_gloves">Перчатки механика, потерпевшего крушение</string>
+    <string name="clothing_crash_mechanic_backpack">Рюкзак механика, потерпевшего крушение</string>
+    <string name="clothing_demolition_jacket">Куртка Подрывника</string>
+    <string name="clothing_demolition_pants">Штаны Подрывника</string>
+    <string name="clothing_demolition_shoes">Ботинки Подрывника</string>
+    <string name="clothing_applicator_jacket">Куртка Аппликатора</string>
+    <string name="clothing_applicator_pants">Штаны Аппликатора</string>
+    <string name="clothing_applicator_shoes">Ботинки Аппликатора</string>
+    <string name="clothing_crash_mechanic_jacket">Куртка механика, потерпевшего крушение</string>
+    <string name="clothing_crash_mechanic_pants">Штаны механика, потерпевшего крушение</string>
+    <string name="clothing_crash_mechanic_shoes">Ботинки механика потерпевшего крушение</string>
+    <string name="clothing_stuntman_gloves">Перчатки Трюкача</string>
+    <string name="clothing_stuntman_hat">Шлем Трюкача</string>
+    <string name="clothing_stuntman_backpack">Рюкзак Трюкача</string>
+    <string name="clothing_stuntman_jacket">Костюм Трюкача</string>
+    <string name="clothing_stuntman_pants">Штаны Трюкача</string>
+    <string name="clothing_stuntman_shoes">Ботинки Трюкача</string>
+    <string name="clothing_connection_tshirt">Футболка \"Соединения\"</string>
+    <string name="clothing_bearing_tshirt">Футболка \"Шестерня\"</string>
+    <string name="clothing_tomato_tshirt">Футболка \"Помидор\"</string>
+    <string name="clothing_totebot_tshirt_1">Футболка с узором в виде ботов</string>
+    <string name="clothing_totebot_tshirt_2">Футболка с тотемом</string>
+    <string name="clothing_axolot_tshirt">Футболка \"Axolot\"</string>
+    <string name="clothing_lift_tshirt">Футболка \"Нужен лифт\"</string>
+    <string name="clothing_farmbot_tshirt">Футболка Компании</string>
+    <string name="clothing_broccoli_tshirt">Футболка \"Брокколи\"</string>
+    <string name="clothing_banana_tshirt">Футболка \"Банан\"</string>
+    <string name="clothing_blueberry_tshirt">Футболка \"Черника\"</string>
+    <string name="clothing_duck_tshirt">Футболка \"Кря\"</string>
+    <string name="clothing_sensor_tshirt">Футболка \"Чувствительный\"</string>
+    <string name="clothing_seat_tshirt">Футболка \"Сиденье\"</string>
+    <string name="clothing_carrotpattern_tshirt">Футболка с узором в виде морковки</string>
+    <string name="clothing_gas_tshirt">Футболка \"Бензин\"</string>
+    <string name="clothing_logical_tshirt">Футболка \"Л - Логика\"</string>
+    <string name="clothing_pizzaburger_tshirt">Футболка \"Пицца-Бургер\"</string>
+    <string name="clothing_playing_wrong_tshirt">Футболка \"Играть не так\"</string>
+    <string name="clothing_totebot_tshirt_3">Футболка с ночным Тотботом</string>
+    <string name="clothing_controller_tshirt">Футболка \"Фанат Контроля\"</string>
+    <string name="clothing_cornpattern_tshirt">Футболка с узором в виде кукурузы</string>
+    <string name="command_tumble">Установить состояние падения</string>
+    <string name="command_ambush">Начинает случайное столкновение</string>
+    <string name="command_clear_debug">Очистить объекты отладки</string>
+</resources>
