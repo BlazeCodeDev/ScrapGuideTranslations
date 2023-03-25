@@ -4,7 +4,7 @@
     <string name="title_items">Elemek</string>
     <string name="title_more">Több</string>
     <string name="title_clothing">Ruházat</string>
-    <string name="title_chestloot">Láda Tartalom</string>
+    <string name="title_chestloot">Láda zsákmány</string>
     <string name="title_tutorials">Útmutatók</string>
     <string name="title_reddit">Reddit</string>
     <string name="farming_not_safe">Nem biztonságos a farmolás</string>
@@ -13,7 +13,7 @@
     <string name="farming_3rd_night">3. Éjszaka</string>
     <string name="yes">Igen</string>
     <string name="no">Nem</string>
-    <string name="please_try_again">Próbálja újra</string>
+    <string name="please_try_again">Próbáld újra</string>
     <string name="report_missing_item">Hiányzó elem jelentése</string>
     <string name="missing_item">Hiányzó Elem</string>
     <string name="about">Az alkalmazásról</string>
@@ -74,12 +74,12 @@
 
 
     // CREATURES
-    <string name="creatures_totebot">Totebot</string>
-    <string name="creatures_haybot">Haybot</string>
-    <string name="creatures_tapebot">Tapebot</string>
-    <string name="creature_glowb">Glowb</string>
-    <string name="creatures_haybot_description">A Haybot legkönnyebben a romok belsejében található. 5 ütés kalapáccsal, vagy 4 találat krumpliágyúval.</string>
-    <string name="creatures_farmbot_description">A Farmbot megtalálható őszi erdőben, leégett erdőben, erdőben és a romvárosban. A Farmbot-ok immunisak a kalapácsra és 58 találatok a krumpliágyúval, vagy 25 a krumpli shotgun-al.</string>
+    <string name="creatures_totebot">Cipelőbot</string>
+    <string name="creatures_haybot">Szénabot</string>
+    <string name="creatures_tapebot">Szalagbot</string>
+    <string name="creature_glowb">Fénybogár</string>
+    <string name="creatures_haybot_description">A Szénabot legkönnyebben a romok belsejében található. 5 ütés kalapáccsal, vagy 4 találat krumpliágyúval.</string>
+    <string name="creatures_farmbot_description">A Farmbot megtalálható őszi erdőben, leégett erdőben, erdőben és a romvárosban. A Farmbot-ok immunisak a kalapácsra és 58 találatok a krumpliágyúval, vagy 25 a sültkrumpli-sörétes puskával.</string>
     <string name="creatures_health">Életerő</string>
     <string name="creatures_damage">Sebzés</string>
     <string name="creatures_drops">Zsákmány</string>
@@ -87,7 +87,7 @@
 
     // CHEST LOOT
     <string name="damaged_crate">Sérült Láda</string>
-    <string name="golden_damaged_crate_warehouse">Arany Sérült Láda - Raktár</string>
+    <string name="golden_damaged_crate_warehouse">Sérült arany láda - Raktár</string>
     <string name="ruin_chest">Rom Láda</string>
     <string name="ruin_chest_warehouse">Rom Láda - Raktár</string>
 
@@ -121,26 +121,26 @@
     <string name="settings_usage_data_summary">Névtelen információ küldés az összeomlásról az alkalmazás fejlesztéséhez.</string>
     <string name="creatures_farmbot">Farmbot</string>
     <string name="tutorial_memory_setup2">Kösd az elsőt a másodikba és a másodikat a harmadikba. Ezután kösd a harmadikat az elsőbe. Figyelj a sorrendre.</string>
-    <string name="creature_woc">Woc</string>
-    <string name="creatures_totebot_description">A Totebot 3 ütés a kalapáccsal. Mindig jelen van rajtaütéseknél.</string>
+    <string name="creature_woc">Néhet</string>
+    <string name="creatures_totebot_description">A cipelőbot 3 ütés a kalapáccsal. Mindig jelen van rajtaütéseknél.</string>
     <string name="tutorial_timer_setup2">Állítsd az egyik logikai kaput AND-re, a másikat NOR-ra és az időzítőt a szügséges intervallumra. Én 500ms-re állítottam.</string>
-    <string name="creatures_tapebot_description">A kék Tapebot 55-öt sebez. A piros ami a Warehouse legfelső szintjén található és robban a lövése 62-őt sebez.</string>
-    <string name="creatures_woc_description">A Woc-ok Woctejet termelnek. Ha 3 cső kukoricát raksz egy Woc közelébe, tejet ad. Akárhányszor meg tudod ezt ismételni. Legalább egyszer meg kell etetni 30 naponta, vagy eltűnik.</string>
+    <string name="creatures_tapebot_description">A kék szalagbot 55-öt sebez. A piros, ami a Raktár legfelső szintjén található és robban a lövése, pedig 62-őt.</string>
+    <string name="creatures_woc_description">A Néhetek Néhet tejet termelnek. Ha 3 cső kukoricát raksz egy Néhet közelébe, tejet ad. Akárhányszor meg tudod ezt ismételni. Legalább egyszer meg kell etetni 30 naponta, vagy eltűnik.</string>
     <string name="EMAIL_TITLE">Hiba Jelentés</string>
-    <string name="creatures_glowb_description">A Glowb egy kis állat ami víz alatt található éjjel. Kiveheted őket a vízből, és ha megeteted 15 karton tömbbel ad egy Glow-t.</string>
+    <string name="creatures_glowb_description">A Fénybogár egy kis állat ami víz alatt található éjjel. Kiveheted őket a vízből, és ha megeteted 15 karton tömbbel ad egy Fényt-t.</string>
     <string name="title_locations">Helyek</string>
     <string name="damaged_crate_crash_site">Sérült Láda - Lezuhant Karbantartó Hajó</string>
-    <string name="title_creatures">Teremtmények</string>
+    <string name="title_creatures">Lények</string>
     <string name="damaged_crate_warehouse">Sérült Láda - Raktár</string>
     <string name="title_steam_updates">Steam Frissítések</string>
-    <string name="golden_damaged_crate">Arany Sérült Láda</string>
+    <string name="golden_damaged_crate">Sérült arany láda</string>
     <string name="SEND_EMAIL">E-Mail küldés … használatával</string>
     <string name="NO_EMAIL_CLIENT">Nem található E-Mail kliens</string>
     <string name="title_home">Főmenü</string>
     <string name="title_tutorial">Oktatóanyag</string>
     <string name="title_raid_calculator">Támadás Számoló</string>
     <string name="title_raid_calculator_condensed">Roham szint számoló</string>
-    <string name="tutorial_commands_copied">Másolt</string>
+    <string name="tutorial_commands_copied">Másolva</string>
     <string name="tutorial_commands_to_clipboard">vágólapra</string>
     <string name="tutorial_commands_only">Csak</string>
 
@@ -164,26 +164,135 @@
     <string name="trader">Kereskedő</string>
 
     // DESCRIPTIONS
-    <string name="can_be_traded_at_the_hideout">A menedéknél kereskedve megszerezhető.</string>
+    <string name="can_be_traded_at_the_hideout">A búvóhelynél kereskedve megszerezhető.</string>
     <string name="obtained_in_warehouse">A raktárépületben fellelhető.</string>
     <string name="block">Blokk</string>
     <string name="crafted_in_cookbot">A séf-bottal lehet elkészíttetni.</string>
     <string name="crafted_in_mechanic_station">A szerelő állomáson lehet elkészíteni.</string>
     <string name="can_be_found_at_crashsites">Zuhanási pontokon fellelhető.</string>
-    <string name="feed_to_wocs">Etesd Wocoknak hogy Woc tejhez juss.</string>
+    <string name="feed_to_wocs">Etesd Néheteknek hogy Néhet tejhez juss.</string>
     <string name="get_at_packing_station">A csomagoló állomáson szerezd meg.</string>
     <string name="scrap_metal_origin">Farmbot maradványok feldolgozásával megszerezhető.</string>
     <string name="scrap_stone_origin">Hogy megszerezd, fúrj nagy sziklákat amik az erdőben találhatók.</string>
-    <string name="scrap_wood_origin">Hogy megszerezd, vágj kis fákat (akác, kis fenyő és tölgy) vagy bontsd le a szegény farmerek vityillóit.</string>
-    <string name="chemical_origin">Megszerezhető sérült ládákból vagy vegyszerüzemekből kipumpálva, oda egy vödör is jó lesz, csak vigyázz mert a vegyzer mar.</string>
+    <string name="scrap_wood_origin">Hogy megszerezd, vágj kis fákat (akác, kis fenyő és tölgy) vagy bontsd le a szegény farmerek kunyhóit.</string>
+    <string name="chemical_origin">Megszerezhető sérült ládákból vagy vegyszerüzemekből kipumpálva, oda egy vödör is jó lesz, csak vigyázz mert mar.</string>
     <string name="pigment_flower_origin">Az erdőkben található virágok leszedésével szerzheted meg.</string>
-    <string name="circuit_board_origin">Sérült ládákból, vagy farmbotok kivégzésével juthatsz hozzá.</string>
+    <string name="circuit_board_origin">Sérült ládákból, vagy farmbotok megsemmisítésével juthatsz hozzá.</string>
     <string name="cotton_origin">Őszi erdőkben található.</string>
     <string name="ember_origin">Leégett erdőkben vágd ki az elszenesedett fákat hogy megszerezd.</string>
     <string name="images_diabled_ram">Képek kikapcsolva RAM hiány miatt.</string>
     <string name="dropped_by_damaged_crates">Sérült ládákból esik ki.</string>
-    <string name="is_near_structures_that_need_power">Mindig fellelhető az energia szükséges épületek környékén.</string>
+    <string name="is_near_structures_that_need_power">Mindig fellelhető az energiát igénylő épületek környékén.</string>
     <string name="glue_clam_origin">Hogy megszerezd üss szét nagy kagylókat a víz allatt.</string>
     <string name="tutorial_commands_description">Ezen parancsokat használhatod arra hogy megváltoztasd a játékot különböző módokon. Bekapcsolhatsz rejtett dolgokat, vagy idézhetsz dolgokat, csak légy óvatos. a chat-be írjad a a parancsokat.</string>
-    <string name="glow_origin">Adj egy glowbugnak 15 karton blokkot, és ő nos... kikakil neked fénylő ürüléket, de ne aggódj vagy nem radioaktív, vagy csak te vagy ellenálló. A víz allat honos, éjjeli állat. fel tudod venni hogy elvigyed, vagy csak meg csodáld a cuki fejét. A glowbugok sárga-zöld ragyogása segít őket sötétben megtalálni. Ő nem bánt, szóval te se bántsad.</string>
+    <string name="glow_origin">Adj egy glowbugnak 15 karton blokkot, és ő nos... kikakil neked fénylő ürüléket, de ne aggódj, vagy nem radioaktív, vagy csak te vagy ellenálló. A víz allat honos, éjjeli állat. fel tudod venni hogy elvigyed, vagy csak meg csodáld a cuki fejét. A glowbugok sárga-zöld ragyogása segít őket sötétben megtalálni. Ő nem bánt, szóval te se bántsad.</string>
+    <string name="close">Bezárás</string>
+    <string name="clothing_not_owned">Nem birtokolt</string>
+    <string name="settings_contributors">Hozzájárulók</string>
+    <string name="settings_contribute">Hozzájárulás</string>
+    <string name="settings_error_contributors">Hiba lépett fel a hozzájárulók betöltése közben</string>
+    <string name="common_fixes_creation_floppy_title">Az építményed egyes elemei le lettek csatolva</string>
+    <string name="special_thanks_title">Külön köszönettel</string>
+    <string name="open_source_licenses">Nyílt forráskódú licenszek</string>
+    <string name="tutorial_fixes">Általános javítások</string>
+    <string name="common_fixes_creation_not_moving_title">Az építmény nem mozog, vagy működik</string>
+    <string name="beeswax_origin">Szerezd meg méhkasok begyűjtésével, amik gyakran egy szikla oldalán találhatóak.</string>
+    <string name="packing_station_description">A plakát megmutatja, hogy hogyan használd. Szükséged lesz egy vákuum pumpára, ami csatlakoztatva van egy nagy ládához. Csatlakoztass egy gombot a vákuum pumpához és töltsd meg a ládát azzal, amivel meg szeretnéd tölteni a csomagolóállomást. A sáv az állomásnál megmutatja, hogy mennyi növényt kell még betenni, hogy kapjál egy ládányit.
+\n
+\nKét típusú csomagolóállomás létezik. Az egyik zöldségeket, a másik meg gyümölcsöket csomagol.
+\nVidd el a csomagolt ládákat a búvóhelyre.</string>
+    <string name="ruin_city_description">Tökéletes hely sérült ládák és COMPONETN KITEK fellelésére. Légy óvatos! Sokk itt a szénabot és a farmbot.</string>
+    <string name="special_thanks">GreenyDev -nek a roham kalkulátorért
+\nu/pengwynn06 -nek az általános építmény javításokért</string>
+    <string name="modpacks_in_settings">Engedélyezd a modpackokat a beállításokban</string>
+    <string name="hide">Elrejt</string>
+    <string name="modpack_hint">Talán egy modpackból való tárgyat keresel. A beállításokban engedélyezheted a modpackokat.</string>
+
+
+    // PREFERENCES
+    <string name="modpacks">Modpackok</string>
+    <plurals name="x_modpacks_enabled">
+        <item quantity="one">%d modpack van engedélyezve</item>
+        <item quantity="other">%d modpack van engedélyezve</item>
+    </plurals>
+
+
+    // MODPACKS
+    <string name="modpack_version_dates">Modpack verzió dátumok</string>
+    <string name="command_spudgun">Odaadja a krumpliágyút</string>
+    <string name="command_gatling">Odaadja a krumpli sorozatlövőt</string>
+    <string name="command_shotgun">Odaadja a sültkrumpli-sörétes puskát</string>
+    <string name="command_sunshake">Ad 1 sunshake-et</string>
+    <string name="command_baguette">Ad egy feltámasztó bagettet</string>
+    <string name="command_powercore">Ad egy energiamagot</string>
+    <string name="command_spawn">Egység idézése: woc, tapebot, totebot, haybot</string>
+    <string name="command_export">Tervrajz exportálása $SURVIVAL_DATA/LocalBlueprints/&lt;name&gt;.blueprint</string>
+    <string name="command_respawn">Újraéledés a legutóbbi ágynál (vagy a becsapódási ponton)</string>
+    <string name="command_time">Beállítja a nap időpontját tört formában (0.5 = dél)</string>
+    <string name="command_time_progress">Megállítja vagy elindítja a nap haladását</string>
+    <string name="command_limited">Limitált eszköztár használata</string>
+    <string name="command_unlimited">Nem limitált eszköztár használata</string>
+    <string name="command_encrypt">Interakciók korlátozása az összes raktárban</string>
+    <string name="command_decrypt">Interakciók korlátozásának feloldása az összes raktárban</string>
+    <string name="command_day">az idő előrehaladásának megállítása és nappalra állítása</string>
+    <string name="command_harvestable">Begyűjthető anyag létrehozása: tree, stone</string>
+    <string name="command_clear_debug">Debug rajz objektumok törlése</string>
+    <string name="command_import">Tervrajz importálása $SURVIVAL_DATA/LocalBlueprints/&lt;name&gt;.blueprint</string>
+    <string name="command_starterkit">Egy kezdőcsomag idézése</string>
+    <string name="command_set_hp">A játékos életpontjának beállítása</string>
+    <string name="command_set_water">A játékos hidratáltságának beállítása</string>
+    <string name="command_set_food">A játékos telítettségének beállítása</string>
+    <string name="command_pop_capsules">Minden kapszula kinyitása. Egy opcionális filterrel beállítható a típusa: bot, animal</string>
+    <string name="command_killall">Minden megidézett egység megsemmisítése</string>
+    <string name="crashed_maintenance_ship">Lezuhant karbantartó hajó</string>
+    <string name="crude_oil_origin">Szerezd meg a vízalatti olajbuborékok begyűjtésével.</string>
+    <string name="component_kit_origin">Alkotóelem készletek sérült ládákból, szénabotokból, szalagbotokból és farmbotokból eshetnek. Megtalálhatók még a romok ládáiban is.</string>
+    <string name="damage_sledgehammer">Sebzés: 20</string>
+    <string name="damage_spudgun">Sebzés: 28</string>
+    <string name="damage_spud_shotgun">Sebzés: 64 (16 sültkrumplinként)</string>
+    <string name="damage_spudling_gun">Sebzés: 20</string>
+
+
+    // LOCATIONS
+    <string name="autumn_forest">Őszi erdő</string>
+    <string name="farmers_hideout">Búvóhely</string>
+    <string name="mechanic_station">Szervízállomás</string>
+    <string name="warehouse">Raktár</string>
+    <string name="farmer_shack">Farmer kunyhó</string>
+    <string name="ruin">Rom</string>
+    <string name="packing_station">Csomagolóállomás</string>
+    <string name="haymaze">Széna labirintus</string>
+    <string name="haymaze_description">Egy labirintus szénából. Nincs itt semmi érdekes.</string>
+    <string name="ruin_description">Többféle rom van. Általában van bennük sérült láda és rom láda is. Szénabotok találhatóak a romban és környékén szénahalmokkal együtt. Ütsd meg őket, vagy lőjj rájuk, hogy felfedj egy sérült ládát. Nem minden szénahalomban van láda.</string>
+    <string name="farmer_shack_description">Farmer kunyhók utak mellet találhatóak. Földet, magokat és sok építőanyagot lelhetsz bennük. A farmerek egy időben itt éltek és árulták a dolgaikat.</string>
+    <string name="crashed_maintenance_ship_description">Egy általános akkumlátor szükséges az alap kraftbot aktiválásához. A közelben találhatsz farmfelszerelést. A sárga doboz a pilótafülkében tartalmaz egy hajónaplót.</string>
+    <string name="mechanic_station_description">A szervízállomás tetején van egy nagy, megvilágított csavarkulcs. Szükséged lesz egy általános akkumlátorra, hogy beüzemeld az állomást. Miután betetted aktiválódni fog a barkácskonzol is, amit ruhabot, craftbot, séfbot, feldolgozóbot és nyersanyag gyüjtő barkácsolására használhatsz fel.</string>
+    <string name="farmers_hideout_description">Hozd a búvóhelyre a beládázott növényeidet, vagy a ketreces srácot. Le tudsz tenni dolgokat rakodófelületre és megnyomhatod a gombot mellette. Ez beszívja az alapanyagokat, amiket el tudsz majd cserélni.
+\n
+\nTudsz vásárolni például ritka magokat, vagy krumpliágyút.</string>
+    <string name="autumn_forest_description">Ez egy jó hely pamutot, vagy akár ketrecbe zárt farmereket keresni.</string>
+    <string name="burned_forest">Leégett erdő</string>
+    <string name="burned_forest_description">Itt találhatsz parazsat, amit barkácsoláshoz tudsz használmi. Csak ütsd meg a kalapáccsal a fákat és megszerezheted.</string>
+    <string name="chemical_plant_description">Ne zuhanj a lila tóba, mert vegyszer van benne. Használhatsz pumpát, vagy vödröket, hogy kinyerd a vegyszert.</string>
+    <string name="forest">Erdő</string>
+    <string name="forest_description">Jó forrása a fának és kőnek. Ajánlott egy fűrésszel és egy fúróval jönni, hogy a legtöbbet ki tudd belőle hozni.</string>
+    <string name="ruin_city">Romváros</string>
+    <string name="water_plant">Növény megöntözése</string>
+    <string name="chemical_plant">Növény megvegyszerezése</string>
+    <string name="water_plant_description">A terület a víz környékén lapos és sok a víz, ami tökéletes farmmá teszi a helyet. Valamint könnyen védhető.</string>
+    <string name="underwater">Víz alatt</string>
+    <string name="stone_woc">Kő Néhet</string>
+    <string name="oil_lake">Olajtó</string>
+    <string name="oil_lake_description">Az olajtavak sivatagokban találhatóak. Használhatod őket arra, hogy kipumpálj belőlük olajat.</string>
+
+    //CLOTHING
+    <string name="clothing_owned">Birtokolt</string>
+    <string name="settings_translations_introduction">Ez a projekt a közösségből való önkéntesek által lett lefordítva. Rendkívül hálás vagyok minden féle segítségért. Nélkülük ez nem lenne lehetséges. Ha szeretnél segíteni, akkor nyomd meg a gombot lentebb, regisztrálj és te is listázva leszel hozzájárulóként.</string>
+    <string name="warehouse_description">Ez a legveszélyesebb terület túlélő módban. Szükséged lesz egy raktár kulcsra a bejztáshoz, amit a gonosz piros farmbot elpusztításával szerezhetsz meg.
+\n
+\nA raktárak két-, három-, vagy négy szinttel is generálódhatnak. Minden típusnak van egy szobája a legfelső szinten, ahol öt sérült epikus ládát lehet találni. Ebből adódóan ajánlott a kétszinteset választani.
+\n
+\nSzalagbotok ólálkodnak a raktárakban és környékükön. Mivel lőnek rád több, mint ajánlott, hogy szerezz egy krumpliágyút mielőtt odamész. A piros szalagbotok robbanó szalagokat lőnek. Farmbotok a négy szintes raktárak aljában találhatóak meg.</string>
+    <string name="command_keycard">Ad 1 kulcskártyát</string>
+    <string name="command_die">Játékos megölése</string>
 </resources>
