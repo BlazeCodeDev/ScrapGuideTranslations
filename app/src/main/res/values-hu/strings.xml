@@ -278,7 +278,7 @@
     <string name="forest_description">Jó forrása a fának és kőnek. Ajánlott egy fűrésszel és egy fúróval jönni, hogy a legtöbbet ki tudd belőle hozni.</string>
     <string name="ruin_city">Romváros</string>
     <string name="water_plant">Növény megöntözése</string>
-    <string name="chemical_plant">Növény megvegyszerezése</string>
+    <string name="chemical_plant">Vegyszer növény</string>
     <string name="water_plant_description">A terület a víz környékén lapos és sok a víz, ami tökéletes farmmá teszi a helyet. Valamint könnyen védhető.</string>
     <string name="underwater">Víz alatt</string>
     <string name="stone_woc">Kő Néhet</string>
