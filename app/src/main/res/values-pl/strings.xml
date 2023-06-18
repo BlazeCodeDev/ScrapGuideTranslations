@@ -342,4 +342,11 @@
 \nSą dwa typy stacji pakowania.
 \nJedna przyjmuje warzywa a druga owoce. Zabierz skrzynie do kryjówki.</string>
     <string name="crashed_maintenance_ship_description">Główna bateria jest wymagana do aktywowania podstawowego Craftbota w środku. Niedaleko znajdziesz podstawowy sprzęt rolniczy. Żółte pudełko w kokpicie zawiera dziennik.</string>
+    <string name="modpacks_in_settings">Włącz modyfikacje w ustawieniach</string>
+    <string name="hide">Ukryj</string>
+    <string name="modpack_hint">Czy patrzysz na części z modyfikacji. Możesz włączyć modyfikacje w ustawieniach.</string>
+
+
+    // PREFERENCES
+    <string name="modpacks">Modyfikacje</string>
 </resources>
