@@ -1,2 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="SEND_EMAIL">Invia un email usando…</string>
+    <string name="NO_EMAIL_CLIENT">Nessuna email trovata</string>
+    <string name="title_items">Oggetti</string>
+    <string name="title_more">Più</string>
+    <string name="title_locations">Luoghi</string>
+    <string name="title_creatures">Creature</string>
+    <string name="title_clothing">Vestiti</string>
+    <string name="title_chestloot">Loot delle chest</string>
+    <string name="title_tutorials">Tutorial</string>
+    <string name="title_raid_calculator">Calcola il Raid</string>
+    <string name="title_raid_calculator_condensed">Calcola il Raid</string>
+    <string name="title_steam_updates">Aggiornamenti di Steam</string>
+    <string name="farming_safe">Le piante sono al sicuro</string>
+    <string name="farming_not_safe">Le piante non sono al sicuro</string>
+    <string name="farming_1st_night">Prima notte</string>
+    <string name="farming_3rd_night">Terza notte</string>
+    <string name="search">Cerca</string>
+    <string name="close">Chiudi</string>
+    <string name="yes">Si</string>
+    <string name="please_try_again">Prova un\' altra volta</string>
+    <string name="no_item_found">Nessun oggetto trovato</string>
+    <string name="missing_item">Oggetto mancante</string>
+    <string name="about">Su questa App</string>
+    <string name="images_diabled_ram">Immagini disabilitate per carenza di RAM.</string>
+    <string name="website_axolot_title">Visita il sito di Axolot</string>
+    <string name="sm_steam_title">Compra Scrap Mechanic su Steam</string>
+    <string name="visit_sm_wiki">Visita il Wiki di Scrap Mechanic</string>
+    <string name="visit_my_website">Visita il mio sito</string>
+    <string name="please_rate">Ti piace questa app\?</string>
+    <string name="leave_feedback">Se ti piace usare questa app, ti dispiacerebbe dedicare un momento a valutarla\? Non ci vorrà più di un minuto. Grazie per il vostro sostegno!</string>
+    <string name="rate_now">Vota adesso</string>
+    <string name="no_thanks">No grazie</string>
+    <string name="later">Più tardi</string>
+    <string name="app_version">Versione dell\'app</string>
+    <string name="data_for_sm_version">Dati per la versione ScrapMechanic</string>
+    <string name="changing_lang">Cambiando la lingua</string>
+    <string name="rearrange">Riorganizza</string>
+    <string name="no_internet_connection">Nessuna connessione internet</string>
+    <string name="copied_id">Copiato l\'ID negli appunti</string>
+    <string name="notepad">Blocco note</string>
+    <string name="notepad_title">Titolo</string>
+    <string name="notepad_text">Testo</string>
+    <string name="save">Salva</string>
+    <string name="field_cannot_be_empty">Questo campo non può essere vuoto</string>
+    <string name="delete">Cancella</string>
+    <string name="update_downloaded">Un aggiornamento è stato scaricato</string>
+    <string name="update_install">Installa</string>
+    <string name="gamemode_creative">Modalità creativa</string>
+    <string name="gamemode_survival">Modalità sopravvivenza</string>
+    <string name="gamemode_challenge">Modalità sfida</string>
+    <string name="clear_filters">Resetta i filtri</string>
+    <string name="image_not_found">Immagine non trovata!</string>
+    <string name="always">Sempre</string>
+    <string name="common">Comune</string>
+    <string name="uncommon">Non comune</string>
+    <string name="rare">Raro</string>
+    <string name="hide">Nascondi</string>
+    <string name="settings_category_general">Generale</string>
+    <string name="settings_language">Lingua</string>
+    <string name="EMAIL_TITLE">Riporta i bug</string>
+    <string name="title_home">Home</string>
+    <string name="title_settings">Impostazioni</string>
+    <string name="title_tutorial">Tutorial</string>
+    <string name="farming_2nd_night">Seconda notte</string>
+    <string name="report_missing_item">Segnala un oggetto mancante</string>
+    <string name="disclaimer_text">Questa App non è associata o autorizzata da Axolot Games. I nomi Scrap Mechanic e Axolot Games nonché i relativi nomi, marchi, emblemi e immagini sono marchi registrati dei rispettivi proprietari. Questa app è creata da un fan per i fan. Un enorme ringraziamento al Wiki di ScrapMechanic!</string>
+    <string name="restore_default">Sei sicuro di voler ripristinare l\'ordine predefinito\?</string>
+    <string name="tap_plus_to_add_note">Tocca l\'icona più per aggiungere una nuova nota</string>
+    <string name="modpacks_in_settings">Abilita le modpack nelle impostazioni</string>
+    <string name="modpack_hint">Forse stai cercando un oggetto di una modpack. Puoi abilitare l\'inclusione dei modpack nelle impostazioni.</string>
+
+
+    // PREFERENCES
+    </resources>
