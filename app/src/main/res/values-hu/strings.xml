@@ -295,4 +295,5 @@
 \nSzalagbotok ólálkodnak a raktárakban és környékükön. Mivel lőnek rád több, mint ajánlott, hogy szerezz egy krumpliágyút mielőtt odamész. A piros szalagbotok robbanó szalagokat lőnek. Farmbotok a négy szintes raktárak aljában találhatóak meg.</string>
     <string name="command_keycard">Ad 1 kulcskártyát</string>
     <string name="command_die">Játékos megölése</string>
+    <string name="command_ammo">Magyar</string>
 </resources>
