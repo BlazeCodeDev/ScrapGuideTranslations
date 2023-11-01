@@ -19,7 +19,7 @@
     <string name="yes">Ja</string>
     <string name="no">Nein</string>
     <string name="please_try_again">Bitte erneut versuchen</string>
-    <string name="images_diabled_ram">Bilder wegen zu wenig Arbeitsspeicher ausgeblendet.</string>
+    <string name="images_diabled_ram">Bilder wegen niedrigen Arbeitsspeicher ausgeblendet.</string>
     <string name="no_item_found">Kein Gegenstand gefunden!</string>
     <string name="report_missing_item">Fehlenden Gegenstand melden</string>
     <string name="missing_item">Fehlender Gegenstand</string>
@@ -31,7 +31,7 @@
     <string name="visit_sm_wiki">ScrapMechanic Wiki besuchen</string>
     <string name="visit_my_website">Meine Website besuchen</string>
     <string name="please_rate">Magst du die App?</string>
-    <string name="leave_feedback">Wenn dir die App gefällt würde ich mich sehr über eine Bewertung freuen. Es dauert nicht länger als eine Minute. Danke für die Unterstützung!</string>
+    <string name="leave_feedback">Wenn dir die App gefällt würden wir uns sehr über eine Bewertung freuen. Es dauert nicht länger als eine Minute. Vielen Dank für die Unterstützung!</string>
     <string name="rate_now">Jetzt bewerten</string>
     <string name="no_thanks">Nein, Danke</string>
     <string name="later">Später</string>
@@ -48,7 +48,7 @@
     <string name="settings_usage_data">Sende Absturz- und Nutzungsdaten</string>
     <string name="settings_usage_data_summary">Sende anonyme Daten über Abstürze und die Nutzung der App, um sie weiter zu verbessern.</string>
     <string name="settings_contribute_translation">Trage zur Übersetzung bei</string>
-    <string name="settings_translations_not_final">Die Übersetzungen sind nicht final und ich bin über jede Hilfe dankbar.</string>
+    <string name="settings_translations_not_final">Die Übersetzungen sind nicht fertig und ich bin über jede Hilfe dankbar.</string>
     <string name="settings_report_bug">Fehler Melden</string>
     <string name="settings_report_bug_summary">Sende Informationen über Fehler oder Vorschläge wie die App weiter verbessert werden kann.</string>
     <string name="settings_what_report">Was möchtest du melden?</string>
@@ -137,7 +137,7 @@
     <string name="creatures_farmbot_description">Der Farmbot kann im Herbstwald, verbrannten Wald, Wald und der Ruinenstadt gefunden werden. Er ist immun gegen den Hammer und hält 58 Schüsse mit der Knollenkanone oder 25 Schüsse mit der Knollenflinte aus.</string>
     <string name="creatures_woc_description">Wocs produzieren Woc Milch. Wenn 3 Maiskolben neben einem Woc plaziert werden wird Milch erscheinen. Das kann unendlich oft gemacht werden. Sie müssen mindestens einmal alle 30 Tage gefüttert werden, sonst verschwinden sie.</string>
     <string name="creatures_glowb_description">Der Glowb ist ein kleines Tier, welches nachts und unterwasser erscheint. Sie können aus dem Wasser genommen werden und mit 15 Pappkartonblöcken gefüttert werden. Dann werden sie 1 Glow (Leuchten) fallen lassen.</string>
-    <string name="creatures_drops">Gegenstände</string>
+    <string name="creatures_drops">Drops</string>
     <string name="creatures_health">Gesundheit</string>
     <string name="creatures_damage">Schaden</string>
     <string name="title_creatures">Kreaturen</string>
@@ -156,7 +156,7 @@
     <string name="restore_default">Sicher, dass die Standardreihenfolge wiederhergestellt werden soll?</string>
     <string name="no_internet_connection">Keine Verbindung zum Internet</string>
     <string name="settings_data_loading">Bilder laden</string>
-    <string name="settings_data_loading_wifi">Nur mit WiFi</string>
+    <string name="settings_data_loading_wifi">Nur mit Wlan</string>
     <string name="settings_data_loading_always">Immer</string>
     <string name="tutorial_memory">Speicher</string>
     <string name="tutorial_memory_description">Speicher in ScrapMechanic besteht aus 3 Logikgattern. Damit kann ein Bit gespeichert werden. Zum Beispiel kann damit ein Knopf zum Schalter umfunktioniert werden. Jede größere Kreation welche auf Logikgattern basiert wird Speicher benötigen.</string>
@@ -340,7 +340,7 @@
     <string name="clothing_crash_mechanic_jacket">Beschädigte Mechanikerjacke</string>
     <string name="clothing_crash_mechanic_pants">Beschädigte Mechanikerhose</string>
     <string name="clothing_crash_mechanic_shoes">Beschädigte Mechanikerschuhe</string>
-    <string name="settings_translations_introduction">Dieses Projekt wurde von Freiwilligen aus der Community übersetzt. Ich bin sehr dankbar für jede Hilfe, ohne diese wäre das nicht möglich. Wenn du zur Übersetzung beitragen möchtest tippe bitte die Schaltfläche unten und registriere dich. Danach wirst du automatisch als Mitwirkender erwähnt.</string>
+    <string name="settings_translations_introduction">Dieses Projekt wurde von Freiwilligen aus der Community übersetzt. Ich bin sehr dankbar für jede Hilfe, ohne diese wäre das nicht möglich. Wenn du zur Übersetzung beitragen möchtest tippe bitte auf die Schaltfläche unten und registriere dich. Danach wirst du automatisch als Mitwirkender erwähnt.</string>
     <string name="settings_contributors">Mitwirkende</string>
     <string name="settings_contribute">Beitragen</string>
     <string name="settings_error_contributors">Fehler beim Laden der Mitwirkenden</string>
@@ -348,7 +348,7 @@
     <string name="special_thanks_title">Besonderer Dank</string>
     <string name="open_source_licenses">Open Source Lizenzen</string>
     <string name="tutorial_fixes">Lösungen für häufige Probleme</string>
-    <string name="common_fixes_creation_not_moving_title">Bauwerk bewegt sich nicht</string>
+    <string name="common_fixes_creation_not_moving_title">Kreation bewegt sich nicht</string>
     <string name="special_thanks">GreenyDev für den Raid Rechner
 \nu/pengwynn06 für die Lösungen für häufige Probleme</string>
     <string name="common_fixes_creation_not_moving_problem">Logikblöcke, Schalter und Knöpfe funktionieren. Gegenstände wie Stoßdämpfer, Motoren, Kolben, Steuereinheiten und Lager funktionieren nicht.</string>
@@ -364,7 +364,7 @@
     <string name="common_fixes_creation_stuck_problem">Bewegliche Teile bleiben manchmal stecken. Besonders oft passiert das bei Türen.</string>
     <string name="common_fixes_creation_stuck_solution1">Das ist ein häufig auftretendes Problem. Um das fest steckende Teil zu befreien platziere einen Block daran oder färbe es. Damit zwingst du das Spiel denn Block zu aktualisieren und damit zu befreien.</string>
     <string name="common_fixes_creation_stuck_solution2">Stelle sicher, dass alle beweglichen Teile aus Blöcken sind mit einem geringen Reibungswert. Du könntest auch mehre Lager oder Kolben verwenden.</string>
-    <string name="common_fixes_creation_laggy_title">Bauwerk ist sehr groß und ruckelt</string>
+    <string name="common_fixes_creation_laggy_title">Kreation ist sehr groß und ruckelt</string>
     <string name="common_fixes_creation_laggy_problem">Das Bauwerk ist groß, ruckelt und funktioniert deswegen nicht richtig.</string>
     <string name="common_fixes_creation_laggy_solution1">Wenn deine Kreation kein Fahrzeug ist schweiße es an dem Boden fest! Platziere einen temporären Block im Boden und schweiße dein Bauwerk an diesen Block. Danach kannst du den temporären Block löschen.</string>
     <string name="common_fixes_creation_laggy_solution2">Versuche die Anzahl der beweglichen Teile wie Stoßdämpfer, Lager und Kolben zu minimieren. Manchmal sind die einfachen Lösungen die besten!</string>
@@ -379,7 +379,7 @@
     <string name="common_fixes_items_fallen_through_map_title">Deine Kreation ist durch den Boden gefallen</string>
     <string name="common_fixes_items_fallen_through_map_problem">Eine Kreation oder einige Blöcke sind durch den Boden gefallen.</string>
     <string name="common_fixes_items_fallen_through_map_solution1">Im besten Fall wird das Objekt aus dem Himmel fallen. Überprüfe ob es dabei irgendwo hängen geblieben ist.</string>
-    <string name="common_fixes_items_fallen_through_map_solution2">Alternativ kannst du einen kleinen Trick benutzen. Baue einige Blöcke nach unten vom Lift aus und platziere einen Sitz daran. Setze dich hinein und fahre dann den Lift nach unten. Jetzt kannst du deine Kreation einfangen.</string>
+    <string name="common_fixes_items_fallen_through_map_solution2">Alternativ kannst du einen kleinen Trick benutzen. Baue einige Blöcke nach unten vom Lift aus und platziere einen Sitz daran. Setze dich hinein und fahre dann den Lift nach unten. Jetzt kannst du deine Kreation einsammeln.</string>
     <string name="common_fixes_player_fallen_through_map_title">Du bist durch den Boden gefallen</string>
     <string name="common_fixes_player_fallen_through_map_problem">Du bist durch den Boden gefallen.</string>
     <string name="common_fixes_player_fallen_through_map_solution1">Keine Sorge! Es wird sich ein Fenster öffnen und danach wirst du zurück an die Oberfläche teleportiert.</string>
@@ -387,7 +387,7 @@
     <string name="tutorial_fixes_description">Lösungen für häufig auftretende Probleme im Spiel beim Bauen von neuen Gerätschaften, Fahrzeugen oder einfach beim Mehrspielermodus spielen</string>
     <string name="common_fixes_creation_not_moving_solution1">Überprüfe ob das Bauwerk noch auf dem Lift steht. Dafür kannst du den Lift auf den Boden neben dein Bauwerk setzen oder die Pfeiltasten benutzen um ihn zu bewegen.</string>
     <string name="hide">Verstecken</string>
-    <string name="modpack_hint">Vielleicht suchst du nach einem Modpack Gegenstand. Du kannst Modpacks in den Einstellungen aktivieren.</string>
+    <string name="modpack_hint">Vielleicht suchst du nach einem Gegenstand aus einem Modpack. Du kannst Modpacks in den Einstellungen aktivieren.</string>
 
 
     // PREFERENCES
