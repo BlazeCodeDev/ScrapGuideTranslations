@@ -195,7 +195,7 @@
     <string name="special_thanks_title">Külön köszönettel</string>
     <string name="open_source_licenses">Nyílt forráskódú licenszek</string>
     <string name="tutorial_fixes">Általános javítások</string>
-    <string name="common_fixes_creation_not_moving_title">Az építmény nem mozog, vagy működik</string>
+    <string name="common_fixes_creation_not_moving_title">Az építmény nem mozog/működik</string>
     <string name="beeswax_origin">Szerezd meg méhkasok begyűjtésével, amik gyakran egy szikla oldalán találhatóak.</string>
     <string name="packing_station_description">A plakát megmutatja, hogy hogyan használd. Szükséged lesz egy vákuum pumpára, ami csatlakoztatva van egy nagy ládához. Csatlakoztass egy gombot a vákuum pumpához és töltsd meg a ládát azzal, amivel meg szeretnéd tölteni a csomagolóállomást. A sáv az állomásnál megmutatja, hogy mennyi növényt kell még betenni, hogy kapjál egy ládányit.
 \n
@@ -235,7 +235,7 @@
     <string name="command_encrypt">Interakciók korlátozása az összes raktárban</string>
     <string name="command_decrypt">Interakciók korlátozásának feloldása az összes raktárban</string>
     <string name="command_day">az idő előrehaladásának megállítása és nappalra állítása</string>
-    <string name="command_harvestable">Begyűjthető anyag létrehozása: tree, stone</string>
+    <string name="command_harvestable">Begyűjthető anyag létrehozása: fa, kő</string>
     <string name="command_clear_debug">Debug rajz objektumok törlése</string>
     <string name="command_import">Tervrajz importálása $SURVIVAL_DATA/LocalBlueprints/&lt;name&gt;.blueprint</string>
     <string name="command_starterkit">Egy kezdőcsomag idézése</string>
@@ -295,5 +295,37 @@
 \nSzalagbotok ólálkodnak a raktárakban és környékükön. Mivel lőnek rád több, mint ajánlott, hogy szerezz egy krumpliágyút mielőtt odamész. A piros szalagbotok robbanó szalagokat lőnek. Farmbotok a négy szintes raktárak aljában találhatóak meg.</string>
     <string name="command_keycard">Ad 1 kulcskártyát</string>
     <string name="command_die">Játékos megölése</string>
-    <string name="command_ammo">Magyar</string>
+    <string name="command_ammo">Adni &lt;mennyiség&gt; ammó (alap 50)</string>
+    <string name="clothing_automotive_backpack">Automotív hátizsák</string>
+    <string name="clothing_automotive_gloves">Automonív kesztyűk</string>
+    <string name="clothing_automotive_hat">Automotív sapka</string>
+    <string name="clothing_automotive_jacket">Automotív mellény</string>
+    <string name="clothing_automotive_pants">Automotív nadrág</string>
+    <string name="clothing_automotive_shoes">Automotív cipők</string>
+    <string name="clothing_delivery_backpack">Futár hátizsák</string>
+    <string name="common_fixes_creation_lost_title">Elvesztetted a kreációdat</string>
+    <string name="common_fixes_items_fallen_through_map_title">Egy kreáció átesett a padlón</string>
+    <string name="common_fixes_creation_laggy_title">A kreáció nagyon nagy és laggos</string>
+    <string name="command_glowsticks">Adni &lt;mennyiség&gt; világítórúd (alap 10)</string>
+    <string name="command_components">Adni &lt;mennyiség&gt; alkatrészek (alap 10)</string>
+    <string name="command_tumble">Esési állapot beállítása</string>
+    <string name="command_god">Mekanikus karakterek nem fognak kapni sebzést</string>
+    <string name="command_ambush">Elindít egy véletlenszerű találkozást</string>
+    <string name="command_pipekit">Lerak egy cső csomagot</string>
+    <string name="command_foodkit">Lerak egy étel csomagot</string>
+    <string name="command_seedkit">Lerak egy mag csomagot</string>
+    <string name="command_mechanic_starterkit">Lerak egy kezdő csomagot a mekanikus állomási kezdéshez</string>
+    <string name="command_dropscrap">Ki/be kapcsolja a hulladék zsákmányt a \"szénabotoktól\"</string>
+    <string name="command_restrictions">Ki/be kapcsolja a korlátozásokat a kreációkon</string>
+    <string name="command_aggroall">Minden ellenséges lény tudni fogja, hogy hol a játékos</string>
+    <string name="comamnd_clear">Kitöröl minden alakot a világból. Elsőnek be kell kapcsolni a /allowclear parancsal</string>
+    <string name="command_allowclear">Ki/be kapcsolja a /clear parancsot</string>
+
+    // ITEMS
+    <string name="underwater_description">It megtalálhatod a ragasztó kagylókat, a nyersolajat és a Glowb-t. Ez egy kicsi fényt kibocsájtó, zöld/sárga színű lény. Kidob egy glow-t ha megetetsz vele 15 karton blokkot.</string>
+    <string name="stone_woc_description">Egy legelő egy kőböl készült néhettel, ami körül van véve rengeteg igazi néhettel. Megtalálhatod az erdő közepén.</string>
+    <string name="common_fixes_creation_stuck_title">A kreáció egyik mozgó eleme beragadt</string>
+    <string name="common_fixes_creation_floating_title">Kreáció glitchel vagy lassú-esés -ezik amikor nem a liften van</string>
+    <string name="common_fixes_creation_floating_problem">Ez azokra a kreációkra vonatkozik amiken van felfüggesztés.</string>
+    <string name="common_fixes_player_fallen_through_map_problem">Átestél a padlón.</string>
 </resources>
