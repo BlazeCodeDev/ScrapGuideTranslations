@@ -328,4 +328,19 @@
     <string name="common_fixes_creation_floating_title">Kreáció glitchel vagy lassú-esés -ezik amikor nem a liften van</string>
     <string name="common_fixes_creation_floating_problem">Ez azokra a kreációkra vonatkozik amiken van felfüggesztés.</string>
     <string name="common_fixes_player_fallen_through_map_problem">Átestél a padlón.</string>
+    <string name="clothing_delivery_gloves">Futár kesztyűk</string>
+    <string name="clothing_delivery_hat">Futár sapka</string>
+    <string name="clothing_delivery_jacket">Futár dzseki</string>
+    <string name="clothing_delivery_shoes">Futár cipők</string>
+    <string name="clothing_lumberjack_backpack">Favágó hátizsák</string>
+    <string name="clothing_lumberjack_hat">Favágó sapka</string>
+    <string name="clothing_lumberjack_jacket">Favágó dzseki</string>
+    <string name="clothing_lumberjack_pants">Favágó nadrág</string>
+    <string name="clothing_lumberjack_shoes">Favágó cipők</string>
+    <string name="clothing_engineer_backpack">Mérnök hátizsák</string>
+    <string name="clothing_painter_backpack">Festő hátizsák</string>
+    <string name="clothing_golf_backpack">golf hátizsák</string>
+    <string name="clothing_lumberjack_gloves">Favágó kesztyűk</string>
+    <string name="command_place">Lerak egy begyűjthető tárgyat a célzott helyre. Csak is talajra lehet lerakni. A begyűjthető tárgy paraméter irányítja hogy melyik begyűjthető tárgy legyen lerakva: kő, fa, nyírfa, leveles, fenyő, tuja</string>
+    <string name="clothing_delivery_pants">Futár nadrág</string>
 </resources>
