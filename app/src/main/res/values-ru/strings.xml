@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="SEND_EMAIL">Отправить мне письмо с …</string>
+    <string name="SEND_EMAIL">Отправьте электронное письмо с помощью…</string>
     <string name="NO_EMAIL_CLIENT">Почтовый адрес не найден</string>
     <string name="title_home">Домой</string>
     <string name="title_settings">Настройки</string>
